@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Providers/AuthServiceProvider.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/app/Providers/AuthServiceProvider.php"
+>
+  <violation
+    line="6"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 83 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 83 characters"
+  />
+  <violation
+    line="15"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;policies&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;policies&quot; must contain a leading underscore"
+  />
+  <line number='1'>&lt;?php</line>
+  <line number='2'></line>
+  <line number='3'>namespace App\Providers;</line>
+  <line number='4'></line>
+  <line number='5'>use Illuminate\Contracts\Auth\Access\Gate as GateContract;</line>
+  <line number='6'>use Illuminate\Foundation\Support\Providers\AuthServiceProvider as ServiceProvider;</line>
+  <line number='7'></line>
+  <line number='8'>class AuthServiceProvider extends ServiceProvider</line>
+  <line number='9'>{</line>
+  <line number='10'>    /**</line>
+  <line number='11'>     * The policy mappings for the application.</line>
+  <line number='12'>     *</line>
+  <line number='13'>     * @var array</line>
+  <line number='14'>     */</line>
+  <line number='15'>    protected $policies = [</line>
+  <line number='16'>        'App\Model' =&gt; 'App\Policies\ModelPolicy',</line>
+  <line number='17'>    ];</line>
+  <line number='18'></line>
+  <line number='19'>    /**</line>
+  <line number='20'>     * Register any application authentication / authorization services.</line>
+  <line number='21'>     *</line>
+  <line number='22'>     * @param  \Illuminate\Contracts\Auth\Access\Gate  $gate</line>
+  <line number='23'>     * @return void</line>
+  <line number='24'>     */</line>
+  <line number='25'>    public function boot(GateContract $gate)</line>
+  <type type='checkstyle' number='2' suppressed='0'/>
+</file>

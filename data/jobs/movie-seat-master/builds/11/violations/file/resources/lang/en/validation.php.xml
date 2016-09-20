@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="resources/lang/en/validation.php"
+  last-modified="1474349610000"
+  file="/var/jenkins_home/workspace/movie-seat-master/resources/lang/en/validation.php"
+>
+  <violation
+    line="20"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 94 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 94 characters"
+  />
+  <violation
+    line="21"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 85 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 85 characters"
+  />
+  <violation
+    line="33"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 82 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 82 characters"
+  />
+  <violation
+    line="36"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 85 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 85 characters"
+  />
+  <violation
+    line="62"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 88 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 88 characters"
+  />
+  <violation
+    line="63"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 94 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 94 characters"
+  />
+  <violation
+    line="64"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 90 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 90 characters"
+  />
+  <violation
+    line="65"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 90 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 90 characters"
+  />
+  <violation
+    line="66"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 94 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 94 characters"
+  />
+  <violation
+    line="67"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 99 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 99 characters"
+  />
+  <line number='11'>    | the validator class. Some of these rules have multiple versions such</line>
+  <line number='12'>    | as the size rules. Feel free to tweak each of these messages here.</line>
+  <line number='13'>    |</line>
+  <line number='14'>    */</line>
+  <line number='15'></line>
+  <line number='16'>    'accepted'             =&gt; 'The :attribute must be accepted.',</line>
+  <line number='17'>    'active_url'           =&gt; 'The :attribute is not a valid URL.',</line>
+  <line number='18'>    'after'                =&gt; 'The :attribute must be a date after :date.',</line>
+  <line number='19'>    'alpha'                =&gt; 'The :attribute may only contain letters.',</line>
+  <line number='20'>    'alpha_dash'           =&gt; 'The :attribute may only contain letters, numbers, and dashes.',</line>
+  <line number='21'>    'alpha_num'            =&gt; 'The :attribute may only contain letters and numbers.',</line>
+  <line number='22'>    'array'                =&gt; 'The :attribute must be an array.',</line>
+  <line number='23'>    'before'               =&gt; 'The :attribute must be a date before :date.',</line>
+  <line number='24'>    'between'              =&gt; [</line>
+  <line number='25'>        'numeric' =&gt; 'The :attribute must be between :min and :max.',</line>
+  <line number='26'>        'file'    =&gt; 'The :attribute must be between :min and :max kilobytes.',</line>
+  <line number='27'>        'string'  =&gt; 'The :attribute must be between :min and :max characters.',</line>
+  <line number='28'>        'array'   =&gt; 'The :attribute must have between :min and :max items.',</line>
+  <line number='29'>    ],</line>
+  <line number='30'>    'boolean'              =&gt; 'The :attribute field must be true or false.',</line>
+  <line number='31'>    'confirmed'            =&gt; 'The :attribute confirmation does not match.',</line>
+  <line number='32'>    'date'                 =&gt; 'The :attribute is not a valid date.',</line>
+  <line number='33'>    'date_format'          =&gt; 'The :attribute does not match the format :format.',</line>
+  <line number='34'>    'different'            =&gt; 'The :attribute and :other must be different.',</line>
+  <line number='35'>    'digits'               =&gt; 'The :attribute must be :digits digits.',</line>
+  <line number='36'>    'digits_between'       =&gt; 'The :attribute must be between :min and :max digits.',</line>
+  <line number='37'>    'email'                =&gt; 'The :attribute must be a valid email address.',</line>
+  <line number='38'>    'exists'               =&gt; 'The selected :attribute is invalid.',</line>
+  <line number='39'>    'filled'               =&gt; 'The :attribute field is required.',</line>
+  <line number='40'>    'image'                =&gt; 'The :attribute must be an image.',</line>
+  <line number='41'>    'in'                   =&gt; 'The selected :attribute is invalid.',</line>
+  <line number='42'>    'integer'              =&gt; 'The :attribute must be an integer.',</line>
+  <line number='43'>    'ip'                   =&gt; 'The :attribute must be a valid IP address.',</line>
+  <line number='44'>    'json'                 =&gt; 'The :attribute must be a valid JSON string.',</line>
+  <line number='45'>    'max'                  =&gt; [</line>
+  <line number='46'>        'numeric' =&gt; 'The :attribute may not be greater than :max.',</line>
+  <line number='53'>        'numeric' =&gt; 'The :attribute must be at least :min.',</line>
+  <line number='54'>        'file'    =&gt; 'The :attribute must be at least :min kilobytes.',</line>
+  <line number='55'>        'string'  =&gt; 'The :attribute must be at least :min characters.',</line>
+  <line number='56'>        'array'   =&gt; 'The :attribute must have at least :min items.',</line>
+  <line number='57'>    ],</line>
+  <line number='58'>    'not_in'               =&gt; 'The selected :attribute is invalid.',</line>
+  <line number='59'>    'numeric'              =&gt; 'The :attribute must be a number.',</line>
+  <line number='60'>    'regex'                =&gt; 'The :attribute format is invalid.',</line>
+  <line number='61'>    'required'             =&gt; 'The :attribute field is required.',</line>
+  <line number='62'>    'required_if'          =&gt; 'The :attribute field is required when :other is :value.',</line>
+  <line number='63'>    'required_unless'      =&gt; 'The :attribute field is required unless :other is in :values.',</line>
+  <line number='64'>    'required_with'        =&gt; 'The :attribute field is required when :values is present.',</line>
+  <line number='65'>    'required_with_all'    =&gt; 'The :attribute field is required when :values is present.',</line>
+  <line number='66'>    'required_without'     =&gt; 'The :attribute field is required when :values is not present.',</line>
+  <line number='67'>    'required_without_all' =&gt; 'The :attribute field is required when none of :values are present.',</line>
+  <line number='68'>    'same'                 =&gt; 'The :attribute and :other must match.',</line>
+  <line number='69'>    'size'                 =&gt; [</line>
+  <line number='70'>        'numeric' =&gt; 'The :attribute must be :size.',</line>
+  <line number='71'>        'file'    =&gt; 'The :attribute must be :size kilobytes.',</line>
+  <line number='72'>        'string'  =&gt; 'The :attribute must be :size characters.',</line>
+  <line number='73'>        'array'   =&gt; 'The :attribute must contain :size items.',</line>
+  <line number='74'>    ],</line>
+  <line number='75'>    'string'               =&gt; 'The :attribute must be a string.',</line>
+  <line number='76'>    'timezone'             =&gt; 'The :attribute must be a valid zone.',</line>
+  <line number='77'>    'unique'               =&gt; 'The :attribute has already been taken.',</line>
+  <type type='checkstyle' number='10' suppressed='0'/>
+</file>

@@ -1,0 +1,32 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZu/dLi1CL9kqLSvHQACK7OgMAAAAA=[0mminh trung
+Building in workspace /var/jenkins_home/workspace/movie-seat-master
+Cloning the remote Git repository
+Cloning repository git@github.com:phan-minh-trung/movie-seat.git
+ > git init /var/jenkins_home/workspace/movie-seat-master # timeout=10
+Fetching upstream changes from git@github.com:phan-minh-trung/movie-seat.git
+ > git --version # timeout=10
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress git@github.com:phan-minh-trung/movie-seat.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url git@github.com:phan-minh-trung/movie-seat.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url git@github.com:phan-minh-trung/movie-seat.git # timeout=10
+Fetching upstream changes from git@github.com:phan-minh-trung/movie-seat.git
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress git@github.com:phan-minh-trung/movie-seat.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision c16a5c8d3d3d8a02d644fdea72f4b0b27f3c4d19 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c16a5c8d3d3d8a02d644fdea72f4b0b27f3c4d19
+First time build. Skipping changelog.
+[movie-seat-master] $ /bin/sh -xe /tmp/hudson948530784388071851.sh
++ rm -rf composer.lock
++ composer install
+/tmp/hudson948530784388071851.sh: 3: /tmp/hudson948530784388071851.sh: composer: not found
+Build step 'Execute shell' marked build as failure
+[CHECKSTYLE] Skipping publisher since build result is FAILURE
+[PMD] Skipping publisher since build result is FAILURE
+[DRY] Skipping publisher since build result is FAILURE
+[JDepend] JDepend plugin is ready
+[JDepend] Couldn't generate JDepend file at 'build/logs/jdepend.xml'java.io.FileNotFoundException: /var/jenkins_home/workspace/movie-seat-master/build/logs/jdepend.xml (No such file or directory)
+Finished: FAILURE

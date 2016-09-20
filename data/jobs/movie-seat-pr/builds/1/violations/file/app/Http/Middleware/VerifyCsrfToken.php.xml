@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Http/Middleware/VerifyCsrfToken.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/app/Http/Middleware/VerifyCsrfToken.php"
+>
+  <violation
+    line="14"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;except&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;except&quot; must contain a leading underscore"
+  />
+  <line number='5'>use Illuminate\Foundation\Http\Middleware\VerifyCsrfToken as BaseVerifier;</line>
+  <line number='6'></line>
+  <line number='7'>class VerifyCsrfToken extends BaseVerifier</line>
+  <line number='8'>{</line>
+  <line number='9'>    /**</line>
+  <line number='10'>     * The URIs that should be excluded from CSRF verification.</line>
+  <line number='11'>     *</line>
+  <line number='12'>     * @var array</line>
+  <line number='13'>     */</line>
+  <line number='14'>    protected $except = [</line>
+  <line number='15'>        //</line>
+  <line number='16'>    ];</line>
+  <line number='17'>}</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

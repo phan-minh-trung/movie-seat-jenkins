@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="public/code_completation.php"
+  last-modified="1474349609000"
+  file="/var/jenkins_home/workspace/movie-seat-master/public/code_completation.php"
+>
+  <violation
+    line="8"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Private member variable &quot;container&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Private member variable &quot;container&quot; must contain a leading underscore"
+  />
+  <violation
+    line="10"
+    source="BraceOnSameLine"
+    severity="High"
+    type="checkstyle"
+    message="Opening brace should be on a new line"
+    severity-level="0"
+    popup-message="Opening brace should be on a new line"
+  />
+  <violation
+    line="20"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;baz5&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;baz5&quot; contains numbers but this is discouraged"
+  />
+  <line number='1'>&lt;?php</line>
+  <line number='2'>/**</line>
+  <line number='3'> * @method \DateTime datetime() Description</line>
+  <line number='4'> */</line>
+  <line number='5'>class Baz5</line>
+  <line number='6'>{</line>
+  <line number='7'>    </line>
+  <line number='8'>    private $container;</line>
+  <line number='9'>    </line>
+  <line number='10'>    public function __construct() {</line>
+  <line number='11'>        $this-&gt;container['A'] = new DateTime('2000-01-01');</line>
+  <line number='12'>    }</line>
+  <line number='13'></line>
+  <line number='14'>    public function __get($name)</line>
+  <line number='15'>    {</line>
+  <line number='16'>        return $this-&gt;container[$name];</line>
+  <line number='17'>    }</line>
+  <line number='18'>}</line>
+  <line number='19'></line>
+  <line number='20'>$baz5 = new Baz5();</line>
+  <type type='checkstyle' number='3' suppressed='0'/>
+</file>

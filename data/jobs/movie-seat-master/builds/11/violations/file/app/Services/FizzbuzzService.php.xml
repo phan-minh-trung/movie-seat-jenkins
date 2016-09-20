@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Services/FizzbuzzService.php"
+  last-modified="1474349609000"
+  file="/var/jenkins_home/workspace/movie-seat-master/app/Services/FizzbuzzService.php"
+>
+  <violation
+    line="14"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;division3&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;division3&quot; contains numbers but this is discouraged"
+  />
+  <violation
+    line="15"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;division5&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;division5&quot; contains numbers but this is discouraged"
+  />
+  <violation
+    line="17"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;division3&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;division3&quot; contains numbers but this is discouraged"
+  />
+  <violation
+    line="17"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;division5&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;division5&quot; contains numbers but this is discouraged"
+  />
+  <violation
+    line="19"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;division3&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;division3&quot; contains numbers but this is discouraged"
+  />
+  <violation
+    line="21"
+    source="ContainsNumbers"
+    severity="Medium"
+    type="checkstyle"
+    message="Variable &quot;division5&quot; contains numbers but this is discouraged"
+    severity-level="2"
+    popup-message="Variable &quot;division5&quot; contains numbers but this is discouraged"
+  />
+  <line number='5'>{</line>
+  <line number='6'></line>
+  <line number='7'>    /**</line>
+  <line number='8'>     *</line>
+  <line number='9'>     * @param int $number</line>
+  <line number='10'>     * @return string</line>
+  <line number='11'>     */</line>
+  <line number='12'>    public function handle($number)</line>
+  <line number='13'>    {</line>
+  <line number='14'>        $division3 = $number % 3 == 0;</line>
+  <line number='15'>        $division5 = $number % 5 == 0;</line>
+  <line number='16'></line>
+  <line number='17'>        if ($division3 &amp;&amp; $division5) {</line>
+  <line number='18'>            return 'Fizz Buzz';</line>
+  <line number='19'>        } elseif ($division3) {</line>
+  <line number='20'>            return 'Fizz';</line>
+  <line number='21'>        } elseif ($division5) {</line>
+  <line number='22'>            return 'Buzz';</line>
+  <line number='23'>        } else {</line>
+  <line number='24'>            return $number;</line>
+  <line number='25'>        }</line>
+  <line number='26'>    }</line>
+  <line number='27'>}</line>
+  <type type='checkstyle' number='6' suppressed='0'/>
+</file>

@@ -1,0 +1,3123 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<annotation-array>
+  <bug plugin="pmd@3.45">
+    <message>The method addRecord() has an NPath complexity of 864. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206122</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13084</start>
+        <end>13122</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13084</primaryLineNumber>
+    <fileName>/var/jenkins_home/workspace/movie-seat-master/bootstrap/cache/compiled.php</fileName>
+    <moduleName></moduleName>
+    <packageName>Monolog</packageName>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-751718616</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Response has an overall complexity of 145 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206139</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15214</start>
+        <end>15724</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15214</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Symfony\Component\HttpFoundation</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-462370051</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Finder has an overall complexity of 68 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206159</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17168</start>
+        <end>17453</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17168</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Symfony\Component\Finder</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1687832054</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method create() has an NPath complexity of 11520. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206052</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3078</start>
+        <end>3142</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3078</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>124207111</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Route has 11 public methods. Consider refactoring Route to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206093</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>8577</start>
+        <end>8827</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8577</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Symfony\Component\Routing</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1439844154</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Writer has 16 public methods. Consider refactoring Writer to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206117</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>12854</start>
+        <end>12977</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12854</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Log</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>415432737</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method create() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206051</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3078</start>
+        <end>3142</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3078</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>243925342</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method prepareBaseUrl() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206062</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3756</start>
+        <end>3798</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3756</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-2034562179</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method castAttribute() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206108</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>11004</start>
+        <end>11035</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11004</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Database\Eloquent</packageName>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>988663033</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class HeaderBag has 13 public methods. Consider refactoring HeaderBag to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206068</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4135</start>
+        <end>4284</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4135</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>1717996693</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class View has 17 public methods. Consider refactoring View to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206133</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14593</start>
+        <end>14744</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14593</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\View</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>2087400350</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getRelativeUriForPath() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206058</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3451</start>
+        <end>3473</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3451</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-1513880166</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method normalize() has a Cyclomatic Complexity of 19. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206124</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13616</start>
+        <end>13659</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13616</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Monolog\Formatter</packageName>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-1709754184</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method prepareBaseUrl() has an NPath complexity of 1512. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206063</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3756</start>
+        <end>3798</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3756</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>2140686886</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Finder has 32 public methods. Consider refactoring Finder to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206158</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17168</start>
+        <end>17453</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17168</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[3]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>112337965</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Response has 58 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206136</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15214</start>
+        <end>15724</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15214</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>939361293</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class UrlGenerator has an overall complexity of 79 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206096</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9114</start>
+        <end>9388</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9114</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Routing</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1098764041</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Arr has an overall complexity of 65 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206078</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>6136</start>
+        <end>6363</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>6136</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Support</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-359023133</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method searchInDirectory() has a Cyclomatic Complexity of 24. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206148</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16822</start>
+        <end>16878</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16822</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Symfony\Component\Finder\Adapter</packageName>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>2051857204</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Application has 64 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206039</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1540</start>
+        <end>1959</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1540</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Foundation</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>-422460594</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Model has 134 non-getter- and setter-methods. Consider refactoring Model to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206105</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9965</start>
+        <end>11312</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9965</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[9]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>944122123</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Collection has 72 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206113</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>12117</start>
+        <end>12583</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12117</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>-589941058</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method setCache() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206142</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15578</start>
+        <end>15610</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15578</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1634057996</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has 17 public methods. Consider refactoring Request to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206049</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2990</start>
+        <end>3893</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2990</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>139526040</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Factory has an overall complexity of 81 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206131</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14053</start>
+        <end>14399</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14053</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[11]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1132413077</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method searchInDirectory() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206154</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17047</start>
+        <end>17087</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17047</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-1000345474</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getPreferredLanguage() has an NPath complexity of 240. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206061</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3649</start>
+        <end>3670</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3649</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-1091412382</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Model has 1348 lines of code. Current threshold is 1000. Avoid really long classes.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206102</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9965</start>
+        <end>11312</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9965</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[9]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassLength</type>
+    <contextHashCode>-1102412313</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Router has 46 public methods. Consider refactoring Router to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206084</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7286</start>
+        <end>7826</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7286</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>1999203447</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Response has 27 public methods. Consider refactoring Response to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206138</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15214</start>
+        <end>15724</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15214</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>1337799968</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has 28 fields. Consider to redesign Request to keep the number of fields under 15.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206048</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2990</start>
+        <end>3893</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2990</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyFields</type>
+    <contextHashCode>-1026553906</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method pathsToPublish() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206073</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4995</start>
+        <end>5017</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4995</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-2067098602</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Filesystem has 25 public methods. Consider refactoring Filesystem to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206080</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>6662</start>
+        <end>6841</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>6662</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Filesystem</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1579108255</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method setCache() has an NPath complexity of 288. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206143</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15578</start>
+        <end>15610</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15578</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>1514339765</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Finder has 20 fields. Consider to redesign Finder to keep the number of fields under 15.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206156</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17168</start>
+        <end>17453</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17168</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[3]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyFields</type>
+    <contextHashCode>-1053741981</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Model has 167 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206103</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9965</start>
+        <end>11312</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9965</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[9]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>-1241811057</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method toRegex() has a Cyclomatic Complexity of 32. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206160</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17459</start>
+        <end>17509</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17459</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[3]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-1321911496</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Guard has 16 public methods. Consider refactoring Guard to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206033</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>426</start>
+        <end>727</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>426</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Auth</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1321651985</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Collection has 71 non-getter- and setter-methods. Consider refactoring Collection to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206114</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>12117</start>
+        <end>12583</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12117</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>1595992122</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has an overall complexity of 274 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206050</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2990</start>
+        <end>3893</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2990</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1660643979</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method get() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206064</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3920</start>
+        <end>3958</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3920</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1665736720</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Guard has an overall complexity of 81 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206034</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>426</start>
+        <end>727</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>426</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[38]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>1173145292</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Arr has 20 public methods. Consider refactoring Arr to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206077</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>6136</start>
+        <end>6363</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>6136</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>1441146886</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Response has 28 non-getter- and setter-methods. Consider refactoring Response to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206137</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15214</start>
+        <end>15724</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15214</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>-1169672823</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method duplicate() has an NPath complexity of 384. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206054</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3147</start>
+        <end>3186</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3147</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-1491505269</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Route has an overall complexity of 110 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206090</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7845</start>
+        <end>8248</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7845</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1950320490</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method fire() has an NPath complexity of 420. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206101</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9793</start>
+        <end>9819</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9793</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Events</packageName>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>328254308</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method normalize() has an NPath complexity of 3900. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206125</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13616</start>
+        <end>13659</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13616</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[13]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-1829472415</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method fromString() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206069</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4495</start>
+        <end>4513</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4495</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-143407024</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Model has an overall complexity of 382 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206107</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9965</start>
+        <end>11312</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9965</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[9]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>1651424895</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Dispatcher has 13 public methods. Consider refactoring Dispatcher to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206098</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9732</start>
+        <end>9934</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9732</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[47]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1181528595</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has 59 non-getter- and setter-methods. Consider refactoring Request to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206044</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2508</start>
+        <end>2892</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2508</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Http</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>-1359491645</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Dispatcher has an overall complexity of 57 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206099</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9732</start>
+        <end>9934</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9732</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[47]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>1313268682</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has 56 public methods. Consider refactoring Request to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206045</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2508</start>
+        <end>2892</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2508</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[52]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>1147981146</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Container has 33 public methods. Consider refactoring Container to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206037</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1008</start>
+        <end>1501</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1008</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Container</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1677674831</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Store has 45 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206109</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>11674</start>
+        <end>11962</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11674</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Session</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>-1978535486</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getClientIps() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206055</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3317</start>
+        <end>3345</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3317</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-490099182</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Factory has 39 non-getter- and setter-methods. Consider refactoring Factory to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206129</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14053</start>
+        <end>14399</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14053</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[11]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>-1839715849</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method addRecord() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206121</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13084</start>
+        <end>13122</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13084</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-632000385</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Application has an overall complexity of 110 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206042</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1540</start>
+        <end>1959</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1540</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[20]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1824191938</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Str has 25 public methods. Consider refactoring Str to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206079</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>6369</start>
+        <end>6548</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>6369</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>205945402</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Model has 31 fields. Consider to redesign Model to keep the number of fields under 15.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206104</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9965</start>
+        <end>11312</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9965</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[9]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyFields</type>
+    <contextHashCode>-2009452328</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Dispatcher has 11 public methods. Consider refactoring Dispatcher to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206097</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9429</start>
+        <end>9589</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9429</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Bus</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>902865396</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getPort() has an NPath complexity of 210. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206057</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3380</start>
+        <end>3402</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3380</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>1051478869</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getHost() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206060</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3487</start>
+        <end>3514</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3487</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1926519890</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Route has 49 non-getter- and setter-methods. Consider refactoring Route to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206088</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7845</start>
+        <end>8248</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7845</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>1637344034</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Route has an overall complexity of 58 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206094</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>8577</start>
+        <end>8827</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8577</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[5]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>1054953123</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method searchInDirectory() has an NPath complexity of 10368. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206155</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17047</start>
+        <end>17087</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17047</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-1120063705</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Logger has an overall complexity of 57 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206120</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13004</start>
+        <end>13240</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13004</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>1100282702</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method prepare() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206140</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15307</start>
+        <end>15347</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15307</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1832349843</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method buildPathsFiltering() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206152</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16909</start>
+        <end>16929</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16909</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>8861305</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Logger has 31 non-getter- and setter-methods. Consider refactoring Logger to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206118</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13004</start>
+        <end>13240</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13004</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>392979930</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class MessageBag has 14 public methods. Consider refactoring MessageBag to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206132</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14451</start>
+        <end>14568</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14451</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>1441967439</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Filesystem has an overall complexity of 50 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206081</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>6662</start>
+        <end>6841</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>6662</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[33]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>915689022</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class NormalizerFormatter has an overall complexity of 55 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206123</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13594</start>
+        <end>13757</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13594</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[13]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-778651150</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Store has an overall complexity of 72 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206112</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>11674</start>
+        <end>11962</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11674</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[56]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>914700466</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Application has 57 non-getter- and setter-methods. Consider refactoring Application to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206040</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1540</start>
+        <end>1959</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1540</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[20]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>1763472586</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method buildPathsFiltering() has an NPath complexity of 11710. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206153</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16909</start>
+        <end>16929</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16909</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-110856926</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Application has 51 public methods. Consider refactoring Application to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206041</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1540</start>
+        <end>1959</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1540</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[20]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-24021919</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method formatArgs() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206072</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4902</start>
+        <end>4924</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4902</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Symfony\Component\Debug</packageName>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-604223256</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Route has 45 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206087</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7845</start>
+        <end>8248</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7845</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>-548589146</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method buildNamesFiltering() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206150</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16887</start>
+        <end>16908</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16887</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-27391882</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method mergeGroup() has an NPath complexity of 300. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206086</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7406</start>
+        <end>7418</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7406</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-70728426</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Regex has 16 public methods. Consider refactoring Regex to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206145</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16117</start>
+        <end>16257</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16117</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Symfony\Component\Finder\Expression</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1336297295</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Route has 30 public methods. Consider refactoring Route to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206089</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7845</start>
+        <end>8248</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7845</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-150150471</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class AbstractPaginator has 24 public methods. Consider refactoring AbstractPaginator to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206076</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>5746</start>
+        <end>5924</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>5746</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Pagination</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1958275712</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Router has an overall complexity of 156 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206085</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7286</start>
+        <end>7826</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7286</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>199033428</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Logger has 31 public methods. Consider refactoring Logger to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206119</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13004</start>
+        <end>13240</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13004</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1394514575</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method normalizeException() has an NPath complexity of 270. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206127</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13660</start>
+        <end>13691</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13660</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[13]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-615346876</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method searchInDirectory() has an NPath complexity of 460800. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206149</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16822</start>
+        <end>16878</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16822</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>1932138973</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Router has 72 non-getter- and setter-methods. Consider refactoring Router to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206083</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7286</start>
+        <end>7826</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7286</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>-508269344</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Container has an overall complexity of 136 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206038</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1008</start>
+        <end>1501</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1008</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[55]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>817122446</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class UrlGenerator has 14 public methods. Consider refactoring UrlGenerator to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206095</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9114</start>
+        <end>9388</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9114</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>701405978</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class BladeCompiler has an overall complexity of 89 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206135</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14869</start>
+        <end>15210</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14869</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\View\Compilers</packageName>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1612523825</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getRelativeUriForPath() has an NPath complexity of 5400. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206059</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3451</start>
+        <end>3473</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3451</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-1633598397</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method normalizeException() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206126</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13660</start>
+        <end>13691</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13660</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[13]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-495628645</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Model has 106 public methods. Consider refactoring Model to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206106</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9965</start>
+        <end>11312</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9965</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[9]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-843372382</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has an overall complexity of 116 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206046</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2508</start>
+        <end>2892</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2508</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[52]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-652188873</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class AbstractPaginator has 27 non-getter- and setter-methods. Consider refactoring AbstractPaginator to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206075</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>5746</start>
+        <end>5924</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>5746</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[86]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>-170781207</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method pathsToPublish() has an NPath complexity of 270. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206074</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4995</start>
+        <end>5017</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4995</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>2108150463</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method format() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206128</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>13790</start>
+        <end>13822</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>13790</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[13]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1932384128</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getContent() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206071</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4751</start>
+        <end>4805</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4751</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[80]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>556650550</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class BladeCompiler has 48 non-getter- and setter-methods. Consider refactoring BladeCompiler to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206134</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14869</start>
+        <end>15210</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14869</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[94]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>1975140699</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Container has 48 non-getter- and setter-methods. Consider refactoring Container to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206036</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>1008</start>
+        <end>1501</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>1008</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[55]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>109819674</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has 60 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206043</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2508</start>
+        <end>2892</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2508</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[52]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>749542471</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method compilePattern() has a Cyclomatic Complexity of 26. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206091</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>8487</start>
+        <end>8543</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8487</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[5]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1873170192</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method get() has an NPath complexity of 308. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206065</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3920</start>
+        <end>3958</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3920</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>1546018489</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getHeaders() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206066</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4086</start>
+        <end>4130</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4086</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>21933146</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method fire() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206100</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>9793</start>
+        <end>9819</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>9793</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[47]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>447972539</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Router has 56 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206082</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>7286</start>
+        <end>7826</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>7286</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[17]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>1600764772</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Gate has 12 public methods. Consider refactoring Gate to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206035</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>735</start>
+        <end>915</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>735</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName>Illuminate\Auth\Access</packageName>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>2115448900</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getHeaders() has an NPath complexity of 624. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206067</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4086</start>
+        <end>4130</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4086</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-97785085</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method duplicate() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206053</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3147</start>
+        <end>3186</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3147</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>-1371787038</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Collection has 69 public methods. Consider refactoring Collection to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206115</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>12117</start>
+        <end>12583</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12117</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-191502383</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method toRegex() has an NPath complexity of 449. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206161</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17459</start>
+        <end>17509</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17459</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[3]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-1441629727</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Finder has 36 non-getter- and setter-methods. Consider refactoring Finder to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206157</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>17168</start>
+        <end>17453</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>17168</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[3]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>1899832470</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Request has 74 public methods and attributes. Consider to reduce the number of public items under 45.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206047</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>2990</start>
+        <end>3893</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>2990</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessivePublicCount</type>
+    <contextHashCode>-258912635</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class AbstractAdapter has 17 fields. Consider to redesign AbstractAdapter to keep the number of fields under 15.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206146</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16682</start>
+        <end>16804</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16682</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyFields</type>
+    <contextHashCode>-425308451</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method prepare() has an NPath complexity of 2892. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206141</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15307</start>
+        <end>15347</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15307</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>1712631612</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method makeDisposition() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206144</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>15899</start>
+        <end>15921</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>15899</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>526858483</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method buildNamesFiltering() has an NPath complexity of 31210. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206151</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16887</start>
+        <end>16908</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16887</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>-147110113</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Guard has 27 non-getter- and setter-methods. Consider refactoring Guard to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206032</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>426</start>
+        <end>727</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>426</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[38]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>465842520</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class ExceptionHandler has an overall complexity of 66 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206070</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>4650</start>
+        <end>4949</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>4650</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[80]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>1113336763</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method getPort() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206056</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>3380</start>
+        <end>3402</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>3380</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[2]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>CyclomaticComplexity</type>
+    <contextHashCode>1171197100</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class AbstractFindAdapter has an overall complexity of 73 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206147</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>16815</start>
+        <end>16988</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>16815</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[19]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1855311661</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Store has 39 non-getter- and setter-methods. Consider refactoring Store to keep number of methods under 25.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206110</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>11674</start>
+        <end>11962</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11674</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[56]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyMethods</type>
+    <contextHashCode>207397694</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Collection has an overall complexity of 128 which is very high. The configured complexity threshold is 50.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206116</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>12117</start>
+        <end>12583</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>12117</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[18]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>ExcessiveClassComplexity</type>
+    <contextHashCode>-1991672402</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Factory has 31 public methods. Consider refactoring Factory to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206130</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>14053</start>
+        <end>14399</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>14053</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[11]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>667756942</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The class Store has 30 public methods. Consider refactoring Store to keep number of public methods under 10.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206111</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>11674</start>
+        <end>11962</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>11674</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[56]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>TooManyPublicMethods</type>
+    <contextHashCode>-1580096811</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+  <bug plugin="pmd@3.45">
+    <message>The method compilePattern() has an NPath complexity of 10501000. The configured NPath complexity threshold is 200.</message>
+    <priority>NORMAL</priority>
+    <key>8132637860215206092</key>
+    <lineRanges>
+      <range plugin="analysis-core@1.79">
+        <start>8487</start>
+        <end>8543</end>
+      </range>
+    </lineRanges>
+    <primaryLineNumber>8487</primaryLineNumber>
+    <fileName reference="../../bug/fileName"/>
+    <moduleName reference="../../bug/moduleName"/>
+    <packageName reference="../../bug[5]/packageName"/>
+    <category>Code Size Rules</category>
+    <type>NPathComplexity</type>
+    <contextHashCode>1753451961</contextHashCode>
+    <origin>pmd</origin>
+    <pathName>bootstrap/cache</pathName>
+    <primaryColumnStart>0</primaryColumnStart>
+    <primaryColumnEnd>0</primaryColumnEnd>
+    <build>10</build>
+    <tooltip></tooltip>
+  </bug>
+</annotation-array>

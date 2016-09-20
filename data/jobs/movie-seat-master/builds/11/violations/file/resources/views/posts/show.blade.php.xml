@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="resources/views/posts/show.blade.php"
+  last-modified="1474349610000"
+  file="/var/jenkins_home/workspace/movie-seat-master/resources/views/posts/show.blade.php"
+>
+  <violation
+    line="1"
+    source="NoCodeFound"
+    severity="Medium"
+    type="checkstyle"
+    message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+    severity-level="2"
+    popup-message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+  />
+  <line number='1'>@extends('layouts.app')</line>
+  <line number='2'></line>
+  <line number='3'>@section('content')</line>
+  <line number='4'>&lt;div class="container"&gt;</line>
+  <line number='5'></line>
+  <line number='6'>    &lt;h1&gt;Post {{ $post-&gt;id }}</line>
+  <line number='7'>        &lt;a href="{{ url('posts/' . $post-&gt;id . '/edit') }}" class="btn btn-primary btn-xs" title="Edit Post"&gt;&lt;span class="glyphicon glyphicon-pencil" aria-hidden="true"/&gt;&lt;/a&gt;</line>
+  <line number='8'>        {!! Form::open([</line>
+  <line number='9'>            'method'=&gt;'DELETE',</line>
+  <line number='10'>            'url' =&gt; ['posts', $post-&gt;id],</line>
+  <line number='11'>            'style' =&gt; 'display:inline'</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

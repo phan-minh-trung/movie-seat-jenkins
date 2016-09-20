@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Http/Controllers/Auth/AuthController.php"
+  last-modified="1474349608000"
+  file="/var/jenkins_home/workspace/movie-seat-master/app/Http/Controllers/Auth/AuthController.php"
+>
+  <violation
+    line="44"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="48"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <violation
+    line="59"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="63"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <line number='35'></line>
+  <line number='36'>    /**</line>
+  <line number='37'>     * Get a validator for an incoming registration request.</line>
+  <line number='38'>     *</line>
+  <line number='39'>     * @param  array  $data</line>
+  <line number='40'>     * @return \Illuminate\Contracts\Validation\Validator</line>
+  <line number='41'>     */</line>
+  <line number='42'>    protected function validator(array $data)</line>
+  <line number='43'>    {</line>
+  <line number='44'>        return Validator::make($data, [</line>
+  <line number='45'>            'name' =&gt; 'required|max:255',</line>
+  <line number='46'>            'email' =&gt; 'required|email|max:255|unique:users',</line>
+  <line number='47'>            'password' =&gt; 'required|confirmed|min:6',</line>
+  <line number='48'>        ]);</line>
+  <line number='49'>    }</line>
+  <line number='50'></line>
+  <line number='51'>    /**</line>
+  <line number='52'>     * Create a new user instance after a valid registration.</line>
+  <line number='53'>     *</line>
+  <line number='54'>     * @param  array  $data</line>
+  <line number='55'>     * @return User</line>
+  <line number='56'>     */</line>
+  <line number='57'>    protected function create(array $data)</line>
+  <line number='58'>    {</line>
+  <line number='59'>        return User::create([</line>
+  <line number='60'>            'name' =&gt; $data['name'],</line>
+  <line number='61'>            'email' =&gt; $data['email'],</line>
+  <line number='62'>            'password' =&gt; bcrypt($data['password']),</line>
+  <line number='63'>        ]);</line>
+  <line number='64'>    }</line>
+  <line number='65'>}</line>
+  <type type='checkstyle' number='4' suppressed='0'/>
+</file>

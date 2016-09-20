@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Console/Commands/FizzbuzzCommand.php"
+  last-modified="1474349608000"
+  file="/var/jenkins_home/workspace/movie-seat-master/app/Console/Commands/FizzbuzzCommand.php"
+>
+  <violation
+    line="15"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;signature&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;signature&quot; must contain a leading underscore"
+  />
+  <violation
+    line="22"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;description&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;description&quot; must contain a leading underscore"
+  />
+  <line number='6'>use App\Services\FizzbuzzService;</line>
+  <line number='7'></line>
+  <line number='8'>class FizzbuzzCommand extends Command</line>
+  <line number='9'>{</line>
+  <line number='10'>    /**</line>
+  <line number='11'>     * The name and signature of the console command.</line>
+  <line number='12'>     *</line>
+  <line number='13'>     * @var string</line>
+  <line number='14'>     */</line>
+  <line number='15'>    protected $signature = 'app.fizzbuzz';</line>
+  <line number='16'></line>
+  <line number='17'>    /**</line>
+  <line number='18'>     * The console command description.</line>
+  <line number='19'>     *</line>
+  <line number='20'>     * @var string</line>
+  <line number='21'>     */</line>
+  <line number='22'>    protected $description = 'Command description';</line>
+  <line number='23'></line>
+  <line number='24'>    /**</line>
+  <line number='25'>     * Create a new command instance.</line>
+  <line number='26'>     *</line>
+  <line number='27'>     * @return void</line>
+  <line number='28'>     */</line>
+  <line number='29'>    public function __construct()</line>
+  <line number='30'>    {</line>
+  <line number='31'>        parent::__construct();</line>
+  <line number='32'>    }</line>
+  <type type='checkstyle' number='2' suppressed='0'/>
+</file>

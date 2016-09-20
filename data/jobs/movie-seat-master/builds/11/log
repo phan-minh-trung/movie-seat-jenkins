@@ -1,0 +1,199 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZu/dLi1CL9kqLSvHQACK7OgMAAAAA=[0mminh trung
+Building in workspace /var/jenkins_home/workspace/movie-seat-master
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url git@github.com:phan-minh-trung/movie-seat.git # timeout=10
+Fetching upstream changes from git@github.com:phan-minh-trung/movie-seat.git
+ > git --version # timeout=10
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress git@github.com:phan-minh-trung/movie-seat.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision c0229c76289ccf0579131fedd413ab74c8bd8cee (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f c0229c76289ccf0579131fedd413ab74c8bd8cee
+ > git rev-list c0229c76289ccf0579131fedd413ab74c8bd8cee # timeout=10
+[movie-seat-master] $ /bin/sh -xe /tmp/hudson7484797940931157182.sh
++ rm -rf composer.lock
++ composer install
+Do not run Composer as root/super user! See https://getcomposer.org/root for details
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Nothing to install or update
+Writing lock file
+Generating autoload files
+> Illuminate\Foundation\ComposerScripts::postUpdate
+> php artisan optimize
+Generating optimized class loader
+Compiling common classes
++ pwd -P
++ PROJECTPATH=/var/jenkins_home/workspace/movie-seat-master
++ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/var/jenkins_home/workspace/movie-seat-master/vendor/bin
+[movie-seat-master] $ ant
+Buildfile: /var/jenkins_home/workspace/movie-seat-master/build.xml
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+   [delete] Deleting directory /var/jenkins_home/workspace/movie-seat-master/build/api
+   [delete] Deleting directory /var/jenkins_home/workspace/movie-seat-master/build/code-browser
+   [delete] Deleting directory /var/jenkins_home/workspace/movie-seat-master/build/coverage
+   [delete] Deleting directory /var/jenkins_home/workspace/movie-seat-master/build/logs
+   [delete] Deleting directory /var/jenkins_home/workspace/movie-seat-master/build/pdepend
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mprepare:
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-master/build/api
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-master/build/code-browser
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-master/build/coverage
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-master/build/logs
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-master/build/pdepend
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mlint:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphploc:
+     [exec] phploc 3.0.1 by Sebastian Bergmann.
+     [exec] 
+     [exec] PHP Notice:  Undefined index: ccn in /var/jenkins_home/workspace/movie-seat-master/vendor/phploc/phploc/src/Analyser.php on line 508
+     [exec] Directories                                       1201
+     [exec] Files                                             5933
+     [exec] 
+     [exec] Size
+     [exec]   Lines of Code (LOC)                           838152
+     [exec]   Comment Lines of Code (CLOC)                  250076 (29.84%)
+     [exec]   Non-Comment Lines of Code (NCLOC)             588076 (70.16%)
+     [exec]   Logical Lines of Code (LLOC)                  156597 (18.68%)
+     [exec]     Classes                                     140677 (89.83%)
+     [exec]       Average Class Length                          21
+     [exec]         Minimum Class Length                         0
+     [exec]         Maximum Class Length                      1631
+     [exec]       Average Method Length                          3
+     [exec]         Minimum Method Length                        0
+     [exec]         Maximum Method Length                      398
+     [exec]     Functions                                     1105 (0.71%)
+     [exec]       Average Function Length                        0
+     [exec]     Not in classes or functions                  14815 (9.46%)
+     [exec] 
+     [exec] Cyclomatic Complexity
+     [exec]   Average Complexity per LLOC                     0.24
+     [exec]   Average Complexity per Class                    6.69
+     [exec]     Minimum Class Complexity                      1.00
+     [exec]     Maximum Class Complexity                    536.00
+     [exec]   Average Complexity per Method                   1.98
+     [exec]     Minimum Method Complexity                     1.00
+     [exec]     Maximum Method Complexity                   269.00
+     [exec] 
+     [exec] Dependencies
+     [exec]   Global Accesses                                 3157
+     [exec]     Global Constants                              2830 (89.64%)
+     [exec]     Global Variables                               104 (3.29%)
+     [exec]     Super-Global Variables                         223 (7.06%)
+     [exec]   Attribute Accesses                             45655
+     [exec]     Non-Static                                   43095 (94.39%)
+     [exec]     Static                                        2560 (5.61%)
+     [exec]   Method Calls                                   97783
+     [exec]     Non-Static                                   89751 (91.79%)
+     [exec]     Static                                        8032 (8.21%)
+     [exec] 
+     [exec] Structure
+     [exec]   Namespaces                                       844
+     [exec]   Interfaces                                       545
+     [exec]   Traits                                            78
+     [exec]   Classes                                         5787
+     [exec]     Abstract Classes                               268 (4.63%)
+     [exec]     Concrete Classes                              5519 (95.37%)
+     [exec]   Methods                                        38624
+     [exec]     Scope
+     [exec]       Non-Static Methods                         36157 (93.61%)
+     [exec]       Static Methods                              2467 (6.39%)
+     [exec]     Visibility
+     [exec]       Public Methods                             30724 (79.55%)
+     [exec]       Non-Public Methods                          7900 (20.45%)
+     [exec]   Functions                                       1886
+     [exec]     Named Functions                                428 (22.69%)
+     [exec]     Anonymous Functions                           1458 (77.31%)
+     [exec]   Constants                                       1537
+     [exec]     Global Constants                               163 (10.61%)
+     [exec]     Class Constants                               1374 (89.39%)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mpdepend:
+     [exec] PDepend 2.2.4
+     [exec] 
+     [exec] Parsing source files:
+     [exec] ............................................................    60
+     [exec] .....                                                           65
+     [exec] 
+     [exec] Calculating Dependency metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] ........................                                      2891
+     [exec] 
+     [exec] Calculating Coupling metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] ............................................................  3600
+     [exec] .......                                                       3756
+     [exec] 
+     [exec] Calculating Cyclomatic Complexity metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] .................................................             3388
+     [exec] 
+     [exec] Calculating Inheritance metrics:
+     [exec] .........................................................     1157
+     [exec] 
+     [exec] Calculating Node Count metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] .................                                             2749
+     [exec] 
+     [exec] Calculating Node Loc metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] ............................                                  2973
+     [exec] 
+     [exec] Generating pdepend log files, this may take a moment.
+     [exec] 
+     [exec] Time: 0:02:19; Memory: 34.50Mb
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpmd-ci:
+     [exec] Result: 2
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpcs-ci:
+     [exec] Result: 1
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpcpd:
+     [exec] phpcpd 2.0.4 by Sebastian Bergmann.
+     [exec] 
+     [exec] 0.00% duplicated lines out of 973 total lines of code.
+     [exec] 
+     [exec] Time: 1.07 seconds, Memory: 4.50MB
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpunit:
+     [exec] PHPUnit 4.8.27 by Sebastian Bergmann and contributors.
+     [exec] Warning:	The Xdebug extension is not loaded
+     [exec] 		No code coverage will be generated.
+     [exec] 
+     [exec] ...............
+     [exec] 
+     [exec] Time: 6.31 seconds, Memory: 12.00MB
+     [exec] 
+     [exec] OK (15 tests, 23 assertions)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mbuild:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 9 minutes 6 seconds
+[CHECKSTYLE] Collecting checkstyle analysis files...
+[CHECKSTYLE] Finding all files that match the pattern build/logs/checkstyle.xml
+[CHECKSTYLE] Parsing 1 file in /var/jenkins_home/workspace/movie-seat-master
+[CHECKSTYLE] Successfully parsed file /var/jenkins_home/workspace/movie-seat-master/build/logs/checkstyle.xml with 1876 unique warnings and 0 duplicates.
+[PMD] Collecting PMD analysis files...
+[PMD] Finding all files that match the pattern build/logs/pmd.xml
+[PMD] Parsing 1 file in /var/jenkins_home/workspace/movie-seat-master
+[PMD] Successfully parsed file /var/jenkins_home/workspace/movie-seat-master/build/logs/pmd.xml with 130 unique warnings and 0 duplicates.
+[DRY] Collecting duplicate code analysis files...
+[DRY] Finding all files that match the pattern build/logs/pmd-cpd.xml
+[DRY] Parsing 1 file in /var/jenkins_home/workspace/movie-seat-master
+[DRY] Successfully parsed file /var/jenkins_home/workspace/movie-seat-master/build/logs/pmd-cpd.xml with 0 unique warnings and 0 duplicates.
+[JDepend] JDepend plugin is ready
+[JDepend] Found 285 classes in 87 packages
+Build step 'Report Violations' changed build result to UNSTABLE
+Finished: UNSTABLE

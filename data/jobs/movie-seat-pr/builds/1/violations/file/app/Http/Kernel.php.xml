@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Http/Kernel.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/app/Http/Kernel.php"
+>
+  <violation
+    line="14"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;middleware&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;middleware&quot; must contain a leading underscore"
+  />
+  <violation
+    line="28"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;routeMiddleware&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;routeMiddleware&quot; must contain a leading underscore"
+  />
+  <violation
+    line="30"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 85 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 85 characters"
+  />
+  <line number='5'>use Illuminate\Foundation\Http\Kernel as HttpKernel;</line>
+  <line number='6'></line>
+  <line number='7'>class Kernel extends HttpKernel</line>
+  <line number='8'>{</line>
+  <line number='9'>    /**</line>
+  <line number='10'>     * The application's global HTTP middleware stack.</line>
+  <line number='11'>     *</line>
+  <line number='12'>     * @var array</line>
+  <line number='13'>     */</line>
+  <line number='14'>    protected $middleware = [</line>
+  <line number='15'>        \Illuminate\Foundation\Http\Middleware\CheckForMaintenanceMode::class,</line>
+  <line number='16'>        \App\Http\Middleware\EncryptCookies::class,</line>
+  <line number='17'>        \Illuminate\Cookie\Middleware\AddQueuedCookiesToResponse::class,</line>
+  <line number='18'>        \Illuminate\Session\Middleware\StartSession::class,</line>
+  <line number='19'>        \Illuminate\View\Middleware\ShareErrorsFromSession::class,</line>
+  <line number='20'>        \App\Http\Middleware\VerifyCsrfToken::class,</line>
+  <line number='21'>    ];</line>
+  <line number='22'></line>
+  <line number='23'>    /**</line>
+  <line number='24'>     * The application's route middleware.</line>
+  <line number='25'>     *</line>
+  <line number='26'>     * @var array</line>
+  <line number='27'>     */</line>
+  <line number='28'>    protected $routeMiddleware = [</line>
+  <line number='29'>        'auth' =&gt; \App\Http\Middleware\Authenticate::class,</line>
+  <line number='30'>        'auth.basic' =&gt; \Illuminate\Auth\Middleware\AuthenticateWithBasicAuth::class,</line>
+  <line number='31'>        'guest' =&gt; \App\Http\Middleware\RedirectIfAuthenticated::class,</line>
+  <line number='32'>    ];</line>
+  <line number='33'>}</line>
+  <type type='checkstyle' number='3' suppressed='0'/>
+</file>

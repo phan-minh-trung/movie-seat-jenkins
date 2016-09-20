@@ -1,0 +1,45 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZu/dLi1CL9kqLSvHQACK7OgMAAAAA=[0mminh trung
+Building in workspace /var/jenkins_home/workspace/movie-seat-master
+ > git rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git config remote.origin.url git@github.com:phan-minh-trung/movie-seat.git # timeout=10
+Fetching upstream changes from git@github.com:phan-minh-trung/movie-seat.git
+ > git --version # timeout=10
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress git@github.com:phan-minh-trung/movie-seat.git +refs/heads/*:refs/remotes/origin/*
+ > git rev-parse refs/remotes/origin/master^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/master^{commit} # timeout=10
+Checking out Revision 3c3db8b1f72de3fee54fbbc0c2c3f63185dea814 (refs/remotes/origin/master)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 3c3db8b1f72de3fee54fbbc0c2c3f63185dea814
+ > git rev-list 3c3db8b1f72de3fee54fbbc0c2c3f63185dea814 # timeout=10
+[movie-seat-master] $ /bin/sh -xe /tmp/hudson169736595906824649.sh
++ rm -rf composer.lock
++ composer install
+Do not run Composer as root/super user! See https://getcomposer.org/root for details
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+Nothing to install or update
+Writing lock file
+Generating autoload files
+> Illuminate\Foundation\ComposerScripts::postUpdate
+> php artisan optimize
+Generating optimized class loader
+Compiling common classes
++ pwd -P
++ PROJECTPATH=/var/jenkins_home/workspace/movie-seat-master
++ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/var/jenkins_home/workspace/movie-seat-master/vendor/bin
+[movie-seat-master] $ ant
+Buildfile: /var/jenkins_home/workspace/movie-seat-master/build.xml
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD FAILED
+Target "phpdoc" does not exist in the project "movie-seat". It is used from target "build".
+
+Total time: 0 seconds
+Build step 'Invoke Ant' marked build as failure
+[CHECKSTYLE] Skipping publisher since build result is FAILURE
+[PMD] Skipping publisher since build result is FAILURE
+[DRY] Skipping publisher since build result is FAILURE
+[JDepend] JDepend plugin is ready
+[JDepend] Couldn't generate JDepend file at 'build/logs/jdepend.xml'java.io.FileNotFoundException: /var/jenkins_home/workspace/movie-seat-master/build/logs/jdepend.xml (No such file or directory)
+Finished: FAILURE

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="resources/views/welcome.blade.php"
+  last-modified="1474349610000"
+  file="/var/jenkins_home/workspace/movie-seat-master/resources/views/welcome.blade.php"
+>
+  <violation
+    line="1"
+    source="NoCodeFound"
+    severity="Medium"
+    type="checkstyle"
+    message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+    severity-level="2"
+    popup-message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+  />
+  <line number='1'>&lt;!DOCTYPE html&gt;</line>
+  <line number='2'>&lt;html&gt;</line>
+  <line number='3'>    &lt;head&gt;</line>
+  <line number='4'>        &lt;title&gt;Laravel&lt;/title&gt;</line>
+  <line number='5'>        &lt;link href="https://fonts.googleapis.com/css?family=Lato:100" rel="stylesheet" type="text/css"&gt;</line>
+  <line number='6'></line>
+  <line number='7'>        &lt;style&gt;</line>
+  <line number='8'>            html, body {</line>
+  <line number='9'>                height: 100%;</line>
+  <line number='10'>            }</line>
+  <line number='11'></line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Post.php"
+  last-modified="1474349608000"
+  file="/var/jenkins_home/workspace/movie-seat-master/app/Post.php"
+>
+  <violation
+    line="14"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;table&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;table&quot; must contain a leading underscore"
+  />
+  <violation
+    line="21"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;primaryKey&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;primaryKey&quot; must contain a leading underscore"
+  />
+  <violation
+    line="28"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;fillable&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;fillable&quot; must contain a leading underscore"
+  />
+  <line number='5'>use Illuminate\Database\Eloquent\Model;</line>
+  <line number='6'></line>
+  <line number='7'>class Post extends Model</line>
+  <line number='8'>{</line>
+  <line number='9'>    /**</line>
+  <line number='10'>     * The database table used by the model.</line>
+  <line number='11'>     *</line>
+  <line number='12'>     * @var string</line>
+  <line number='13'>     */</line>
+  <line number='14'>    protected $table = 'posts';</line>
+  <line number='15'></line>
+  <line number='16'>    /**</line>
+  <line number='17'>    * The database primary key value.</line>
+  <line number='18'>    *</line>
+  <line number='19'>    * @var string</line>
+  <line number='20'>    */</line>
+  <line number='21'>    protected $primaryKey = 'id';</line>
+  <line number='22'></line>
+  <line number='23'>    /**</line>
+  <line number='24'>     * Attributes that should be mass-assignable.</line>
+  <line number='25'>     *</line>
+  <line number='26'>     * @var array</line>
+  <line number='27'>     */</line>
+  <line number='28'>    protected $fillable = ['title', 'content', 'category'];</line>
+  <line number='29'></line>
+  <line number='30'>    </line>
+  <line number='31'>}</line>
+  <type type='checkstyle' number='3' suppressed='0'/>
+</file>

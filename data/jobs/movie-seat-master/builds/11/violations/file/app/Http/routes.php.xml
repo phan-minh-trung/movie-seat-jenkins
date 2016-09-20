@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Http/routes.php"
+  last-modified="1474349608000"
+  file="/var/jenkins_home/workspace/movie-seat-master/app/Http/routes.php"
+>
+  <violation
+    line="14"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="16"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <violation
+    line="24"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 84 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 84 characters"
+  />
+  <violation
+    line="31"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 84 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 84 characters"
+  />
+  <line number='5'>| Application Routes</line>
+  <line number='6'>|--------------------------------------------------------------------------</line>
+  <line number='7'>|</line>
+  <line number='8'>| Here is where you can register all of the routes for an application.</line>
+  <line number='9'>| It's a breeze. Simply tell Laravel the URIs it should respond to</line>
+  <line number='10'>| and give it the controller to call when that URI is requested.</line>
+  <line number='11'>|</line>
+  <line number='12'>*/</line>
+  <line number='13'></line>
+  <line number='14'>Route::get('/', function () {</line>
+  <line number='15'>    return view('welcome');</line>
+  <line number='16'>});</line>
+  <line number='17'></line>
+  <line number='18'>Route::resource('posts', 'PostsController');</line>
+  <line number='19'></line>
+  <line number='20'>/**</line>
+  <line number='21'> * List all Seat Reservation</line>
+  <line number='22'> */</line>
+  <line number='23'>Route::get('/seat_reservation', 'SeatReservationsController@index');</line>
+  <line number='24'>Route::get('/seat_reservation/list_seats', 'SeatReservationsController@list_seats');</line>
+  <line number='25'></line>
+  <line number='26'>/**</line>
+  <line number='27'> * Add A New Seat Reservation</line>
+  <line number='28'> */</line>
+  <line number='29'>Route::post('/seat_reservation', 'SeatReservationsController@book');</line>
+  <line number='30'></line>
+  <line number='31'>Route::delete('/seat_reservation/delete/{id}', 'SeatReservationsController@delete');</line>
+  <type type='checkstyle' number='4' suppressed='0'/>
+</file>

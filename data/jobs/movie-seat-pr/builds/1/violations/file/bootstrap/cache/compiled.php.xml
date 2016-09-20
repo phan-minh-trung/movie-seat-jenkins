@@ -1,0 +1,3466 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="bootstrap/cache/compiled.php"
+  last-modified="1474359415000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/bootstrap/cache/compiled.php"
+>
+  <violation
+    line="5"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="17"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 83 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 83 characters"
+  />
+  <violation
+    line="26"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="35"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="55"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="57"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 84 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 84 characters"
+  />
+  <violation
+    line="66"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="74"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="86"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="96"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="103"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="120"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="129"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="141"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="157"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="164"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="171"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="172"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 119 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 119 characters"
+  />
+  <violation
+    line="173"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 108 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 108 characters"
+  />
+  <violation
+    line="180"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="189"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="197"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="205"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="220"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="223"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 87 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 87 characters"
+  />
+  <violation
+    line="224"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 99 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 99 characters"
+  />
+  <violation
+    line="226"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 100 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 100 characters"
+  />
+  <violation
+    line="227"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 84 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 84 characters"
+  />
+  <violation
+    line="228"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 92 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 92 characters"
+  />
+  <violation
+    line="229"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 94 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 94 characters"
+  />
+  <violation
+    line="230"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 87 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 87 characters"
+  />
+  <violation
+    line="231"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 101 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 101 characters"
+  />
+  <violation
+    line="237"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="249"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="257"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="264"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="277"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="284"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="303"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="311"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="321"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="326"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 87 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 87 characters"
+  />
+  <violation
+    line="339"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="349"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="360"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="371"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 85 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 85 characters"
+  />
+  <violation
+    line="392"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 81 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 81 characters"
+  />
+  <violation
+    line="427"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="428"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;user&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;user&quot; must contain a leading underscore"
+  />
+  <violation
+    line="429"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;lastAttempted&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;lastAttempted&quot; must contain a leading underscore"
+  />
+  <violation
+    line="430"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;viaRemember&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;viaRemember&quot; must contain a leading underscore"
+  />
+  <violation
+    line="431"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;provider&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;provider&quot; must contain a leading underscore"
+  />
+  <violation
+    line="432"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;session&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;session&quot; must contain a leading underscore"
+  />
+  <violation
+    line="433"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;cookie&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;cookie&quot; must contain a leading underscore"
+  />
+  <violation
+    line="434"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;request&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;request&quot; must contain a leading underscore"
+  />
+  <violation
+    line="435"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;events&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;events&quot; must contain a leading underscore"
+  />
+  <violation
+    line="436"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;loggedOut&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;loggedOut&quot; must contain a leading underscore"
+  />
+  <violation
+    line="437"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;tokenRetrievalAttempted&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;tokenRetrievalAttempted&quot; must contain a leading underscore"
+  />
+  <violation
+    line="438"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 107 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 107 characters"
+  />
+  <violation
+    line="488"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 81 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 81 characters"
+  />
+  <violation
+    line="491"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 97 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 97 characters"
+  />
+  <violation
+    line="511"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 95 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 95 characters"
+  />
+  <violation
+    line="537"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 84 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 84 characters"
+  />
+  <violation
+    line="550"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 86 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 86 characters"
+  />
+  <violation
+    line="557"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 86 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 86 characters"
+  />
+  <violation
+    line="560"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 92 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 92 characters"
+  />
+  <violation
+    line="571"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 92 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 92 characters"
+  />
+  <violation
+    line="648"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 83 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 83 characters"
+  />
+  <violation
+    line="736"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="738"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;container&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;container&quot; must contain a leading underscore"
+  />
+  <violation
+    line="739"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;userResolver&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;userResolver&quot; must contain a leading underscore"
+  />
+  <violation
+    line="740"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;abilities&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;abilities&quot; must contain a leading underscore"
+  />
+  <violation
+    line="741"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;policies&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;policies&quot; must contain a leading underscore"
+  />
+  <violation
+    line="742"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;beforeCallbacks&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;beforeCallbacks&quot; must contain a leading underscore"
+  />
+  <violation
+    line="743"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;afterCallbacks&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;afterCallbacks&quot; must contain a leading underscore"
+  />
+  <violation
+    line="744"
+    source="MaxExceeded"
+    severity="High"
+    type="checkstyle"
+    message="Line exceeds maximum limit of 120 characters; contains 179 characters"
+    severity-level="0"
+    popup-message="Line exceeds maximum limit of 120 characters; contains 179 characters"
+  />
+  <violation
+    line="764"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 106 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 106 characters"
+  />
+  <violation
+    line="772"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 98 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 98 characters"
+  />
+  <violation
+    line="821"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 89 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 89 characters"
+  />
+  <violation
+    line="830"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 81 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 81 characters"
+  />
+  <violation
+    line="841"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 85 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 85 characters"
+  />
+  <violation
+    line="868"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 81 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 81 characters"
+  />
+  <violation
+    line="876"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 88 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 88 characters"
+  />
+  <violation
+    line="887"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 97 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 97 characters"
+  />
+  <violation
+    line="896"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 85 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 85 characters"
+  />
+  <violation
+    line="909"
+    source="MaxExceeded"
+    severity="High"
+    type="checkstyle"
+    message="Line exceeds maximum limit of 120 characters; contains 137 characters"
+    severity-level="0"
+    popup-message="Line exceeds maximum limit of 120 characters; contains 137 characters"
+  />
+  <violation
+    line="920"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="925"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 83 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 83 characters"
+  />
+  <violation
+    line="935"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="936"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;hasher&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;hasher&quot; must contain a leading underscore"
+  />
+  <violation
+    line="937"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;model&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;model&quot; must contain a leading underscore"
+  />
+  <violation
+    line="950"
+    source="MaxExceeded"
+    severity="High"
+    type="checkstyle"
+    message="Line exceeds maximum limit of 120 characters; contains 132 characters"
+    severity-level="0"
+    popup-message="Line exceeds maximum limit of 120 characters; contains 132 characters"
+  />
+  <violation
+    line="1007"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 100 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 100 characters"
+  />
+  <violation
+    line="1009"
+    source="SpaceBeforeBrace"
+    severity="High"
+    type="checkstyle"
+    message="Expected 4 spaces before opening brace; 0 found"
+    severity-level="0"
+    popup-message="Expected 4 spaces before opening brace; 0 found"
+  />
+  <violation
+    line="1010"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;instance&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;instance&quot; must contain a leading underscore"
+  />
+  <violation
+    line="1011"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;resolved&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;resolved&quot; must contain a leading underscore"
+  />
+  <violation
+    line="1012"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;bindings&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;bindings&quot; must contain a leading underscore"
+  />
+  <violation
+    line="1013"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;instances&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;instances&quot; must contain a leading underscore"
+  />
+  <violation
+    line="1014"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;aliases&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;aliases&quot; must contain a leading underscore"
+  />
+  <violation
+    line="1015"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;extenders&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;extenders&quot; must contain a leading underscore"
+  />
+  <violation
+    line="426"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Guard has 16 public methods. Consider refactoring Guard to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Guard has 16 public methods. Consider refactoring Guard to keep number of public methods under 10."
+  />
+  <violation
+    line="426"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Guard has 27 non-getter- and setter-methods. Consider refactoring Guard to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Guard has 27 non-getter- and setter-methods. Consider refactoring Guard to keep number of methods under 25."
+  />
+  <violation
+    line="426"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Guard has an overall complexity of 81 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Guard has an overall complexity of 81 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="735"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Gate has 12 public methods. Consider refactoring Gate to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Gate has 12 public methods. Consider refactoring Gate to keep number of public methods under 10."
+  />
+  <violation
+    line="1008"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Container has 33 public methods. Consider refactoring Container to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Container has 33 public methods. Consider refactoring Container to keep number of public methods under 10."
+  />
+  <violation
+    line="1008"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Container has 48 non-getter- and setter-methods. Consider refactoring Container to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Container has 48 non-getter- and setter-methods. Consider refactoring Container to keep number of methods under 25."
+  />
+  <violation
+    line="1008"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Container has an overall complexity of 136 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Container has an overall complexity of 136 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="1540"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Application has 51 public methods. Consider refactoring Application to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Application has 51 public methods. Consider refactoring Application to keep number of public methods under 10."
+  />
+  <violation
+    line="1540"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Application has 57 non-getter- and setter-methods. Consider refactoring Application to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Application has 57 non-getter- and setter-methods. Consider refactoring Application to keep number of methods under 25."
+  />
+  <violation
+    line="1540"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Application has 64 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Application has 64 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="1540"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Application has an overall complexity of 110 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Application has an overall complexity of 110 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="2508"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has 56 public methods. Consider refactoring Request to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Request has 56 public methods. Consider refactoring Request to keep number of public methods under 10."
+  />
+  <violation
+    line="2508"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has 59 non-getter- and setter-methods. Consider refactoring Request to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Request has 59 non-getter- and setter-methods. Consider refactoring Request to keep number of methods under 25."
+  />
+  <violation
+    line="2508"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has 60 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Request has 60 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="2508"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has an overall complexity of 116 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Request has an overall complexity of 116 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="2990"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has 17 public methods. Consider refactoring Request to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Request has 17 public methods. Consider refactoring Request to keep number of public methods under 10."
+  />
+  <violation
+    line="2990"
+    source="TooManyFields"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has 28 fields. Consider to redesign Request to keep the number of fields under 15."
+    severity-level="2"
+    popup-message="The class Request has 28 fields. Consider to redesign Request to keep the number of fields under 15."
+  />
+  <violation
+    line="2990"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has 74 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Request has 74 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="2990"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Request has an overall complexity of 274 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Request has an overall complexity of 274 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="3078"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method create() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method create() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3078"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method create() has an NPath complexity of 11520. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method create() has an NPath complexity of 11520. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="3147"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method duplicate() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method duplicate() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3147"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method duplicate() has an NPath complexity of 384. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method duplicate() has an NPath complexity of 384. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="3317"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getClientIps() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method getClientIps() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3380"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getPort() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method getPort() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3380"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getPort() has an NPath complexity of 210. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method getPort() has an NPath complexity of 210. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="3451"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getRelativeUriForPath() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method getRelativeUriForPath() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3451"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getRelativeUriForPath() has an NPath complexity of 5400. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method getRelativeUriForPath() has an NPath complexity of 5400. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="3487"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getHost() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method getHost() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3649"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getPreferredLanguage() has an NPath complexity of 240. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method getPreferredLanguage() has an NPath complexity of 240. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="3756"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method prepareBaseUrl() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method prepareBaseUrl() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3756"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method prepareBaseUrl() has an NPath complexity of 1512. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method prepareBaseUrl() has an NPath complexity of 1512. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="3920"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method get() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method get() has a Cyclomatic Complexity of 14. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="3920"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method get() has an NPath complexity of 308. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method get() has an NPath complexity of 308. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="4086"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getHeaders() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method getHeaders() has a Cyclomatic Complexity of 17. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="4086"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getHeaders() has an NPath complexity of 624. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method getHeaders() has an NPath complexity of 624. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="4135"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class HeaderBag has 13 public methods. Consider refactoring HeaderBag to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class HeaderBag has 13 public methods. Consider refactoring HeaderBag to keep number of public methods under 10."
+  />
+  <violation
+    line="4495"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method fromString() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method fromString() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="4650"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class ExceptionHandler has an overall complexity of 66 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class ExceptionHandler has an overall complexity of 66 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="4751"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method getContent() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method getContent() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="4902"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method formatArgs() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method formatArgs() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="4995"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method pathsToPublish() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method pathsToPublish() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="4995"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method pathsToPublish() has an NPath complexity of 270. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method pathsToPublish() has an NPath complexity of 270. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="5746"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class AbstractPaginator has 24 public methods. Consider refactoring AbstractPaginator to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class AbstractPaginator has 24 public methods. Consider refactoring AbstractPaginator to keep number of public methods under 10."
+  />
+  <violation
+    line="5746"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class AbstractPaginator has 27 non-getter- and setter-methods. Consider refactoring AbstractPaginator to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class AbstractPaginator has 27 non-getter- and setter-methods. Consider refactoring AbstractPaginator to keep number of methods under 25."
+  />
+  <violation
+    line="6136"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Arr has 20 public methods. Consider refactoring Arr to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Arr has 20 public methods. Consider refactoring Arr to keep number of public methods under 10."
+  />
+  <violation
+    line="6136"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Arr has an overall complexity of 65 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Arr has an overall complexity of 65 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="6369"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Str has 25 public methods. Consider refactoring Str to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Str has 25 public methods. Consider refactoring Str to keep number of public methods under 10."
+  />
+  <violation
+    line="6662"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Filesystem has 25 public methods. Consider refactoring Filesystem to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Filesystem has 25 public methods. Consider refactoring Filesystem to keep number of public methods under 10."
+  />
+  <violation
+    line="6662"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Filesystem has an overall complexity of 50 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Filesystem has an overall complexity of 50 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="7286"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Router has 46 public methods. Consider refactoring Router to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Router has 46 public methods. Consider refactoring Router to keep number of public methods under 10."
+  />
+  <violation
+    line="7286"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Router has 56 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Router has 56 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="7286"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Router has 72 non-getter- and setter-methods. Consider refactoring Router to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Router has 72 non-getter- and setter-methods. Consider refactoring Router to keep number of methods under 25."
+  />
+  <violation
+    line="7286"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Router has an overall complexity of 156 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Router has an overall complexity of 156 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="7406"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method mergeGroup() has an NPath complexity of 300. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method mergeGroup() has an NPath complexity of 300. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="7845"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Route has 30 public methods. Consider refactoring Route to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Route has 30 public methods. Consider refactoring Route to keep number of public methods under 10."
+  />
+  <violation
+    line="7845"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Route has 45 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Route has 45 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="7845"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Route has 49 non-getter- and setter-methods. Consider refactoring Route to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Route has 49 non-getter- and setter-methods. Consider refactoring Route to keep number of methods under 25."
+  />
+  <violation
+    line="7845"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Route has an overall complexity of 110 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Route has an overall complexity of 110 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="8487"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method compilePattern() has a Cyclomatic Complexity of 26. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method compilePattern() has a Cyclomatic Complexity of 26. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="8487"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method compilePattern() has an NPath complexity of 10501000. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method compilePattern() has an NPath complexity of 10501000. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="8577"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Route has 11 public methods. Consider refactoring Route to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Route has 11 public methods. Consider refactoring Route to keep number of public methods under 10."
+  />
+  <violation
+    line="8577"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Route has an overall complexity of 58 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Route has an overall complexity of 58 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="9114"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class UrlGenerator has 14 public methods. Consider refactoring UrlGenerator to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class UrlGenerator has 14 public methods. Consider refactoring UrlGenerator to keep number of public methods under 10."
+  />
+  <violation
+    line="9114"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class UrlGenerator has an overall complexity of 79 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class UrlGenerator has an overall complexity of 79 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="9429"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Dispatcher has 11 public methods. Consider refactoring Dispatcher to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Dispatcher has 11 public methods. Consider refactoring Dispatcher to keep number of public methods under 10."
+  />
+  <violation
+    line="9732"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Dispatcher has 13 public methods. Consider refactoring Dispatcher to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Dispatcher has 13 public methods. Consider refactoring Dispatcher to keep number of public methods under 10."
+  />
+  <violation
+    line="9732"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Dispatcher has an overall complexity of 57 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Dispatcher has an overall complexity of 57 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="9793"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method fire() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method fire() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="9793"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method fire() has an NPath complexity of 420. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method fire() has an NPath complexity of 420. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="9965"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Model has 106 public methods. Consider refactoring Model to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Model has 106 public methods. Consider refactoring Model to keep number of public methods under 10."
+  />
+  <violation
+    line="9965"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Model has 134 non-getter- and setter-methods. Consider refactoring Model to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Model has 134 non-getter- and setter-methods. Consider refactoring Model to keep number of methods under 25."
+  />
+  <violation
+    line="9965"
+    source="ExcessiveClassLength"
+    severity="Medium"
+    type="pmd"
+    message="The class Model has 1348 lines of code. Current threshold is 1000. Avoid really long classes."
+    severity-level="2"
+    popup-message="The class Model has 1348 lines of code. Current threshold is 1000. Avoid really long classes."
+  />
+  <violation
+    line="9965"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Model has 167 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Model has 167 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="9965"
+    source="TooManyFields"
+    severity="Medium"
+    type="pmd"
+    message="The class Model has 31 fields. Consider to redesign Model to keep the number of fields under 15."
+    severity-level="2"
+    popup-message="The class Model has 31 fields. Consider to redesign Model to keep the number of fields under 15."
+  />
+  <violation
+    line="9965"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Model has an overall complexity of 382 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Model has an overall complexity of 382 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="11004"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method castAttribute() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method castAttribute() has a Cyclomatic Complexity of 16. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="11674"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Store has 30 public methods. Consider refactoring Store to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Store has 30 public methods. Consider refactoring Store to keep number of public methods under 10."
+  />
+  <violation
+    line="11674"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Store has 39 non-getter- and setter-methods. Consider refactoring Store to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Store has 39 non-getter- and setter-methods. Consider refactoring Store to keep number of methods under 25."
+  />
+  <violation
+    line="11674"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Store has 45 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Store has 45 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="11674"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Store has an overall complexity of 72 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Store has an overall complexity of 72 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="12117"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Collection has 69 public methods. Consider refactoring Collection to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Collection has 69 public methods. Consider refactoring Collection to keep number of public methods under 10."
+  />
+  <violation
+    line="12117"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Collection has 71 non-getter- and setter-methods. Consider refactoring Collection to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Collection has 71 non-getter- and setter-methods. Consider refactoring Collection to keep number of methods under 25."
+  />
+  <violation
+    line="12117"
+    source="ExcessivePublicCount"
+    severity="Medium"
+    type="pmd"
+    message="The class Collection has 72 public methods and attributes. Consider to reduce the number of public items under 45."
+    severity-level="2"
+    popup-message="The class Collection has 72 public methods and attributes. Consider to reduce the number of public items under 45."
+  />
+  <violation
+    line="12117"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Collection has an overall complexity of 128 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Collection has an overall complexity of 128 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="12854"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Writer has 16 public methods. Consider refactoring Writer to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Writer has 16 public methods. Consider refactoring Writer to keep number of public methods under 10."
+  />
+  <violation
+    line="13004"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Logger has 31 non-getter- and setter-methods. Consider refactoring Logger to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Logger has 31 non-getter- and setter-methods. Consider refactoring Logger to keep number of methods under 25."
+  />
+  <violation
+    line="13004"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Logger has 31 public methods. Consider refactoring Logger to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Logger has 31 public methods. Consider refactoring Logger to keep number of public methods under 10."
+  />
+  <violation
+    line="13004"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Logger has an overall complexity of 57 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Logger has an overall complexity of 57 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="13084"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method addRecord() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method addRecord() has a Cyclomatic Complexity of 11. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="13084"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method addRecord() has an NPath complexity of 864. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method addRecord() has an NPath complexity of 864. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="13594"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class NormalizerFormatter has an overall complexity of 55 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class NormalizerFormatter has an overall complexity of 55 which is very high. The configured complexity threshold is 50."
+  />
+  <violation
+    line="13616"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method normalize() has a Cyclomatic Complexity of 19. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method normalize() has a Cyclomatic Complexity of 19. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="13616"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method normalize() has an NPath complexity of 3900. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method normalize() has an NPath complexity of 3900. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="13660"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method normalizeException() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method normalizeException() has a Cyclomatic Complexity of 12. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="13660"
+    source="NPathComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method normalizeException() has an NPath complexity of 270. The configured NPath complexity threshold is 200."
+    severity-level="2"
+    popup-message="The method normalizeException() has an NPath complexity of 270. The configured NPath complexity threshold is 200."
+  />
+  <violation
+    line="13790"
+    source="CyclomaticComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The method format() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+    severity-level="2"
+    popup-message="The method format() has a Cyclomatic Complexity of 10. The configured cyclomatic complexity threshold is 10."
+  />
+  <violation
+    line="14053"
+    source="TooManyPublicMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Factory has 31 public methods. Consider refactoring Factory to keep number of public methods under 10."
+    severity-level="2"
+    popup-message="The class Factory has 31 public methods. Consider refactoring Factory to keep number of public methods under 10."
+  />
+  <violation
+    line="14053"
+    source="TooManyMethods"
+    severity="Medium"
+    type="pmd"
+    message="The class Factory has 39 non-getter- and setter-methods. Consider refactoring Factory to keep number of methods under 25."
+    severity-level="2"
+    popup-message="The class Factory has 39 non-getter- and setter-methods. Consider refactoring Factory to keep number of methods under 25."
+  />
+  <violation
+    line="14053"
+    source="ExcessiveClassComplexity"
+    severity="Medium"
+    type="pmd"
+    message="The class Factory has an overall complexity of 81 which is very high. The configured complexity threshold is 50."
+    severity-level="2"
+    popup-message="The class Factory has an overall complexity of 81 which is very high. The configured complexity threshold is 50."
+  />
+  <line number='1'>&lt;?php</line>
+  <line number='2'>namespace Illuminate\Contracts\Container {</line>
+  <line number='3'>use Closure;</line>
+  <line number='4'>interface Container</line>
+  <line number='5'>{</line>
+  <line number='6'>    public function bound($abstract);</line>
+  <line number='7'>    public function alias($abstract, $alias);</line>
+  <line number='8'>    public function tag($abstracts, $tags);</line>
+  <line number='9'>    public function tagged($tag);</line>
+  <line number='10'>    public function bind($abstract, $concrete = null, $shared = false);</line>
+  <line number='11'>    public function bindIf($abstract, $concrete = null, $shared = false);</line>
+  <line number='12'>    public function singleton($abstract, $concrete = null);</line>
+  <line number='13'>    public function extend($abstract, Closure $closure);</line>
+  <line number='14'>    public function instance($abstract, $instance);</line>
+  <line number='15'>    public function when($concrete);</line>
+  <line number='16'>    public function make($abstract, array $parameters = []);</line>
+  <line number='17'>    public function call($callback, array $parameters = [], $defaultMethod = null);</line>
+  <line number='18'>    public function resolved($abstract);</line>
+  <line number='19'>    public function resolving($abstract, Closure $callback = null);</line>
+  <line number='20'>    public function afterResolving($abstract, Closure $callback = null);</line>
+  <line number='21'>}</line>
+  <line number='22'>}</line>
+  <line number='23'></line>
+  <line number='24'>namespace Illuminate\Contracts\Container {</line>
+  <line number='25'>interface ContextualBindingBuilder</line>
+  <line number='26'>{</line>
+  <line number='27'>    public function needs($abstract);</line>
+  <line number='28'>    public function give($implementation);</line>
+  <line number='29'>}</line>
+  <line number='30'>}</line>
+  <line number='31'></line>
+  <line number='32'>namespace Illuminate\Contracts\Foundation {</line>
+  <line number='33'>use Illuminate\Contracts\Container\Container;</line>
+  <line number='34'>interface Application extends Container</line>
+  <line number='35'>{</line>
+  <line number='36'>    public function version();</line>
+  <line number='37'>    public function basePath();</line>
+  <line number='38'>    public function environment();</line>
+  <line number='39'>    public function isDownForMaintenance();</line>
+  <line number='40'>    public function registerConfiguredProviders();</line>
+  <line number='41'>    public function register($provider, $options = [], $force = false);</line>
+  <line number='42'>    public function registerDeferredProvider($provider, $service = null);</line>
+  <line number='43'>    public function boot();</line>
+  <line number='44'>    public function booting($callback);</line>
+  <line number='45'>    public function booted($callback);</line>
+  <line number='46'>    public function getCachedCompilePath();</line>
+  <line number='47'>    public function getCachedServicesPath();</line>
+  <line number='48'>}</line>
+  <line number='49'>}</line>
+  <line number='50'></line>
+  <line number='51'>namespace Illuminate\Contracts\Bus {</line>
+  <line number='52'>use Closure;</line>
+  <line number='53'>use ArrayAccess;</line>
+  <line number='54'>interface Dispatcher</line>
+  <line number='55'>{</line>
+  <line number='56'>    public function dispatchFromArray($command, array $array);</line>
+  <line number='57'>    public function dispatchFrom($command, ArrayAccess $source, array $extras = []);</line>
+  <line number='58'>    public function dispatch($command, Closure $afterResolving = null);</line>
+  <line number='59'>    public function dispatchNow($command, Closure $afterResolving = null);</line>
+  <line number='60'>    public function pipeThrough(array $pipes);</line>
+  <line number='61'>}</line>
+  <line number='62'>}</line>
+  <line number='63'></line>
+  <line number='64'>namespace Illuminate\Contracts\Bus {</line>
+  <line number='65'>interface QueueingDispatcher extends Dispatcher</line>
+  <line number='66'>{</line>
+  <line number='67'>    public function dispatchToQueue($command);</line>
+  <line number='68'>}</line>
+  <line number='69'>}</line>
+  <line number='70'></line>
+  <line number='71'>namespace Illuminate\Contracts\Bus {</line>
+  <line number='72'>use Closure;</line>
+  <line number='73'>interface HandlerResolver</line>
+  <line number='74'>{</line>
+  <line number='75'>    public function resolveHandler($command);</line>
+  <line number='76'>    public function getHandlerClass($command);</line>
+  <line number='77'>    public function getHandlerMethod($command);</line>
+  <line number='78'>    public function maps(array $commands);</line>
+  <line number='79'>    public function mapUsing(Closure $mapper);</line>
+  <line number='80'>}</line>
+  <line number='81'>}</line>
+  <line number='82'></line>
+  <line number='83'>namespace Illuminate\Contracts\Pipeline {</line>
+  <line number='84'>use Closure;</line>
+  <line number='85'>interface Pipeline</line>
+  <line number='86'>{</line>
+  <line number='87'>    public function send($traveler);</line>
+  <line number='88'>    public function through($stops);</line>
+  <line number='89'>    public function via($method);</line>
+  <line number='90'>    public function then(Closure $destination);</line>
+  <line number='91'>}</line>
+  <line number='92'>}</line>
+  <line number='93'></line>
+  <line number='94'>namespace Illuminate\Contracts\Support {</line>
+  <line number='95'>interface Renderable</line>
+  <line number='96'>{</line>
+  <line number='97'>    public function render();</line>
+  <line number='98'>}</line>
+  <line number='99'>}</line>
+  <line number='100'></line>
+  <line number='101'>namespace Illuminate\Contracts\Logging {</line>
+  <line number='102'>interface Log</line>
+  <line number='103'>{</line>
+  <line number='104'>    public function alert($message, array $context = []);</line>
+  <line number='105'>    public function critical($message, array $context = []);</line>
+  <line number='106'>    public function error($message, array $context = []);</line>
+  <line number='107'>    public function warning($message, array $context = []);</line>
+  <line number='108'>    public function notice($message, array $context = []);</line>
+  <line number='109'>    public function info($message, array $context = []);</line>
+  <line number='110'>    public function debug($message, array $context = []);</line>
+  <line number='111'>    public function log($level, $message, array $context = []);</line>
+  <line number='112'>    public function useFiles($path, $level = 'debug');</line>
+  <line number='113'>    public function useDailyFiles($path, $days = 0, $level = 'debug');</line>
+  <line number='114'>}</line>
+  <line number='115'>}</line>
+  <line number='116'></line>
+  <line number='117'>namespace Illuminate\Contracts\Debug {</line>
+  <line number='118'>use Exception;</line>
+  <line number='119'>interface ExceptionHandler</line>
+  <line number='120'>{</line>
+  <line number='121'>    public function report(Exception $e);</line>
+  <line number='122'>    public function render($request, Exception $e);</line>
+  <line number='123'>    public function renderForConsole($output, Exception $e);</line>
+  <line number='124'>}</line>
+  <line number='125'>}</line>
+  <line number='126'></line>
+  <line number='127'>namespace Illuminate\Contracts\Config {</line>
+  <line number='128'>interface Repository</line>
+  <line number='129'>{</line>
+  <line number='130'>    public function has($key);</line>
+  <line number='131'>    public function get($key, $default = null);</line>
+  <line number='132'>    public function all();</line>
+  <line number='133'>    public function set($key, $value = null);</line>
+  <line number='134'>    public function prepend($key, $value);</line>
+  <line number='135'>    public function push($key, $value);</line>
+  <line number='136'>}</line>
+  <line number='137'>}</line>
+  <line number='138'></line>
+  <line number='139'>namespace Illuminate\Contracts\Events {</line>
+  <line number='140'>interface Dispatcher</line>
+  <line number='141'>{</line>
+  <line number='142'>    public function listen($events, $listener, $priority = 0);</line>
+  <line number='143'>    public function hasListeners($eventName);</line>
+  <line number='144'>    public function push($event, $payload = []);</line>
+  <line number='145'>    public function subscribe($subscriber);</line>
+  <line number='146'>    public function until($event, $payload = []);</line>
+  <line number='147'>    public function flush($event);</line>
+  <line number='148'>    public function fire($event, $payload = [], $halt = false);</line>
+  <line number='149'>    public function firing();</line>
+  <line number='150'>    public function forget($event);</line>
+  <line number='151'>    public function forgetPushed();</line>
+  <line number='152'>}</line>
+  <line number='153'>}</line>
+  <line number='154'></line>
+  <line number='155'>namespace Illuminate\Contracts\Support {</line>
+  <line number='156'>interface Arrayable</line>
+  <line number='157'>{</line>
+  <line number='158'>    public function toArray();</line>
+  <line number='159'>}</line>
+  <line number='160'>}</line>
+  <line number='161'></line>
+  <line number='162'>namespace Illuminate\Contracts\Support {</line>
+  <line number='163'>interface Jsonable</line>
+  <line number='164'>{</line>
+  <line number='165'>    public function toJson($options = 0);</line>
+  <line number='166'>}</line>
+  <line number='167'>}</line>
+  <line number='168'></line>
+  <line number='169'>namespace Illuminate\Contracts\Cookie {</line>
+  <line number='170'>interface Factory</line>
+  <line number='171'>{</line>
+  <line number='172'>    public function make($name, $value, $minutes = 0, $path = null, $domain = null, $secure = false, $httpOnly = true);</line>
+  <line number='173'>    public function forever($name, $value, $path = null, $domain = null, $secure = false, $httpOnly = true);</line>
+  <line number='174'>    public function forget($name, $path = null, $domain = null);</line>
+  <line number='175'>}</line>
+  <line number='176'>}</line>
+  <line number='177'></line>
+  <line number='178'>namespace Illuminate\Contracts\Cookie {</line>
+  <line number='179'>interface QueueingFactory extends Factory</line>
+  <line number='180'>{</line>
+  <line number='181'>    public function queue();</line>
+  <line number='182'>    public function unqueue($name);</line>
+  <line number='183'>    public function getQueuedCookies();</line>
+  <line number='184'>}</line>
+  <line number='185'>}</line>
+  <line number='186'></line>
+  <line number='187'>namespace Illuminate\Contracts\Encryption {</line>
+  <line number='188'>interface Encrypter</line>
+  <line number='189'>{</line>
+  <line number='190'>    public function encrypt($value);</line>
+  <line number='191'>    public function decrypt($payload);</line>
+  <line number='192'>}</line>
+  <line number='193'>}</line>
+  <line number='194'></line>
+  <line number='195'>namespace Illuminate\Contracts\Queue {</line>
+  <line number='196'>interface QueueableEntity</line>
+  <line number='197'>{</line>
+  <line number='198'>    public function getQueueableId();</line>
+  <line number='199'>}</line>
+  <line number='200'>}</line>
+  <line number='201'></line>
+  <line number='202'>namespace Illuminate\Contracts\Routing {</line>
+  <line number='203'>use Closure;</line>
+  <line number='204'>interface Registrar</line>
+  <line number='205'>{</line>
+  <line number='206'>    public function get($uri, $action);</line>
+  <line number='207'>    public function post($uri, $action);</line>
+  <line number='208'>    public function put($uri, $action);</line>
+  <line number='209'>    public function delete($uri, $action);</line>
+  <line number='210'>    public function patch($uri, $action);</line>
+  <line number='211'>    public function options($uri, $action);</line>
+  <line number='212'>    public function match($methods, $uri, $action);</line>
+  <line number='213'>    public function resource($name, $controller, array $options = []);</line>
+  <line number='214'>    public function group(array $attributes, Closure $callback);</line>
+  <line number='215'>}</line>
+  <line number='216'>}</line>
+  <line number='217'></line>
+  <line number='218'>namespace Illuminate\Contracts\Routing {</line>
+  <line number='219'>interface ResponseFactory</line>
+  <line number='220'>{</line>
+  <line number='221'>    public function make($content = '', $status = 200, array $headers = []);</line>
+  <line number='222'>    public function view($view, $data = [], $status = 200, array $headers = []);</line>
+  <line number='223'>    public function json($data = [], $status = 200, array $headers = [], $options = 0);</line>
+  <line number='224'>    public function jsonp($callback, $data = [], $status = 200, array $headers = [], $options = 0);</line>
+  <line number='225'>    public function stream($callback, $status = 200, array $headers = []);</line>
+  <line number='226'>    public function download($file, $name = null, array $headers = [], $disposition = 'attachment');</line>
+  <line number='227'>    public function redirectTo($path, $status = 302, $headers = [], $secure = null);</line>
+  <line number='228'>    public function redirectToRoute($route, $parameters = [], $status = 302, $headers = []);</line>
+  <line number='229'>    public function redirectToAction($action, $parameters = [], $status = 302, $headers = []);</line>
+  <line number='230'>    public function redirectGuest($path, $status = 302, $headers = [], $secure = null);</line>
+  <line number='231'>    public function redirectToIntended($default = '/', $status = 302, $headers = [], $secure = null);</line>
+  <line number='232'>}</line>
+  <line number='233'>}</line>
+  <line number='234'></line>
+  <line number='235'>namespace Illuminate\Contracts\Routing {</line>
+  <line number='236'>interface UrlGenerator</line>
+  <line number='237'>{</line>
+  <line number='238'>    public function to($path, $extra = [], $secure = null);</line>
+  <line number='239'>    public function secure($path, $parameters = []);</line>
+  <line number='240'>    public function asset($path, $secure = null);</line>
+  <line number='241'>    public function route($name, $parameters = [], $absolute = true);</line>
+  <line number='242'>    public function action($action, $parameters = [], $absolute = true);</line>
+  <line number='243'>    public function setRootControllerNamespace($rootNamespace);</line>
+  <line number='244'>}</line>
+  <line number='245'>}</line>
+  <line number='246'></line>
+  <line number='247'>namespace Illuminate\Contracts\Routing {</line>
+  <line number='248'>interface UrlRoutable</line>
+  <line number='249'>{</line>
+  <line number='250'>    public function getRouteKey();</line>
+  <line number='251'>    public function getRouteKeyName();</line>
+  <line number='252'>}</line>
+  <line number='253'>}</line>
+  <line number='254'></line>
+  <line number='255'>namespace Illuminate\Contracts\Validation {</line>
+  <line number='256'>interface ValidatesWhenResolved</line>
+  <line number='257'>{</line>
+  <line number='258'>    public function validate();</line>
+  <line number='259'>}</line>
+  <line number='260'>}</line>
+  <line number='261'></line>
+  <line number='262'>namespace Illuminate\Contracts\View {</line>
+  <line number='263'>interface Factory</line>
+  <line number='264'>{</line>
+  <line number='265'>    public function exists($view);</line>
+  <line number='266'>    public function file($path, $data = [], $mergeData = []);</line>
+  <line number='267'>    public function make($view, $data = [], $mergeData = []);</line>
+  <line number='268'>    public function share($key, $value = null);</line>
+  <line number='269'>    public function composer($views, $callback, $priority = null);</line>
+  <line number='270'>    public function creator($views, $callback);</line>
+  <line number='271'>    public function addNamespace($namespace, $hints);</line>
+  <line number='272'>}</line>
+  <line number='273'>}</line>
+  <line number='274'></line>
+  <line number='275'>namespace Illuminate\Contracts\Support {</line>
+  <line number='276'>interface MessageProvider</line>
+  <line number='277'>{</line>
+  <line number='278'>    public function getMessageBag();</line>
+  <line number='279'>}</line>
+  <line number='280'>}</line>
+  <line number='281'></line>
+  <line number='282'>namespace Illuminate\Contracts\Support {</line>
+  <line number='283'>interface MessageBag</line>
+  <line number='284'>{</line>
+  <line number='285'>    public function keys();</line>
+  <line number='286'>    public function add($key, $message);</line>
+  <line number='287'>    public function merge($messages);</line>
+  <line number='288'>    public function has($key = null);</line>
+  <line number='289'>    public function first($key = null, $format = null);</line>
+  <line number='290'>    public function get($key, $format = null);</line>
+  <line number='291'>    public function all($format = null);</line>
+  <line number='292'>    public function getFormat();</line>
+  <line number='293'>    public function setFormat($format = ':message');</line>
+  <line number='294'>    public function isEmpty();</line>
+  <line number='295'>    public function count();</line>
+  <line number='296'>    public function toArray();</line>
+  <line number='297'>}</line>
+  <line number='298'>}</line>
+  <line number='299'></line>
+  <line number='300'>namespace Illuminate\Contracts\View {</line>
+  <line number='301'>use Illuminate\Contracts\Support\Renderable;</line>
+  <line number='302'>interface View extends Renderable</line>
+  <line number='303'>{</line>
+  <line number='304'>    public function name();</line>
+  <line number='305'>    public function with($key, $value = null);</line>
+  <line number='306'>}</line>
+  <line number='307'>}</line>
+  <line number='308'></line>
+  <line number='309'>namespace Illuminate\Contracts\Http {</line>
+  <line number='310'>interface Kernel</line>
+  <line number='311'>{</line>
+  <line number='312'>    public function bootstrap();</line>
+  <line number='313'>    public function handle($request);</line>
+  <line number='314'>    public function terminate($request, $response);</line>
+  <line number='315'>    public function getApplication();</line>
+  <line number='316'>}</line>
+  <line number='317'>}</line>
+  <line number='318'></line>
+  <line number='319'>namespace Illuminate\Contracts\Auth {</line>
+  <line number='320'>interface Guard</line>
+  <line number='321'>{</line>
+  <line number='322'>    public function check();</line>
+  <line number='323'>    public function guest();</line>
+  <line number='324'>    public function user();</line>
+  <line number='325'>    public function once(array $credentials = []);</line>
+  <line number='326'>    public function attempt(array $credentials = [], $remember = false, $login = true);</line>
+  <line number='327'>    public function basic($field = 'email');</line>
+  <line number='328'>    public function onceBasic($field = 'email');</line>
+  <line number='329'>    public function validate(array $credentials = []);</line>
+  <line number='330'>    public function login(Authenticatable $user, $remember = false);</line>
+  <line number='331'>    public function loginUsingId($id, $remember = false);</line>
+  <line number='332'>    public function viaRemember();</line>
+  <line number='333'>    public function logout();</line>
+  <line number='334'>}</line>
+  <line number='335'>}</line>
+  <line number='336'></line>
+  <line number='337'>namespace Illuminate\Contracts\Auth\Access {</line>
+  <line number='338'>interface Gate</line>
+  <line number='339'>{</line>
+  <line number='340'>    public function has($ability);</line>
+  <line number='341'>    public function define($ability, $callback);</line>
+  <line number='342'>    public function policy($class, $policy);</line>
+  <line number='343'>    public function check($ability, $arguments = []);</line>
+  <line number='344'>}</line>
+  <line number='345'>}</line>
+  <line number='346'></line>
+  <line number='347'>namespace Illuminate\Contracts\Hashing {</line>
+  <line number='348'>interface Hasher</line>
+  <line number='349'>{</line>
+  <line number='350'>    public function make($value, array $options = []);</line>
+  <line number='351'>    public function check($value, $hashedValue, array $options = []);</line>
+  <line number='352'>    public function needsRehash($hashedValue, array $options = []);</line>
+  <line number='353'>}</line>
+  <line number='354'>}</line>
+  <line number='355'></line>
+  <line number='356'>namespace Illuminate\Auth {</line>
+  <line number='357'>use Illuminate\Support\Manager;</line>
+  <line number='358'>use Illuminate\Contracts\Auth\Guard as GuardContract;</line>
+  <line number='359'>class AuthManager extends Manager</line>
+  <line number='360'>{</line>
+  <line number='361'>    protected function createDriver($driver)</line>
+  <line number='362'>    {</line>
+  <line number='363'>        $guard = parent::createDriver($driver);</line>
+  <line number='364'>        if (method_exists($guard, 'setCookieJar')) {</line>
+  <line number='365'>            $guard-&gt;setCookieJar($this-&gt;app['cookie']);</line>
+  <line number='366'>        }</line>
+  <line number='367'>        if (method_exists($guard, 'setDispatcher')) {</line>
+  <line number='368'>            $guard-&gt;setDispatcher($this-&gt;app['events']);</line>
+  <line number='369'>        }</line>
+  <line number='370'>        if (method_exists($guard, 'setRequest')) {</line>
+  <line number='371'>            $guard-&gt;setRequest($this-&gt;app-&gt;refresh('request', $guard, 'setRequest'));</line>
+  <line number='372'>        }</line>
+  <line number='373'>        return $guard;</line>
+  <line number='374'>    }</line>
+  <line number='375'>    protected function callCustomCreator($driver)</line>
+  <line number='376'>    {</line>
+  <line number='377'>        $custom = parent::callCustomCreator($driver);</line>
+  <line number='378'>        if ($custom instanceof GuardContract) {</line>
+  <line number='379'>            return $custom;</line>
+  <line number='380'>        }</line>
+  <line number='381'>        return new Guard($custom, $this-&gt;app['session.store']);</line>
+  <line number='383'>    public function createDatabaseDriver()</line>
+  <line number='384'>    {</line>
+  <line number='385'>        $provider = $this-&gt;createDatabaseProvider();</line>
+  <line number='386'>        return new Guard($provider, $this-&gt;app['session.store']);</line>
+  <line number='387'>    }</line>
+  <line number='388'>    protected function createDatabaseProvider()</line>
+  <line number='389'>    {</line>
+  <line number='390'>        $connection = $this-&gt;app['db']-&gt;connection();</line>
+  <line number='391'>        $table = $this-&gt;app['config']['auth.table'];</line>
+  <line number='392'>        return new DatabaseUserProvider($connection, $this-&gt;app['hash'], $table);</line>
+  <line number='393'>    }</line>
+  <line number='394'>    public function createEloquentDriver()</line>
+  <line number='395'>    {</line>
+  <line number='396'>        $provider = $this-&gt;createEloquentProvider();</line>
+  <line number='397'>        return new Guard($provider, $this-&gt;app['session.store']);</line>
+  <line number='398'>    }</line>
+  <line number='399'>    protected function createEloquentProvider()</line>
+  <line number='400'>    {</line>
+  <line number='401'>        $model = $this-&gt;app['config']['auth.model'];</line>
+  <line number='402'>        return new EloquentUserProvider($this-&gt;app['hash'], $model);</line>
+  <line number='417'>use Illuminate\Support\Str;</line>
+  <line number='418'>use Illuminate\Contracts\Events\Dispatcher;</line>
+  <line number='419'>use Illuminate\Contracts\Auth\UserProvider;</line>
+  <line number='420'>use Symfony\Component\HttpFoundation\Request;</line>
+  <line number='421'>use Symfony\Component\HttpFoundation\Response;</line>
+  <line number='422'>use Illuminate\Contracts\Auth\Guard as GuardContract;</line>
+  <line number='423'>use Illuminate\Contracts\Cookie\QueueingFactory as CookieJar;</line>
+  <line number='424'>use Illuminate\Contracts\Auth\Authenticatable as UserContract;</line>
+  <line number='425'>use Symfony\Component\HttpFoundation\Session\SessionInterface;</line>
+  <line number='426'>class Guard implements GuardContract</line>
+  <line number='427'>{</line>
+  <line number='428'>    protected $user;</line>
+  <line number='429'>    protected $lastAttempted;</line>
+  <line number='430'>    protected $viaRemember = false;</line>
+  <line number='431'>    protected $provider;</line>
+  <line number='432'>    protected $session;</line>
+  <line number='433'>    protected $cookie;</line>
+  <line number='434'>    protected $request;</line>
+  <line number='435'>    protected $events;</line>
+  <line number='436'>    protected $loggedOut = false;</line>
+  <line number='437'>    protected $tokenRetrievalAttempted = false;</line>
+  <line number='438'>    public function __construct(UserProvider $provider, SessionInterface $session, Request $request = null)</line>
+  <line number='439'>    {</line>
+  <line number='440'>        $this-&gt;session = $session;</line>
+  <line number='441'>        $this-&gt;request = $request;</line>
+  <line number='442'>        $this-&gt;provider = $provider;</line>
+  <line number='443'>    }</line>
+  <line number='444'>    public function check()</line>
+  <line number='445'>    {</line>
+  <line number='446'>        return !is_null($this-&gt;user());</line>
+  <line number='447'>    }</line>
+  <line number='448'>    public function guest()</line>
+  <line number='479'>        }</line>
+  <line number='480'>        $id = $this-&gt;session-&gt;get($this-&gt;getName());</line>
+  <line number='481'>        if (is_null($id) &amp;&amp; $this-&gt;user()) {</line>
+  <line number='482'>            $id = $this-&gt;user()-&gt;getAuthIdentifier();</line>
+  <line number='483'>        }</line>
+  <line number='484'>        return $id;</line>
+  <line number='485'>    }</line>
+  <line number='486'>    protected function getUserByRecaller($recaller)</line>
+  <line number='487'>    {</line>
+  <line number='488'>        if ($this-&gt;validRecaller($recaller) &amp;&amp; !$this-&gt;tokenRetrievalAttempted) {</line>
+  <line number='489'>            $this-&gt;tokenRetrievalAttempted = true;</line>
+  <line number='490'>            list($id, $token) = explode('|', $recaller, 2);</line>
+  <line number='491'>            $this-&gt;viaRemember = !is_null($user = $this-&gt;provider-&gt;retrieveByToken($id, $token));</line>
+  <line number='492'>            return $user;</line>
+  <line number='493'>        }</line>
+  <line number='494'>    }</line>
+  <line number='495'>    protected function getRecaller()</line>
+  <line number='496'>    {</line>
+  <line number='497'>        return $this-&gt;request-&gt;cookies-&gt;get($this-&gt;getRecallerName());</line>
+  <line number='498'>    }</line>
+  <line number='499'>    protected function getRecallerId()</line>
+  <line number='500'>    {</line>
+  <line number='501'>        if ($this-&gt;validRecaller($recaller = $this-&gt;getRecaller())) {</line>
+  <line number='502'>            return head(explode('|', $recaller));</line>
+  <line number='503'>        }</line>
+  <line number='504'>    }</line>
+  <line number='505'>    protected function validRecaller($recaller)</line>
+  <line number='506'>    {</line>
+  <line number='507'>        if (!is_string($recaller) || !Str::contains($recaller, '|')) {</line>
+  <line number='508'>            return false;</line>
+  <line number='509'>        }</line>
+  <line number='510'>        $segments = explode('|', $recaller);</line>
+  <line number='511'>        return count($segments) == 2 &amp;&amp; trim($segments[0]) !== '' &amp;&amp; trim($segments[1]) !== '';</line>
+  <line number='512'>    }</line>
+  <line number='513'>    public function once(array $credentials = [])</line>
+  <line number='514'>    {</line>
+  <line number='515'>        if ($this-&gt;validate($credentials)) {</line>
+  <line number='516'>            $this-&gt;setUser($this-&gt;lastAttempted);</line>
+  <line number='517'>            return true;</line>
+  <line number='518'>        }</line>
+  <line number='519'>        return false;</line>
+  <line number='520'>    }</line>
+  <line number='521'>    public function validate(array $credentials = [])</line>
+  <line number='528'>            return;</line>
+  <line number='529'>        }</line>
+  <line number='530'>        if ($this-&gt;attemptBasic($this-&gt;getRequest(), $field)) {</line>
+  <line number='531'>            return;</line>
+  <line number='532'>        }</line>
+  <line number='533'>        return $this-&gt;getBasicResponse();</line>
+  <line number='534'>    }</line>
+  <line number='535'>    public function onceBasic($field = 'email')</line>
+  <line number='536'>    {</line>
+  <line number='537'>        if (!$this-&gt;once($this-&gt;getBasicCredentials($this-&gt;getRequest(), $field))) {</line>
+  <line number='538'>            return $this-&gt;getBasicResponse();</line>
+  <line number='539'>        }</line>
+  <line number='540'>    }</line>
+  <line number='541'>    protected function attemptBasic(Request $request, $field)</line>
+  <line number='542'>    {</line>
+  <line number='543'>        if (!$request-&gt;getUser()) {</line>
+  <line number='544'>            return false;</line>
+  <line number='545'>        }</line>
+  <line number='546'>        return $this-&gt;attempt($this-&gt;getBasicCredentials($request, $field));</line>
+  <line number='547'>    }</line>
+  <line number='548'>    protected function getBasicCredentials(Request $request, $field)</line>
+  <line number='549'>    {</line>
+  <line number='550'>        return [$field =&gt; $request-&gt;getUser(), 'password' =&gt; $request-&gt;getPassword()];</line>
+  <line number='551'>    }</line>
+  <line number='552'>    protected function getBasicResponse()</line>
+  <line number='553'>    {</line>
+  <line number='554'>        $headers = ['WWW-Authenticate' =&gt; 'Basic'];</line>
+  <line number='555'>        return new Response('Invalid credentials.', 401, $headers);</line>
+  <line number='556'>    }</line>
+  <line number='557'>    public function attempt(array $credentials = [], $remember = false, $login = true)</line>
+  <line number='558'>    {</line>
+  <line number='559'>        $this-&gt;fireAttemptEvent($credentials, $remember, $login);</line>
+  <line number='560'>        $this-&gt;lastAttempted = $user = $this-&gt;provider-&gt;retrieveByCredentials($credentials);</line>
+  <line number='561'>        if ($this-&gt;hasValidCredentials($user, $credentials)) {</line>
+  <line number='562'>            if ($login) {</line>
+  <line number='563'>                $this-&gt;login($user, $remember);</line>
+  <line number='564'>            }</line>
+  <line number='565'>            return true;</line>
+  <line number='566'>        }</line>
+  <line number='567'>        return false;</line>
+  <line number='568'>    }</line>
+  <line number='569'>    protected function hasValidCredentials($user, $credentials)</line>
+  <line number='570'>    {</line>
+  <line number='571'>        return !is_null($user) &amp;&amp; $this-&gt;provider-&gt;validateCredentials($user, $credentials);</line>
+  <line number='572'>    }</line>
+  <line number='573'>    protected function fireAttemptEvent(array $credentials, $remember, $login)</line>
+  <line number='574'>    {</line>
+  <line number='575'>        if ($this-&gt;events) {</line>
+  <line number='576'>            $payload = [$credentials, $remember, $login];</line>
+  <line number='577'>            $this-&gt;events-&gt;fire('auth.attempt', $payload);</line>
+  <line number='578'>        }</line>
+  <line number='579'>    }</line>
+  <line number='580'>    public function attempting($callback)</line>
+  <line number='581'>    {</line>
+  <line number='639'>        }</line>
+  <line number='640'>        $this-&gt;user = null;</line>
+  <line number='641'>        $this-&gt;loggedOut = true;</line>
+  <line number='642'>    }</line>
+  <line number='643'>    protected function clearUserDataFromStorage()</line>
+  <line number='644'>    {</line>
+  <line number='645'>        $this-&gt;session-&gt;remove($this-&gt;getName());</line>
+  <line number='646'>        if (!is_null($this-&gt;getRecaller())) {</line>
+  <line number='647'>            $recaller = $this-&gt;getRecallerName();</line>
+  <line number='648'>            $this-&gt;getCookieJar()-&gt;queue($this-&gt;getCookieJar()-&gt;forget($recaller));</line>
+  <line number='649'>        }</line>
+  <line number='650'>    }</line>
+  <line number='651'>    protected function refreshRememberToken(UserContract $user)</line>
+  <line number='652'>    {</line>
+  <line number='653'>        $user-&gt;setRememberToken($token = Str::random(60));</line>
+  <line number='654'>        $this-&gt;provider-&gt;updateRememberToken($user, $token);</line>
+  <line number='655'>    }</line>
+  <line number='656'>    protected function createRememberTokenIfDoesntExist(UserContract $user)</line>
+  <line number='657'>    {</line>
+  <line number='658'>        if (empty($user-&gt;getRememberToken())) {</line>
+  <line number='726'>    }</line>
+  <line number='727'>}</line>
+  <line number='728'>}</line>
+  <line number='729'></line>
+  <line number='730'>namespace Illuminate\Auth\Access {</line>
+  <line number='731'>use Illuminate\Support\Str;</line>
+  <line number='732'>use InvalidArgumentException;</line>
+  <line number='733'>use Illuminate\Contracts\Container\Container;</line>
+  <line number='734'>use Illuminate\Contracts\Auth\Access\Gate as GateContract;</line>
+  <line number='735'>class Gate implements GateContract</line>
+  <line number='736'>{</line>
+  <line number='737'>    use HandlesAuthorization;</line>
+  <line number='738'>    protected $container;</line>
+  <line number='739'>    protected $userResolver;</line>
+  <line number='740'>    protected $abilities = [];</line>
+  <line number='741'>    protected $policies = [];</line>
+  <line number='742'>    protected $beforeCallbacks = [];</line>
+  <line number='743'>    protected $afterCallbacks = [];</line>
+  <line number='744'>    public function __construct(Container $container, callable $userResolver, array $abilities = [], array $policies = [], array $beforeCallbacks = [], array $afterCallbacks = [])</line>
+  <line number='745'>    {</line>
+  <line number='746'>        $this-&gt;policies = $policies;</line>
+  <line number='747'>        $this-&gt;container = $container;</line>
+  <line number='748'>        $this-&gt;abilities = $abilities;</line>
+  <line number='749'>        $this-&gt;userResolver = $userResolver;</line>
+  <line number='750'>        $this-&gt;afterCallbacks = $afterCallbacks;</line>
+  <line number='751'>        $this-&gt;beforeCallbacks = $beforeCallbacks;</line>
+  <line number='752'>    }</line>
+  <line number='753'>    public function has($ability)</line>
+  <line number='754'>    {</line>
+  <line number='755'>        return isset($this-&gt;abilities[$ability]);</line>
+  <line number='756'>    }</line>
+  <line number='757'>    public function define($ability, $callback)</line>
+  <line number='758'>    {</line>
+  <line number='759'>        if (is_callable($callback)) {</line>
+  <line number='760'>            $this-&gt;abilities[$ability] = $callback;</line>
+  <line number='761'>        } elseif (is_string($callback) &amp;&amp; str_contains($callback, '@')) {</line>
+  <line number='762'>            $this-&gt;abilities[$ability] = $this-&gt;buildAbilityCallback($callback);</line>
+  <line number='763'>        } else {</line>
+  <line number='764'>            throw new InvalidArgumentException("Callback must be a callable or a 'Class@method' string.");</line>
+  <line number='765'>        }</line>
+  <line number='766'>        return $this;</line>
+  <line number='767'>    }</line>
+  <line number='768'>    protected function buildAbilityCallback($callback)</line>
+  <line number='769'>    {</line>
+  <line number='770'>        return function () use($callback) {</line>
+  <line number='771'>            list($class, $method) = explode('@', $callback);</line>
+  <line number='772'>            return call_user_func_array([$this-&gt;resolvePolicy($class), $method], func_get_args());</line>
+  <line number='773'>        };</line>
+  <line number='774'>    }</line>
+  <line number='775'>    public function policy($class, $policy)</line>
+  <line number='776'>    {</line>
+  <line number='777'>        $this-&gt;policies[$class] = $policy;</line>
+  <line number='778'>        return $this;</line>
+  <line number='779'>    }</line>
+  <line number='780'>    public function before(callable $callback)</line>
+  <line number='781'>    {</line>
+  <line number='782'>        $this-&gt;beforeCallbacks[] = $callback;</line>
+  <line number='812'>        }</line>
+  <line number='813'>        return $result ? $this-&gt;allow() : $this-&gt;deny();</line>
+  <line number='814'>    }</line>
+  <line number='815'>    protected function raw($ability, $arguments = [])</line>
+  <line number='816'>    {</line>
+  <line number='817'>        if (!($user = $this-&gt;resolveUser())) {</line>
+  <line number='818'>            return false;</line>
+  <line number='819'>        }</line>
+  <line number='820'>        $arguments = is_array($arguments) ? $arguments : [$arguments];</line>
+  <line number='821'>        if (is_null($result = $this-&gt;callBeforeCallbacks($user, $ability, $arguments))) {</line>
+  <line number='822'>            $result = $this-&gt;callAuthCallback($user, $ability, $arguments);</line>
+  <line number='823'>        }</line>
+  <line number='824'>        $this-&gt;callAfterCallbacks($user, $ability, $arguments, $result);</line>
+  <line number='825'>        return $result;</line>
+  <line number='826'>    }</line>
+  <line number='827'>    protected function callAuthCallback($user, $ability, array $arguments)</line>
+  <line number='828'>    {</line>
+  <line number='829'>        $callback = $this-&gt;resolveAuthCallback($user, $ability, $arguments);</line>
+  <line number='830'>        return call_user_func_array($callback, array_merge([$user], $arguments));</line>
+  <line number='831'>    }</line>
+  <line number='832'>    protected function callBeforeCallbacks($user, $ability, array $arguments)</line>
+  <line number='833'>    {</line>
+  <line number='834'>        $arguments = array_merge([$user, $ability], $arguments);</line>
+  <line number='835'>        foreach ($this-&gt;beforeCallbacks as $before) {</line>
+  <line number='836'>            if (!is_null($result = call_user_func_array($before, $arguments))) {</line>
+  <line number='837'>                return $result;</line>
+  <line number='838'>            }</line>
+  <line number='839'>        }</line>
+  <line number='840'>    }</line>
+  <line number='841'>    protected function callAfterCallbacks($user, $ability, array $arguments, $result)</line>
+  <line number='842'>    {</line>
+  <line number='843'>        $arguments = array_merge([$user, $ability, $result], $arguments);</line>
+  <line number='844'>        foreach ($this-&gt;afterCallbacks as $after) {</line>
+  <line number='845'>            call_user_func_array($after, $arguments);</line>
+  <line number='846'>        }</line>
+  <line number='847'>    }</line>
+  <line number='848'>    protected function resolveAuthCallback($user, $ability, array $arguments)</line>
+  <line number='849'>    {</line>
+  <line number='850'>        if ($this-&gt;firstArgumentCorrespondsToPolicy($arguments)) {</line>
+  <line number='851'>            return $this-&gt;resolvePolicyCallback($user, $ability, $arguments);</line>
+  <line number='859'>    }</line>
+  <line number='860'>    protected function firstArgumentCorrespondsToPolicy(array $arguments)</line>
+  <line number='861'>    {</line>
+  <line number='862'>        if (!isset($arguments[0])) {</line>
+  <line number='863'>            return false;</line>
+  <line number='864'>        }</line>
+  <line number='865'>        if (is_object($arguments[0])) {</line>
+  <line number='866'>            return isset($this-&gt;policies[get_class($arguments[0])]);</line>
+  <line number='867'>        }</line>
+  <line number='868'>        return is_string($arguments[0]) &amp;&amp; isset($this-&gt;policies[$arguments[0]]);</line>
+  <line number='869'>    }</line>
+  <line number='870'>    protected function resolvePolicyCallback($user, $ability, array $arguments)</line>
+  <line number='871'>    {</line>
+  <line number='872'>        return function () use($user, $ability, $arguments) {</line>
+  <line number='873'>            $instance = $this-&gt;getPolicyFor($arguments[0]);</line>
+  <line number='874'>            if (method_exists($instance, 'before')) {</line>
+  <line number='875'>                $beforeArguments = array_merge([$user, $ability], $arguments);</line>
+  <line number='876'>                $result = call_user_func_array([$instance, 'before'], $beforeArguments);</line>
+  <line number='877'>                if (!is_null($result)) {</line>
+  <line number='878'>                    return $result;</line>
+  <line number='879'>                }</line>
+  <line number='880'>            }</line>
+  <line number='881'>            if (strpos($ability, '-') !== false) {</line>
+  <line number='882'>                $ability = Str::camel($ability);</line>
+  <line number='883'>            }</line>
+  <line number='884'>            if (!is_callable([$instance, $ability])) {</line>
+  <line number='885'>                return false;</line>
+  <line number='886'>            }</line>
+  <line number='887'>            return call_user_func_array([$instance, $ability], array_merge([$user], $arguments));</line>
+  <line number='888'>        };</line>
+  <line number='889'>    }</line>
+  <line number='890'>    public function getPolicyFor($class)</line>
+  <line number='891'>    {</line>
+  <line number='892'>        if (is_object($class)) {</line>
+  <line number='893'>            $class = get_class($class);</line>
+  <line number='894'>        }</line>
+  <line number='895'>        if (!isset($this-&gt;policies[$class])) {</line>
+  <line number='896'>            throw new InvalidArgumentException("Policy not defined for [{$class}].");</line>
+  <line number='897'>        }</line>
+  <line number='898'>        return $this-&gt;resolvePolicy($this-&gt;policies[$class]);</line>
+  <line number='899'>    }</line>
+  <line number='900'>    public function resolvePolicy($class)</line>
+  <line number='901'>    {</line>
+  <line number='902'>        return $this-&gt;container-&gt;make($class);</line>
+  <line number='903'>    }</line>
+  <line number='904'>    public function forUser($user)</line>
+  <line number='905'>    {</line>
+  <line number='906'>        $callback = function () use($user) {</line>
+  <line number='907'>            return $user;</line>
+  <line number='908'>        };</line>
+  <line number='909'>        return new static($this-&gt;container, $callback, $this-&gt;abilities, $this-&gt;policies, $this-&gt;beforeCallbacks, $this-&gt;afterCallbacks);</line>
+  <line number='910'>    }</line>
+  <line number='911'>    protected function resolveUser()</line>
+  <line number='912'>    {</line>
+  <line number='913'>        return call_user_func($this-&gt;userResolver);</line>
+  <line number='914'>    }</line>
+  <line number='915'>}</line>
+  <line number='916'>}</line>
+  <line number='917'></line>
+  <line number='918'>namespace Illuminate\Contracts\Auth {</line>
+  <line number='919'>interface UserProvider</line>
+  <line number='920'>{</line>
+  <line number='921'>    public function retrieveById($identifier);</line>
+  <line number='922'>    public function retrieveByToken($identifier, $token);</line>
+  <line number='923'>    public function updateRememberToken(Authenticatable $user, $token);</line>
+  <line number='924'>    public function retrieveByCredentials(array $credentials);</line>
+  <line number='925'>    public function validateCredentials(Authenticatable $user, array $credentials);</line>
+  <line number='926'>}</line>
+  <line number='927'>}</line>
+  <line number='928'></line>
+  <line number='929'>namespace Illuminate\Auth {</line>
+  <line number='930'>use Illuminate\Support\Str;</line>
+  <line number='931'>use Illuminate\Contracts\Auth\UserProvider;</line>
+  <line number='932'>use Illuminate\Contracts\Hashing\Hasher as HasherContract;</line>
+  <line number='933'>use Illuminate\Contracts\Auth\Authenticatable as UserContract;</line>
+  <line number='934'>class EloquentUserProvider implements UserProvider</line>
+  <line number='935'>{</line>
+  <line number='936'>    protected $hasher;</line>
+  <line number='937'>    protected $model;</line>
+  <line number='938'>    public function __construct(HasherContract $hasher, $model)</line>
+  <line number='939'>    {</line>
+  <line number='940'>        $this-&gt;model = $model;</line>
+  <line number='941'>        $this-&gt;hasher = $hasher;</line>
+  <line number='942'>    }</line>
+  <line number='943'>    public function retrieveById($identifier)</line>
+  <line number='944'>    {</line>
+  <line number='945'>        return $this-&gt;createModel()-&gt;newQuery()-&gt;find($identifier);</line>
+  <line number='946'>    }</line>
+  <line number='947'>    public function retrieveByToken($identifier, $token)</line>
+  <line number='948'>    {</line>
+  <line number='949'>        $model = $this-&gt;createModel();</line>
+  <line number='950'>        return $model-&gt;newQuery()-&gt;where($model-&gt;getKeyName(), $identifier)-&gt;where($model-&gt;getRememberTokenName(), $token)-&gt;first();</line>
+  <line number='951'>    }</line>
+  <line number='952'>    public function updateRememberToken(UserContract $user, $token)</line>
+  <line number='953'>    {</line>
+  <line number='954'>        $user-&gt;setRememberToken($token);</line>
+  <line number='955'>        $user-&gt;save();</line>
+  <line number='956'>    }</line>
+  <line number='957'>    public function retrieveByCredentials(array $credentials)</line>
+  <line number='958'>    {</line>
+  <line number='959'>        $query = $this-&gt;createModel()-&gt;newQuery();</line>
+  <line number='960'>        foreach ($credentials as $key =&gt; $value) {</line>
+  <line number='998'>namespace Illuminate\Container {</line>
+  <line number='999'>use Closure;</line>
+  <line number='1000'>use ArrayAccess;</line>
+  <line number='1001'>use ReflectionClass;</line>
+  <line number='1002'>use ReflectionMethod;</line>
+  <line number='1003'>use ReflectionFunction;</line>
+  <line number='1004'>use ReflectionParameter;</line>
+  <line number='1005'>use InvalidArgumentException;</line>
+  <line number='1006'>use Illuminate\Contracts\Container\Container as ContainerContract;</line>
+  <line number='1007'>use Illuminate\Contracts\Container\BindingResolutionException as BindingResolutionContractException;</line>
+  <line number='1008'>class Container implements ArrayAccess, ContainerContract</line>
+  <line number='1009'>{</line>
+  <line number='1010'>    protected static $instance;</line>
+  <line number='1011'>    protected $resolved = [];</line>
+  <line number='1012'>    protected $bindings = [];</line>
+  <line number='1013'>    protected $instances = [];</line>
+  <line number='1014'>    protected $aliases = [];</line>
+  <line number='1015'>    protected $extenders = [];</line>
+  <line number='1016'>    protected $tags = [];</line>
+  <line number='1017'>    protected $buildStack = [];</line>
+  <line number='1018'>    public $contextual = [];</line>
+  <line number='1019'>    protected $reboundCallbacks = [];</line>
+  <line number='1020'>    protected $globalResolvingCallbacks = [];</line>
+  <line number='1021'>    protected $globalAfterResolvingCallbacks = [];</line>
+  <line number='1022'>    protected $resolvingCallbacks = [];</line>
+  <line number='1023'>    protected $afterResolvingCallbacks = [];</line>
+  <line number='1024'>    public function when($concrete)</line>
+  <line number='1025'>    {</line>
+  <line number='1531'>use Illuminate\Filesystem\Filesystem;</line>
+  <line number='1532'>use Illuminate\Support\ServiceProvider;</line>
+  <line number='1533'>use Illuminate\Events\EventServiceProvider;</line>
+  <line number='1534'>use Illuminate\Routing\RoutingServiceProvider;</line>
+  <line number='1535'>use Symfony\Component\HttpKernel\HttpKernelInterface;</line>
+  <line number='1536'>use Symfony\Component\HttpKernel\Exception\HttpException;</line>
+  <line number='1537'>use Symfony\Component\HttpFoundation\Request as SymfonyRequest;</line>
+  <line number='1538'>use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;</line>
+  <line number='1539'>use Illuminate\Contracts\Foundation\Application as ApplicationContract;</line>
+  <line number='1540'>class Application extends Container implements ApplicationContract, HttpKernelInterface</line>
+  <line number='1541'>{</line>
+  <line number='1542'>    const VERSION = '5.1.43 (LTS)';</line>
+  <line number='1543'>    protected $basePath;</line>
+  <line number='1544'>    protected $hasBeenBootstrapped = false;</line>
+  <line number='1545'>    protected $booted = false;</line>
+  <line number='1546'>    protected $bootingCallbacks = [];</line>
+  <line number='1547'>    protected $bootedCallbacks = [];</line>
+  <line number='1548'>    protected $terminatingCallbacks = [];</line>
+  <line number='1549'>    protected $serviceProviders = [];</line>
+  <line number='1550'>    protected $loadedProviders = [];</line>
+  <line number='2499'>namespace Illuminate\Http {</line>
+  <line number='2500'>use Closure;</line>
+  <line number='2501'>use ArrayAccess;</line>
+  <line number='2502'>use SplFileInfo;</line>
+  <line number='2503'>use RuntimeException;</line>
+  <line number='2504'>use Illuminate\Support\Arr;</line>
+  <line number='2505'>use Illuminate\Support\Str;</line>
+  <line number='2506'>use Symfony\Component\HttpFoundation\ParameterBag;</line>
+  <line number='2507'>use Symfony\Component\HttpFoundation\Request as SymfonyRequest;</line>
+  <line number='2508'>class Request extends SymfonyRequest implements ArrayAccess</line>
+  <line number='2509'>{</line>
+  <line number='2510'>    protected $json;</line>
+  <line number='2511'>    protected $userResolver;</line>
+  <line number='2512'>    protected $routeResolver;</line>
+  <line number='2513'>    public static function capture()</line>
+  <line number='2514'>    {</line>
+  <line number='2515'>        static::enableHttpMethodParameterOverride();</line>
+  <line number='2516'>        return static::createFromBase(SymfonyRequest::createFromGlobals());</line>
+  <line number='2517'>    }</line>
+  <line number='2518'>    public function instance()</line>
+  <line number='2981'>        }</line>
+  <line number='2982'>        return $next($request);</line>
+  <line number='2983'>    }</line>
+  <line number='2984'>}</line>
+  <line number='2985'>}</line>
+  <line number='2986'></line>
+  <line number='2987'>namespace Symfony\Component\HttpFoundation {</line>
+  <line number='2988'>use Symfony\Component\HttpFoundation\Exception\ConflictingHeadersException;</line>
+  <line number='2989'>use Symfony\Component\HttpFoundation\Session\SessionInterface;</line>
+  <line number='2990'>class Request</line>
+  <line number='2991'>{</line>
+  <line number='2992'>    const HEADER_FORWARDED = 'forwarded';</line>
+  <line number='2993'>    const HEADER_CLIENT_IP = 'client_ip';</line>
+  <line number='2994'>    const HEADER_CLIENT_HOST = 'client_host';</line>
+  <line number='2995'>    const HEADER_CLIENT_PROTO = 'client_proto';</line>
+  <line number='2996'>    const HEADER_CLIENT_PORT = 'client_port';</line>
+  <line number='2997'>    const METHOD_HEAD = 'HEAD';</line>
+  <line number='2998'>    const METHOD_GET = 'GET';</line>
+  <line number='2999'>    const METHOD_POST = 'POST';</line>
+  <line number='3000'>    const METHOD_PUT = 'PUT';</line>
+  <line number='3069'>            }</line>
+  <line number='3070'>        }</line>
+  <line number='3071'>        $request = self::createRequestFromFactory($_GET, $_POST, array(), $_COOKIE, $_FILES, $server);</line>
+  <line number='3072'>        if (0 === strpos($request-&gt;headers-&gt;get('CONTENT_TYPE'), 'application/x-www-form-urlencoded') &amp;&amp; in_array(strtoupper($request-&gt;server-&gt;get('REQUEST_METHOD', 'GET')), array('PUT', 'DELETE', 'PATCH'))) {</line>
+  <line number='3073'>            parse_str($request-&gt;getContent(), $data);</line>
+  <line number='3074'>            $request-&gt;request = new ParameterBag($data);</line>
+  <line number='3075'>        }</line>
+  <line number='3076'>        return $request;</line>
+  <line number='3077'>    }</line>
+  <line number='3078'>    public static function create($uri, $method = 'GET', $parameters = array(), $cookies = array(), $files = array(), $server = array(), $content = null)</line>
+  <line number='3079'>    {</line>
+  <line number='3080'>        $server = array_replace(array('SERVER_NAME' =&gt; 'localhost', 'SERVER_PORT' =&gt; 80, 'HTTP_HOST' =&gt; 'localhost', 'HTTP_USER_AGENT' =&gt; 'Symfony/2.X', 'HTTP_ACCEPT' =&gt; 'text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8', 'HTTP_ACCEPT_LANGUAGE' =&gt; 'en-us,en;q=0.5', 'HTTP_ACCEPT_CHARSET' =&gt; 'ISO-8859-1,utf-8;q=0.7,*;q=0.7', 'REMOTE_ADDR' =&gt; '127.0.0.1', 'SCRIPT_NAME' =&gt; '', 'SCRIPT_FILENAME' =&gt; '', 'SERVER_PROTOCOL' =&gt; 'HTTP/1.1', 'REQUEST_TIME' =&gt; time()), $server);</line>
+  <line number='3081'>        $server['PATH_INFO'] = '';</line>
+  <line number='3082'>        $server['REQUEST_METHOD'] = strtoupper($method);</line>
+  <line number='3083'>        $components = parse_url($uri);</line>
+  <line number='3084'>        if (isset($components['host'])) {</line>
+  <line number='3085'>            $server['SERVER_NAME'] = $components['host'];</line>
+  <line number='3086'>            $server['HTTP_HOST'] = $components['host'];</line>
+  <line number='3087'>        }</line>
+  <line number='3088'>        if (isset($components['scheme'])) {</line>
+  <line number='3138'>        }</line>
+  <line number='3139'>        $server['REQUEST_URI'] = $components['path'] . ('' !== $queryString ? '?' . $queryString : '');</line>
+  <line number='3140'>        $server['QUERY_STRING'] = $queryString;</line>
+  <line number='3141'>        return self::createRequestFromFactory($query, $request, array(), $cookies, $files, $server, $content);</line>
+  <line number='3142'>    }</line>
+  <line number='3143'>    public static function setFactory($callable)</line>
+  <line number='3144'>    {</line>
+  <line number='3145'>        self::$requestFactory = $callable;</line>
+  <line number='3146'>    }</line>
+  <line number='3147'>    public function duplicate(array $query = null, array $request = null, array $attributes = null, array $cookies = null, array $files = null, array $server = null)</line>
+  <line number='3148'>    {</line>
+  <line number='3149'>        $dup = clone $this;</line>
+  <line number='3150'>        if ($query !== null) {</line>
+  <line number='3151'>            $dup-&gt;query = new ParameterBag($query);</line>
+  <line number='3152'>        }</line>
+  <line number='3153'>        if ($request !== null) {</line>
+  <line number='3154'>            $dup-&gt;request = new ParameterBag($request);</line>
+  <line number='3155'>        }</line>
+  <line number='3156'>        if ($attributes !== null) {</line>
+  <line number='3157'>            $dup-&gt;attributes = new ParameterBag($attributes);</line>
+  <line number='3308'>    }</line>
+  <line number='3309'>    public function hasSession()</line>
+  <line number='3310'>    {</line>
+  <line number='3311'>        return null !== $this-&gt;session;</line>
+  <line number='3312'>    }</line>
+  <line number='3313'>    public function setSession(SessionInterface $session)</line>
+  <line number='3314'>    {</line>
+  <line number='3315'>        $this-&gt;session = $session;</line>
+  <line number='3316'>    }</line>
+  <line number='3317'>    public function getClientIps()</line>
+  <line number='3318'>    {</line>
+  <line number='3319'>        $clientIps = array();</line>
+  <line number='3320'>        $ip = $this-&gt;server-&gt;get('REMOTE_ADDR');</line>
+  <line number='3321'>        if (!$this-&gt;isFromTrustedProxy()) {</line>
+  <line number='3322'>            return array($ip);</line>
+  <line number='3323'>        }</line>
+  <line number='3324'>        $hasTrustedForwardedHeader = self::$trustedHeaders[self::HEADER_FORWARDED] &amp;&amp; $this-&gt;headers-&gt;has(self::$trustedHeaders[self::HEADER_FORWARDED]);</line>
+  <line number='3325'>        $hasTrustedClientIpHeader = self::$trustedHeaders[self::HEADER_CLIENT_IP] &amp;&amp; $this-&gt;headers-&gt;has(self::$trustedHeaders[self::HEADER_CLIENT_IP]);</line>
+  <line number='3326'>        if ($hasTrustedForwardedHeader) {</line>
+  <line number='3327'>            $forwardedHeader = $this-&gt;headers-&gt;get(self::$trustedHeaders[self::HEADER_FORWARDED]);</line>
+  <line number='3371'>        if (null === $this-&gt;baseUrl) {</line>
+  <line number='3372'>            $this-&gt;baseUrl = $this-&gt;prepareBaseUrl();</line>
+  <line number='3373'>        }</line>
+  <line number='3374'>        return $this-&gt;baseUrl;</line>
+  <line number='3375'>    }</line>
+  <line number='3376'>    public function getScheme()</line>
+  <line number='3377'>    {</line>
+  <line number='3378'>        return $this-&gt;isSecure() ? 'https' : 'http';</line>
+  <line number='3379'>    }</line>
+  <line number='3380'>    public function getPort()</line>
+  <line number='3381'>    {</line>
+  <line number='3382'>        if ($this-&gt;isFromTrustedProxy()) {</line>
+  <line number='3383'>            if (self::$trustedHeaders[self::HEADER_CLIENT_PORT] &amp;&amp; ($port = $this-&gt;headers-&gt;get(self::$trustedHeaders[self::HEADER_CLIENT_PORT]))) {</line>
+  <line number='3384'>                return $port;</line>
+  <line number='3385'>            }</line>
+  <line number='3386'>            if (self::$trustedHeaders[self::HEADER_CLIENT_PROTO] &amp;&amp; 'https' === $this-&gt;headers-&gt;get(self::$trustedHeaders[self::HEADER_CLIENT_PROTO], 'http')) {</line>
+  <line number='3387'>                return 443;</line>
+  <line number='3388'>            }</line>
+  <line number='3389'>        }</line>
+  <line number='3390'>        if ($host = $this-&gt;headers-&gt;get('HOST')) {</line>
+  <line number='3442'>        if (null !== ($qs = $this-&gt;getQueryString())) {</line>
+  <line number='3443'>            $qs = '?' . $qs;</line>
+  <line number='3444'>        }</line>
+  <line number='3445'>        return $this-&gt;getSchemeAndHttpHost() . $this-&gt;getBaseUrl() . $this-&gt;getPathInfo() . $qs;</line>
+  <line number='3446'>    }</line>
+  <line number='3447'>    public function getUriForPath($path)</line>
+  <line number='3448'>    {</line>
+  <line number='3449'>        return $this-&gt;getSchemeAndHttpHost() . $this-&gt;getBaseUrl() . $path;</line>
+  <line number='3450'>    }</line>
+  <line number='3451'>    public function getRelativeUriForPath($path)</line>
+  <line number='3452'>    {</line>
+  <line number='3453'>        if (!isset($path[0]) || '/' !== $path[0]) {</line>
+  <line number='3454'>            return $path;</line>
+  <line number='3455'>        }</line>
+  <line number='3456'>        if ($path === ($basePath = $this-&gt;getPathInfo())) {</line>
+  <line number='3457'>            return '';</line>
+  <line number='3458'>        }</line>
+  <line number='3459'>        $sourceDirs = explode('/', isset($basePath[0]) &amp;&amp; '/' === $basePath[0] ? substr($basePath, 1) : $basePath);</line>
+  <line number='3460'>        $targetDirs = explode('/', isset($path[0]) &amp;&amp; '/' === $path[0] ? substr($path, 1) : $path);</line>
+  <line number='3461'>        array_pop($sourceDirs);</line>
+  <line number='3478'>    }</line>
+  <line number='3479'>    public function isSecure()</line>
+  <line number='3480'>    {</line>
+  <line number='3481'>        if ($this-&gt;isFromTrustedProxy() &amp;&amp; self::$trustedHeaders[self::HEADER_CLIENT_PROTO] &amp;&amp; ($proto = $this-&gt;headers-&gt;get(self::$trustedHeaders[self::HEADER_CLIENT_PROTO]))) {</line>
+  <line number='3482'>            return in_array(strtolower(current(explode(',', $proto))), array('https', 'on', 'ssl', '1'));</line>
+  <line number='3483'>        }</line>
+  <line number='3484'>        $https = $this-&gt;server-&gt;get('HTTPS');</line>
+  <line number='3485'>        return !empty($https) &amp;&amp; 'off' !== strtolower($https);</line>
+  <line number='3486'>    }</line>
+  <line number='3487'>    public function getHost()</line>
+  <line number='3488'>    {</line>
+  <line number='3489'>        if ($this-&gt;isFromTrustedProxy() &amp;&amp; self::$trustedHeaders[self::HEADER_CLIENT_HOST] &amp;&amp; ($host = $this-&gt;headers-&gt;get(self::$trustedHeaders[self::HEADER_CLIENT_HOST]))) {</line>
+  <line number='3490'>            $elements = explode(',', $host);</line>
+  <line number='3491'>            $host = $elements[count($elements) - 1];</line>
+  <line number='3492'>        } elseif (!($host = $this-&gt;headers-&gt;get('HOST'))) {</line>
+  <line number='3493'>            if (!($host = $this-&gt;server-&gt;get('SERVER_NAME'))) {</line>
+  <line number='3494'>                $host = $this-&gt;server-&gt;get('SERVER_ADDR', '');</line>
+  <line number='3495'>            }</line>
+  <line number='3496'>        }</line>
+  <line number='3497'>        $host = strtolower(preg_replace('/:\\d+$/', '', trim($host)));</line>
+  <line number='3640'>    }</line>
+  <line number='3641'>    public function getETags()</line>
+  <line number='3642'>    {</line>
+  <line number='3643'>        return preg_split('/\\s*,\\s*/', $this-&gt;headers-&gt;get('if_none_match'), null, PREG_SPLIT_NO_EMPTY);</line>
+  <line number='3644'>    }</line>
+  <line number='3645'>    public function isNoCache()</line>
+  <line number='3646'>    {</line>
+  <line number='3647'>        return $this-&gt;headers-&gt;hasCacheControlDirective('no-cache') || 'no-cache' == $this-&gt;headers-&gt;get('Pragma');</line>
+  <line number='3648'>    }</line>
+  <line number='3649'>    public function getPreferredLanguage(array $locales = null)</line>
+  <line number='3650'>    {</line>
+  <line number='3651'>        $preferredLanguages = $this-&gt;getLanguages();</line>
+  <line number='3652'>        if (empty($locales)) {</line>
+  <line number='3653'>            return isset($preferredLanguages[0]) ? $preferredLanguages[0] : null;</line>
+  <line number='3654'>        }</line>
+  <line number='3655'>        if (!$preferredLanguages) {</line>
+  <line number='3656'>            return $locales[0];</line>
+  <line number='3657'>        }</line>
+  <line number='3658'>        $extendedPreferredLanguages = array();</line>
+  <line number='3659'>        foreach ($preferredLanguages as $language) {</line>
+  <line number='3747'>            $requestUri = $this-&gt;server-&gt;get('ORIG_PATH_INFO');</line>
+  <line number='3748'>            if ('' != $this-&gt;server-&gt;get('QUERY_STRING')) {</line>
+  <line number='3749'>                $requestUri .= '?' . $this-&gt;server-&gt;get('QUERY_STRING');</line>
+  <line number='3750'>            }</line>
+  <line number='3751'>            $this-&gt;server-&gt;remove('ORIG_PATH_INFO');</line>
+  <line number='3752'>        }</line>
+  <line number='3753'>        $this-&gt;server-&gt;set('REQUEST_URI', $requestUri);</line>
+  <line number='3754'>        return $requestUri;</line>
+  <line number='3755'>    }</line>
+  <line number='3756'>    protected function prepareBaseUrl()</line>
+  <line number='3757'>    {</line>
+  <line number='3758'>        $filename = basename($this-&gt;server-&gt;get('SCRIPT_FILENAME'));</line>
+  <line number='3759'>        if (basename($this-&gt;server-&gt;get('SCRIPT_NAME')) === $filename) {</line>
+  <line number='3760'>            $baseUrl = $this-&gt;server-&gt;get('SCRIPT_NAME');</line>
+  <line number='3761'>        } elseif (basename($this-&gt;server-&gt;get('PHP_SELF')) === $filename) {</line>
+  <line number='3762'>            $baseUrl = $this-&gt;server-&gt;get('PHP_SELF');</line>
+  <line number='3763'>        } elseif (basename($this-&gt;server-&gt;get('ORIG_SCRIPT_NAME')) === $filename) {</line>
+  <line number='3764'>            $baseUrl = $this-&gt;server-&gt;get('ORIG_SCRIPT_NAME');</line>
+  <line number='3765'>        } else {</line>
+  <line number='3766'>            $path = $this-&gt;server-&gt;get('PHP_SELF', '');</line>
+  <line number='3911'>    }</line>
+  <line number='3912'>    public function replace(array $parameters = array())</line>
+  <line number='3913'>    {</line>
+  <line number='3914'>        $this-&gt;parameters = $parameters;</line>
+  <line number='3915'>    }</line>
+  <line number='3916'>    public function add(array $parameters = array())</line>
+  <line number='3917'>    {</line>
+  <line number='3918'>        $this-&gt;parameters = array_replace($this-&gt;parameters, $parameters);</line>
+  <line number='3919'>    }</line>
+  <line number='3920'>    public function get($path, $default = null, $deep = false)</line>
+  <line number='3921'>    {</line>
+  <line number='3922'>        if (!$deep || false === ($pos = strpos($path, '['))) {</line>
+  <line number='3923'>            return array_key_exists($path, $this-&gt;parameters) ? $this-&gt;parameters[$path] : $default;</line>
+  <line number='3924'>        }</line>
+  <line number='3925'>        $root = substr($path, 0, $pos);</line>
+  <line number='3926'>        if (!array_key_exists($root, $this-&gt;parameters)) {</line>
+  <line number='3927'>            return $default;</line>
+  <line number='3928'>        }</line>
+  <line number='3929'>        $value = $this-&gt;parameters[$root];</line>
+  <line number='3930'>        $currentKey = null;</line>
+  <line number='4077'>        }</line>
+  <line number='4078'>        return $files;</line>
+  <line number='4079'>    }</line>
+  <line number='4080'>}</line>
+  <line number='4081'>}</line>
+  <line number='4082'></line>
+  <line number='4083'>namespace Symfony\Component\HttpFoundation {</line>
+  <line number='4084'>class ServerBag extends ParameterBag</line>
+  <line number='4085'>{</line>
+  <line number='4086'>    public function getHeaders()</line>
+  <line number='4087'>    {</line>
+  <line number='4088'>        $headers = array();</line>
+  <line number='4089'>        $contentHeaders = array('CONTENT_LENGTH' =&gt; true, 'CONTENT_MD5' =&gt; true, 'CONTENT_TYPE' =&gt; true);</line>
+  <line number='4090'>        foreach ($this-&gt;parameters as $key =&gt; $value) {</line>
+  <line number='4091'>            if (0 === strpos($key, 'HTTP_')) {</line>
+  <line number='4092'>                $headers[substr($key, 5)] = $value;</line>
+  <line number='4093'>            } elseif (isset($contentHeaders[$key])) {</line>
+  <line number='4094'>                $headers[$key] = $value;</line>
+  <line number='4095'>            }</line>
+  <line number='4096'>        }</line>
+  <line number='4126'>        } elseif (isset($headers['PHP_AUTH_DIGEST'])) {</line>
+  <line number='4127'>            $headers['AUTHORIZATION'] = $headers['PHP_AUTH_DIGEST'];</line>
+  <line number='4128'>        }</line>
+  <line number='4129'>        return $headers;</line>
+  <line number='4130'>    }</line>
+  <line number='4131'>}</line>
+  <line number='4132'>}</line>
+  <line number='4133'></line>
+  <line number='4134'>namespace Symfony\Component\HttpFoundation {</line>
+  <line number='4135'>class HeaderBag implements \IteratorAggregate, \Countable</line>
+  <line number='4136'>{</line>
+  <line number='4137'>    protected $headers = array();</line>
+  <line number='4138'>    protected $cacheControl = array();</line>
+  <line number='4139'>    public function __construct(array $headers = array())</line>
+  <line number='4140'>    {</line>
+  <line number='4141'>        foreach ($headers as $key =&gt; $values) {</line>
+  <line number='4142'>            $this-&gt;set($key, $values);</line>
+  <line number='4143'>        }</line>
+  <line number='4144'>    }</line>
+  <line number='4145'>    public function __toString()</line>
+  <line number='4486'>    private $index = 0;</line>
+  <line number='4487'>    private $attributes = array();</line>
+  <line number='4488'>    public function __construct($value, array $attributes = array())</line>
+  <line number='4489'>    {</line>
+  <line number='4490'>        $this-&gt;value = $value;</line>
+  <line number='4491'>        foreach ($attributes as $name =&gt; $value) {</line>
+  <line number='4492'>            $this-&gt;setAttribute($name, $value);</line>
+  <line number='4493'>        }</line>
+  <line number='4494'>    }</line>
+  <line number='4495'>    public static function fromString($itemValue)</line>
+  <line number='4496'>    {</line>
+  <line number='4497'>        $bits = preg_split('/\\s*(?:;*("[^"]+");*|;*(\'[^\']+\');*|;+)\\s*/', $itemValue, 0, PREG_SPLIT_NO_EMPTY | PREG_SPLIT_DELIM_CAPTURE);</line>
+  <line number='4498'>        $value = array_shift($bits);</line>
+  <line number='4499'>        $attributes = array();</line>
+  <line number='4500'>        $lastNullAttribute = null;</line>
+  <line number='4501'>        foreach ($bits as $bit) {</line>
+  <line number='4502'>            if (($start = substr($bit, 0, 1)) === ($end = substr($bit, -1)) &amp;&amp; ($start === '"' || $start === '\'')) {</line>
+  <line number='4503'>                $attributes[$lastNullAttribute] = substr($bit, 1, -1);</line>
+  <line number='4504'>            } elseif ('=' === $end) {</line>
+  <line number='4505'>                $lastNullAttribute = $bit = substr($bit, 0, -1);</line>
+  <line number='4641'>        }</line>
+  <line number='4642'>    }</line>
+  <line number='4643'>}</line>
+  <line number='4644'>}</line>
+  <line number='4645'></line>
+  <line number='4646'>namespace Symfony\Component\Debug {</line>
+  <line number='4647'>use Symfony\Component\HttpFoundation\Response;</line>
+  <line number='4648'>use Symfony\Component\Debug\Exception\FlattenException;</line>
+  <line number='4649'>use Symfony\Component\Debug\Exception\OutOfMemoryException;</line>
+  <line number='4650'>class ExceptionHandler</line>
+  <line number='4651'>{</line>
+  <line number='4652'>    private $debug;</line>
+  <line number='4653'>    private $charset;</line>
+  <line number='4654'>    private $handler;</line>
+  <line number='4655'>    private $caughtBuffer;</line>
+  <line number='4656'>    private $caughtLength;</line>
+  <line number='4657'>    private $fileLinkFormat;</line>
+  <line number='4658'>    public function __construct($debug = true, $charset = null, $fileLinkFormat = null)</line>
+  <line number='4659'>    {</line>
+  <line number='4660'>        if (false !== strpos($charset, '%')) {</line>
+  <line number='4742'>        echo $this-&gt;decorate($this-&gt;getContent($exception), $this-&gt;getStylesheet($exception));</line>
+  <line number='4743'>    }</line>
+  <line number='4744'>    public function createResponse($exception)</line>
+  <line number='4745'>    {</line>
+  <line number='4746'>        if (!$exception instanceof FlattenException) {</line>
+  <line number='4747'>            $exception = FlattenException::create($exception);</line>
+  <line number='4748'>        }</line>
+  <line number='4749'>        return Response::create($this-&gt;decorate($this-&gt;getContent($exception), $this-&gt;getStylesheet($exception)), $exception-&gt;getStatusCode(), $exception-&gt;getHeaders())-&gt;setCharset($this-&gt;charset);</line>
+  <line number='4750'>    }</line>
+  <line number='4751'>    public function getContent(FlattenException $exception)</line>
+  <line number='4752'>    {</line>
+  <line number='4753'>        switch ($exception-&gt;getStatusCode()) {</line>
+  <line number='4754'>            case 404:</line>
+  <line number='4755'>                $title = 'Sorry, the page you are looking for could not be found.';</line>
+  <line number='4756'>                break;</line>
+  <line number='4757'>            default:</line>
+  <line number='4758'>                $title = 'Whoops, looks like something went wrong.';</line>
+  <line number='4759'>        }</line>
+  <line number='4760'>        $content = '';</line>
+  <line number='4761'>        if ($this-&gt;debug) {</line>
+  <line number='4893'>    {</line>
+  <line number='4894'>        $path = $this-&gt;escapeHtml($path);</line>
+  <line number='4895'>        $file = preg_match('#[^/\\\\]*$#', $path, $file) ? $file[0] : $path;</line>
+  <line number='4896'>        if ($linkFormat = $this-&gt;fileLinkFormat) {</line>
+  <line number='4897'>            $link = strtr($this-&gt;escapeHtml($linkFormat), array('%f' =&gt; $path, '%l' =&gt; (int) $line));</line>
+  <line number='4898'>            return sprintf(' in &lt;a href="%s" title="Go to source"&gt;%s line %d&lt;/a&gt;', $link, $file, $line);</line>
+  <line number='4899'>        }</line>
+  <line number='4900'>        return sprintf(' in &lt;a title="%s line %3$d" ondblclick="var f=this.innerHTML;this.innerHTML=this.title;this.title=f;"&gt;%s line %d&lt;/a&gt;', $path, $file, $line);</line>
+  <line number='4901'>    }</line>
+  <line number='4902'>    private function formatArgs(array $args)</line>
+  <line number='4903'>    {</line>
+  <line number='4904'>        $result = array();</line>
+  <line number='4905'>        foreach ($args as $key =&gt; $item) {</line>
+  <line number='4906'>            if ('object' === $item[0]) {</line>
+  <line number='4907'>                $formattedValue = sprintf('&lt;em&gt;object&lt;/em&gt;(%s)', $this-&gt;formatClass($item[1]));</line>
+  <line number='4908'>            } elseif ('array' === $item[0]) {</line>
+  <line number='4909'>                $formattedValue = sprintf('&lt;em&gt;array&lt;/em&gt;(%s)', is_array($item[1]) ? $this-&gt;formatArgs($item[1]) : $item[1]);</line>
+  <line number='4910'>            } elseif ('string' === $item[0]) {</line>
+  <line number='4911'>                $formattedValue = sprintf("'%s'", $this-&gt;escapeHtml($item[1]));</line>
+  <line number='4912'>            } elseif ('null' === $item[0]) {</line>
+  <line number='4986'>        }</line>
+  <line number='4987'>        static::$publishes[$class] = array_merge(static::$publishes[$class], $paths);</line>
+  <line number='4988'>        if ($group) {</line>
+  <line number='4989'>            if (!array_key_exists($group, static::$publishGroups)) {</line>
+  <line number='4990'>                static::$publishGroups[$group] = [];</line>
+  <line number='4991'>            }</line>
+  <line number='4992'>            static::$publishGroups[$group] = array_merge(static::$publishGroups[$group], $paths);</line>
+  <line number='4993'>        }</line>
+  <line number='4994'>    }</line>
+  <line number='4995'>    public static function pathsToPublish($provider = null, $group = null)</line>
+  <line number='4996'>    {</line>
+  <line number='4997'>        if ($provider &amp;&amp; $group) {</line>
+  <line number='4998'>            if (empty(static::$publishes[$provider]) || empty(static::$publishGroups[$group])) {</line>
+  <line number='4999'>                return [];</line>
+  <line number='5000'>            }</line>
+  <line number='5001'>            return array_intersect(static::$publishes[$provider], static::$publishGroups[$group]);</line>
+  <line number='5002'>        }</line>
+  <line number='5003'>        if ($group &amp;&amp; array_key_exists($group, static::$publishGroups)) {</line>
+  <line number='5004'>            return static::$publishGroups[$group];</line>
+  <line number='5005'>        }</line>
+  <line number='5737'>    public function hasMorePages();</line>
+  <line number='5738'>    public function isEmpty();</line>
+  <line number='5739'>    public function render(Presenter $presenter = null);</line>
+  <line number='5740'>}</line>
+  <line number='5741'>}</line>
+  <line number='5742'></line>
+  <line number='5743'>namespace Illuminate\Pagination {</line>
+  <line number='5744'>use Closure;</line>
+  <line number='5745'>use ArrayIterator;</line>
+  <line number='5746'>abstract class AbstractPaginator</line>
+  <line number='5747'>{</line>
+  <line number='5748'>    protected $items;</line>
+  <line number='5749'>    protected $perPage;</line>
+  <line number='5750'>    protected $currentPage;</line>
+  <line number='5751'>    protected $path = '/';</line>
+  <line number='5752'>    protected $query = [];</line>
+  <line number='5753'>    protected $fragment = null;</line>
+  <line number='5754'>    protected $pageName = 'page';</line>
+  <line number='5755'>    protected static $currentPathResolver;</line>
+  <line number='5756'>    protected static $currentPageResolver;</line>
+  <line number='6127'>            }</line>
+  <line number='6128'>        }</line>
+  <line number='6129'>        throw new BadMethodCallException("Method {$method} does not exist.");</line>
+  <line number='6130'>    }</line>
+  <line number='6131'>}</line>
+  <line number='6132'>}</line>
+  <line number='6133'></line>
+  <line number='6134'>namespace Illuminate\Support {</line>
+  <line number='6135'>use Illuminate\Support\Traits\Macroable;</line>
+  <line number='6136'>class Arr</line>
+  <line number='6137'>{</line>
+  <line number='6138'>    use Macroable;</line>
+  <line number='6139'>    public static function add($array, $key, $value)</line>
+  <line number='6140'>    {</line>
+  <line number='6141'>        if (is_null(static::get($array, $key))) {</line>
+  <line number='6142'>            static::set($array, $key, $value);</line>
+  <line number='6143'>        }</line>
+  <line number='6144'>        return $array;</line>
+  <line number='6145'>    }</line>
+  <line number='6146'>    public static function build($array, callable $callback)</line>
+  <line number='6360'>        }</line>
+  <line number='6361'>        return $filtered;</line>
+  <line number='6362'>    }</line>
+  <line number='6363'>}</line>
+  <line number='6364'>}</line>
+  <line number='6365'></line>
+  <line number='6366'>namespace Illuminate\Support {</line>
+  <line number='6367'>use Stringy\StaticStringy;</line>
+  <line number='6368'>use Illuminate\Support\Traits\Macroable;</line>
+  <line number='6369'>class Str</line>
+  <line number='6370'>{</line>
+  <line number='6371'>    use Macroable;</line>
+  <line number='6372'>    protected static $snakeCache = [];</line>
+  <line number='6373'>    protected static $camelCache = [];</line>
+  <line number='6374'>    protected static $studlyCache = [];</line>
+  <line number='6375'>    public static function ascii($value)</line>
+  <line number='6376'>    {</line>
+  <line number='6377'>        return StaticStringy::toAscii($value);</line>
+  <line number='6378'>    }</line>
+  <line number='6379'>    public static function camel($value)</line>
+  <line number='6653'>}</line>
+  <line number='6654'>}</line>
+  <line number='6655'></line>
+  <line number='6656'>namespace Illuminate\Filesystem {</line>
+  <line number='6657'>use ErrorException;</line>
+  <line number='6658'>use FilesystemIterator;</line>
+  <line number='6659'>use Symfony\Component\Finder\Finder;</line>
+  <line number='6660'>use Illuminate\Support\Traits\Macroable;</line>
+  <line number='6661'>use Illuminate\Contracts\Filesystem\FileNotFoundException;</line>
+  <line number='6662'>class Filesystem</line>
+  <line number='6663'>{</line>
+  <line number='6664'>    use Macroable;</line>
+  <line number='6665'>    public function exists($path)</line>
+  <line number='6666'>    {</line>
+  <line number='6667'>        return file_exists($path);</line>
+  <line number='6668'>    }</line>
+  <line number='6669'>    public function get($path)</line>
+  <line number='6670'>    {</line>
+  <line number='6671'>        if ($this-&gt;isFile($path)) {</line>
+  <line number='6672'>            return file_get_contents($path);</line>
+  <line number='7277'>use Illuminate\Support\Collection;</line>
+  <line number='7278'>use Illuminate\Container\Container;</line>
+  <line number='7279'>use Illuminate\Support\Traits\Macroable;</line>
+  <line number='7280'>use Illuminate\Contracts\Events\Dispatcher;</line>
+  <line number='7281'>use Psr\Http\Message\ResponseInterface as PsrResponseInterface;</line>
+  <line number='7282'>use Symfony\Bridge\PsrHttpMessage\Factory\HttpFoundationFactory;</line>
+  <line number='7283'>use Illuminate\Contracts\Routing\Registrar as RegistrarContract;</line>
+  <line number='7284'>use Symfony\Component\HttpFoundation\Response as SymfonyResponse;</line>
+  <line number='7285'>use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;</line>
+  <line number='7286'>class Router implements RegistrarContract</line>
+  <line number='7287'>{</line>
+  <line number='7288'>    use Macroable;</line>
+  <line number='7289'>    protected $events;</line>
+  <line number='7290'>    protected $container;</line>
+  <line number='7291'>    protected $routes;</line>
+  <line number='7292'>    protected $current;</line>
+  <line number='7293'>    protected $currentRequest;</line>
+  <line number='7294'>    protected $middleware = [];</line>
+  <line number='7295'>    protected $patternFilters = [];</line>
+  <line number='7296'>    protected $regexFilters = [];</line>
+  <line number='7397'>        if (!empty($this-&gt;groupStack)) {</line>
+  <line number='7398'>            $attributes = $this-&gt;mergeGroup($attributes, end($this-&gt;groupStack));</line>
+  <line number='7399'>        }</line>
+  <line number='7400'>        $this-&gt;groupStack[] = $attributes;</line>
+  <line number='7401'>    }</line>
+  <line number='7402'>    public function mergeWithLastGroup($new)</line>
+  <line number='7403'>    {</line>
+  <line number='7404'>        return $this-&gt;mergeGroup($new, end($this-&gt;groupStack));</line>
+  <line number='7405'>    }</line>
+  <line number='7406'>    public static function mergeGroup($new, $old)</line>
+  <line number='7407'>    {</line>
+  <line number='7408'>        $new['namespace'] = static::formatUsesPrefix($new, $old);</line>
+  <line number='7409'>        $new['prefix'] = static::formatGroupPrefix($new, $old);</line>
+  <line number='7410'>        if (isset($new['domain'])) {</line>
+  <line number='7411'>            unset($old['domain']);</line>
+  <line number='7412'>        }</line>
+  <line number='7413'>        $new['where'] = array_merge(isset($old['where']) ? $old['where'] : [], isset($new['where']) ? $new['where'] : []);</line>
+  <line number='7414'>        if (isset($old['as'])) {</line>
+  <line number='7415'>            $new['as'] = $old['as'] . (isset($new['as']) ? $new['as'] : '');</line>
+  <line number='7416'>        }</line>
+  <line number='7836'>use UnexpectedValueException;</line>
+  <line number='7837'>use Illuminate\Container\Container;</line>
+  <line number='7838'>use Illuminate\Routing\Matching\UriValidator;</line>
+  <line number='7839'>use Illuminate\Routing\Matching\HostValidator;</line>
+  <line number='7840'>use Illuminate\Routing\Matching\MethodValidator;</line>
+  <line number='7841'>use Illuminate\Routing\Matching\SchemeValidator;</line>
+  <line number='7842'>use Symfony\Component\Routing\Route as SymfonyRoute;</line>
+  <line number='7843'>use Illuminate\Http\Exception\HttpResponseException;</line>
+  <line number='7844'>use Symfony\Component\HttpKernel\Exception\NotFoundHttpException;</line>
+  <line number='7845'>class Route</line>
+  <line number='7846'>{</line>
+  <line number='7847'>    use RouteDependencyResolverTrait;</line>
+  <line number='7848'>    protected $uri;</line>
+  <line number='7849'>    protected $methods;</line>
+  <line number='7850'>    protected $action;</line>
+  <line number='7851'>    protected $defaults = [];</line>
+  <line number='7852'>    protected $wheres = [];</line>
+  <line number='7853'>    protected $parameters;</line>
+  <line number='7854'>    protected $parameterNames;</line>
+  <line number='7855'>    protected $compiled;</line>
+  <line number='8478'>        $path = $route-&gt;getPath();</line>
+  <line number='8479'>        $result = self::compilePattern($route, $path, false);</line>
+  <line number='8480'>        $staticPrefix = $result['staticPrefix'];</line>
+  <line number='8481'>        $pathVariables = $result['variables'];</line>
+  <line number='8482'>        $variables = array_merge($variables, $pathVariables);</line>
+  <line number='8483'>        $tokens = $result['tokens'];</line>
+  <line number='8484'>        $regex = $result['regex'];</line>
+  <line number='8485'>        return new CompiledRoute($staticPrefix, $regex, $tokens, $pathVariables, $hostRegex, $hostTokens, $hostVariables, array_unique($variables));</line>
+  <line number='8486'>    }</line>
+  <line number='8487'>    private static function compilePattern(Route $route, $pattern, $isHost)</line>
+  <line number='8488'>    {</line>
+  <line number='8489'>        $tokens = array();</line>
+  <line number='8490'>        $variables = array();</line>
+  <line number='8491'>        $matches = array();</line>
+  <line number='8492'>        $pos = 0;</line>
+  <line number='8493'>        $defaultSeparator = $isHost ? '.' : '/';</line>
+  <line number='8494'>        preg_match_all('#\\{\\w+\\}#', $pattern, $matches, PREG_OFFSET_CAPTURE | PREG_SET_ORDER);</line>
+  <line number='8495'>        foreach ($matches as $match) {</line>
+  <line number='8496'>            $varName = substr($match[0][0], 1, -1);</line>
+  <line number='8497'>            $precedingText = substr($pattern, $pos, $match[0][1] - $pos);</line>
+  <line number='8568'>                }</line>
+  <line number='8569'>                return $regexp;</line>
+  <line number='8570'>            }</line>
+  <line number='8571'>        }</line>
+  <line number='8572'>    }</line>
+  <line number='8573'>}</line>
+  <line number='8574'>}</line>
+  <line number='8575'></line>
+  <line number='8576'>namespace Symfony\Component\Routing {</line>
+  <line number='8577'>class Route implements \Serializable</line>
+  <line number='8578'>{</line>
+  <line number='8579'>    private $path = '/';</line>
+  <line number='8580'>    private $host = '';</line>
+  <line number='8581'>    private $schemes = array();</line>
+  <line number='8582'>    private $methods = array();</line>
+  <line number='8583'>    private $defaults = array();</line>
+  <line number='8584'>    private $requirements = array();</line>
+  <line number='8585'>    private $options = array();</line>
+  <line number='8586'>    private $compiled;</line>
+  <line number='8587'>    private $condition = '';</line>
+  <line number='9105'></line>
+  <line number='9106'>namespace Illuminate\Routing {</line>
+  <line number='9107'>use Illuminate\Support\Arr;</line>
+  <line number='9108'>use Illuminate\Support\Str;</line>
+  <line number='9109'>use Illuminate\Http\Request;</line>
+  <line number='9110'>use InvalidArgumentException;</line>
+  <line number='9111'>use Illuminate\Support\Traits\Macroable;</line>
+  <line number='9112'>use Illuminate\Contracts\Routing\UrlRoutable;</line>
+  <line number='9113'>use Illuminate\Contracts\Routing\UrlGenerator as UrlGeneratorContract;</line>
+  <line number='9114'>class UrlGenerator implements UrlGeneratorContract</line>
+  <line number='9115'>{</line>
+  <line number='9116'>    use Macroable;</line>
+  <line number='9117'>    protected $routes;</line>
+  <line number='9118'>    protected $request;</line>
+  <line number='9119'>    protected $forcedRoot;</line>
+  <line number='9120'>    protected $forceSchema;</line>
+  <line number='9121'>    protected $cachedRoot;</line>
+  <line number='9122'>    protected $cachedSchema;</line>
+  <line number='9123'>    protected $rootNamespace;</line>
+  <line number='9124'>    protected $sessionResolver;</line>
+  <line number='9420'>use Illuminate\Pipeline\Pipeline;</line>
+  <line number='9421'>use Illuminate\Support\Collection;</line>
+  <line number='9422'>use Illuminate\Contracts\Queue\Queue;</line>
+  <line number='9423'>use Illuminate\Contracts\Bus\SelfHandling;</line>
+  <line number='9424'>use Illuminate\Contracts\Queue\ShouldQueue;</line>
+  <line number='9425'>use Illuminate\Contracts\Container\Container;</line>
+  <line number='9426'>use Illuminate\Contracts\Bus\HandlerResolver;</line>
+  <line number='9427'>use Illuminate\Contracts\Bus\QueueingDispatcher;</line>
+  <line number='9428'>use Illuminate\Contracts\Bus\Dispatcher as DispatcherContract;</line>
+  <line number='9429'>class Dispatcher implements DispatcherContract, QueueingDispatcher, HandlerResolver</line>
+  <line number='9430'>{</line>
+  <line number='9431'>    protected $container;</line>
+  <line number='9432'>    protected $pipeline;</line>
+  <line number='9433'>    protected $pipes = [];</line>
+  <line number='9434'>    protected $queueResolver;</line>
+  <line number='9435'>    protected $mappings = [];</line>
+  <line number='9436'>    protected $mapper;</line>
+  <line number='9437'>    public function __construct(Container $container, Closure $queueResolver = null)</line>
+  <line number='9438'>    {</line>
+  <line number='9439'>        $this-&gt;container = $container;</line>
+  <line number='9723'>namespace Illuminate\Events {</line>
+  <line number='9724'>use Exception;</line>
+  <line number='9725'>use ReflectionClass;</line>
+  <line number='9726'>use Illuminate\Support\Str;</line>
+  <line number='9727'>use Illuminate\Container\Container;</line>
+  <line number='9728'>use Illuminate\Contracts\Broadcasting\ShouldBroadcast;</line>
+  <line number='9729'>use Illuminate\Contracts\Broadcasting\ShouldBroadcastNow;</line>
+  <line number='9730'>use Illuminate\Contracts\Events\Dispatcher as DispatcherContract;</line>
+  <line number='9731'>use Illuminate\Contracts\Container\Container as ContainerContract;</line>
+  <line number='9732'>class Dispatcher implements DispatcherContract</line>
+  <line number='9733'>{</line>
+  <line number='9734'>    protected $container;</line>
+  <line number='9735'>    protected $listeners = [];</line>
+  <line number='9736'>    protected $wildcards = [];</line>
+  <line number='9737'>    protected $sorted = [];</line>
+  <line number='9738'>    protected $firing = [];</line>
+  <line number='9739'>    protected $queueResolver;</line>
+  <line number='9740'>    public function __construct(ContainerContract $container = null)</line>
+  <line number='9741'>    {</line>
+  <line number='9742'>        $this-&gt;container = $container ?: new Container();</line>
+  <line number='9784'>    }</line>
+  <line number='9785'>    public function flush($event)</line>
+  <line number='9786'>    {</line>
+  <line number='9787'>        $this-&gt;fire($event . '_pushed');</line>
+  <line number='9788'>    }</line>
+  <line number='9789'>    public function firing()</line>
+  <line number='9790'>    {</line>
+  <line number='9791'>        return last($this-&gt;firing);</line>
+  <line number='9792'>    }</line>
+  <line number='9793'>    public function fire($event, $payload = [], $halt = false)</line>
+  <line number='9794'>    {</line>
+  <line number='9795'>        if (is_object($event)) {</line>
+  <line number='9796'>            list($payload, $event) = [[$event], get_class($event)];</line>
+  <line number='9797'>        }</line>
+  <line number='9798'>        $responses = [];</line>
+  <line number='9799'>        if (!is_array($payload)) {</line>
+  <line number='9800'>            $payload = [$payload];</line>
+  <line number='9801'>        }</line>
+  <line number='9802'>        $this-&gt;firing[] = $event;</line>
+  <line number='9803'>        if (isset($payload[0]) &amp;&amp; $payload[0] instanceof ShouldBroadcast) {</line>
+  <line number='9956'>use Illuminate\Database\Eloquent\Relations\MorphOne;</line>
+  <line number='9957'>use Illuminate\Support\Collection as BaseCollection;</line>
+  <line number='9958'>use Illuminate\Database\Eloquent\Relations\MorphMany;</line>
+  <line number='9959'>use Illuminate\Database\Eloquent\Relations\BelongsTo;</line>
+  <line number='9960'>use Illuminate\Database\Query\Builder as QueryBuilder;</line>
+  <line number='9961'>use Illuminate\Database\Eloquent\Relations\MorphToMany;</line>
+  <line number='9962'>use Illuminate\Database\Eloquent\Relations\BelongsToMany;</line>
+  <line number='9963'>use Illuminate\Database\Eloquent\Relations\HasManyThrough;</line>
+  <line number='9964'>use Illuminate\Database\ConnectionResolverInterface as Resolver;</line>
+  <line number='9965'>abstract class Model implements ArrayAccess, Arrayable, Jsonable, JsonSerializable, QueueableEntity, UrlRoutable</line>
+  <line number='9966'>{</line>
+  <line number='9967'>    protected $connection;</line>
+  <line number='9968'>    protected $table;</line>
+  <line number='9969'>    protected $primaryKey = 'id';</line>
+  <line number='9970'>    protected $perPage = 15;</line>
+  <line number='9971'>    public $incrementing = true;</line>
+  <line number='9972'>    public $timestamps = true;</line>
+  <line number='9973'>    protected $attributes = [];</line>
+  <line number='9974'>    protected $original = [];</line>
+  <line number='9975'>    protected $relations = [];</line>
+  <line number='10995'>    }</line>
+  <line number='10996'>    protected function isJsonCastable($key)</line>
+  <line number='10997'>    {</line>
+  <line number='10998'>        return $this-&gt;hasCast($key) &amp;&amp; in_array($this-&gt;getCastType($key), ['array', 'json', 'object', 'collection'], true);</line>
+  <line number='10999'>    }</line>
+  <line number='11000'>    protected function getCastType($key)</line>
+  <line number='11001'>    {</line>
+  <line number='11002'>        return trim(strtolower($this-&gt;casts[$key]));</line>
+  <line number='11003'>    }</line>
+  <line number='11004'>    protected function castAttribute($key, $value)</line>
+  <line number='11005'>    {</line>
+  <line number='11006'>        if (is_null($value)) {</line>
+  <line number='11007'>            return $value;</line>
+  <line number='11008'>        }</line>
+  <line number='11009'>        switch ($this-&gt;getCastType($key)) {</line>
+  <line number='11010'>            case 'int':</line>
+  <line number='11011'>            case 'integer':</line>
+  <line number='11012'>                return (int) $value;</line>
+  <line number='11013'>            case 'real':</line>
+  <line number='11014'>            case 'float':</line>
+  <line number='11665'></line>
+  <line number='11666'>namespace Illuminate\Session {</line>
+  <line number='11667'>use Illuminate\Support\Arr;</line>
+  <line number='11668'>use Illuminate\Support\Str;</line>
+  <line number='11669'>use SessionHandlerInterface;</line>
+  <line number='11670'>use InvalidArgumentException;</line>
+  <line number='11671'>use Symfony\Component\HttpFoundation\Request;</line>
+  <line number='11672'>use Symfony\Component\HttpFoundation\Session\SessionBagInterface;</line>
+  <line number='11673'>use Symfony\Component\HttpFoundation\Session\Storage\MetadataBag;</line>
+  <line number='11674'>class Store implements SessionInterface</line>
+  <line number='11675'>{</line>
+  <line number='11676'>    protected $id;</line>
+  <line number='11677'>    protected $name;</line>
+  <line number='11678'>    protected $attributes = [];</line>
+  <line number='11679'>    protected $bags = [];</line>
+  <line number='11680'>    protected $metaBag;</line>
+  <line number='11681'>    protected $bagData = [];</line>
+  <line number='11682'>    protected $handler;</line>
+  <line number='11683'>    protected $started = false;</line>
+  <line number='11684'>    public function __construct($name, SessionHandlerInterface $handler, $id = null)</line>
+  <line number='12108'>use ArrayAccess;</line>
+  <line number='12109'>use ArrayIterator;</line>
+  <line number='12110'>use CachingIterator;</line>
+  <line number='12111'>use JsonSerializable;</line>
+  <line number='12112'>use IteratorAggregate;</line>
+  <line number='12113'>use InvalidArgumentException;</line>
+  <line number='12114'>use Illuminate\Support\Traits\Macroable;</line>
+  <line number='12115'>use Illuminate\Contracts\Support\Jsonable;</line>
+  <line number='12116'>use Illuminate\Contracts\Support\Arrayable;</line>
+  <line number='12117'>class Collection implements ArrayAccess, Arrayable, Countable, IteratorAggregate, Jsonable, JsonSerializable</line>
+  <line number='12118'>{</line>
+  <line number='12119'>    use Macroable;</line>
+  <line number='12120'>    protected $items = [];</line>
+  <line number='12121'>    public function __construct($items = [])</line>
+  <line number='12122'>    {</line>
+  <line number='12123'>        $this-&gt;items = is_array($items) ? $items : $this-&gt;getArrayableItems($items);</line>
+  <line number='12124'>    }</line>
+  <line number='12125'>    public static function make($items = [])</line>
+  <line number='12126'>    {</line>
+  <line number='12127'>        return new static($items);</line>
+  <line number='12845'>use Monolog\Logger as MonologLogger;</line>
+  <line number='12846'>use Monolog\Formatter\LineFormatter;</line>
+  <line number='12847'>use Monolog\Handler\ErrorLogHandler;</line>
+  <line number='12848'>use Monolog\Handler\RotatingFileHandler;</line>
+  <line number='12849'>use Illuminate\Contracts\Support\Jsonable;</line>
+  <line number='12850'>use Illuminate\Contracts\Events\Dispatcher;</line>
+  <line number='12851'>use Illuminate\Contracts\Support\Arrayable;</line>
+  <line number='12852'>use Psr\Log\LoggerInterface as PsrLoggerInterface;</line>
+  <line number='12853'>use Illuminate\Contracts\Logging\Log as LogContract;</line>
+  <line number='12854'>class Writer implements LogContract, PsrLoggerInterface</line>
+  <line number='12855'>{</line>
+  <line number='12856'>    protected $monolog;</line>
+  <line number='12857'>    protected $dispatcher;</line>
+  <line number='12858'>    protected $levels = ['debug' =&gt; MonologLogger::DEBUG, 'info' =&gt; MonologLogger::INFO, 'notice' =&gt; MonologLogger::NOTICE, 'warning' =&gt; MonologLogger::WARNING, 'error' =&gt; MonologLogger::ERROR, 'critical' =&gt; MonologLogger::CRITICAL, 'alert' =&gt; MonologLogger::ALERT, 'emergency' =&gt; MonologLogger::EMERGENCY];</line>
+  <line number='12859'>    public function __construct(MonologLogger $monolog, Dispatcher $dispatcher = null)</line>
+  <line number='12860'>    {</line>
+  <line number='12861'>        $this-&gt;monolog = $monolog;</line>
+  <line number='12862'>        if (isset($dispatcher)) {</line>
+  <line number='12863'>            $this-&gt;dispatcher = $dispatcher;</line>
+  <line number='12864'>        }</line>
+  <line number='12995'>    }</line>
+  <line number='12996'>}</line>
+  <line number='12997'>}</line>
+  <line number='12998'></line>
+  <line number='12999'>namespace Monolog {</line>
+  <line number='13000'>use Monolog\Handler\HandlerInterface;</line>
+  <line number='13001'>use Monolog\Handler\StreamHandler;</line>
+  <line number='13002'>use Psr\Log\LoggerInterface;</line>
+  <line number='13003'>use Psr\Log\InvalidArgumentException;</line>
+  <line number='13004'>class Logger implements LoggerInterface</line>
+  <line number='13005'>{</line>
+  <line number='13006'>    const DEBUG = 100;</line>
+  <line number='13007'>    const INFO = 200;</line>
+  <line number='13008'>    const NOTICE = 250;</line>
+  <line number='13009'>    const WARNING = 300;</line>
+  <line number='13010'>    const ERROR = 400;</line>
+  <line number='13011'>    const CRITICAL = 500;</line>
+  <line number='13012'>    const ALERT = 550;</line>
+  <line number='13013'>    const EMERGENCY = 600;</line>
+  <line number='13014'>    const API = 1;</line>
+  <line number='13075'>    }</line>
+  <line number='13076'>    public function getProcessors()</line>
+  <line number='13077'>    {</line>
+  <line number='13078'>        return $this-&gt;processors;</line>
+  <line number='13079'>    }</line>
+  <line number='13080'>    public function useMicrosecondTimestamps($micro)</line>
+  <line number='13081'>    {</line>
+  <line number='13082'>        $this-&gt;microsecondTimestamps = (bool) $micro;</line>
+  <line number='13083'>    }</line>
+  <line number='13084'>    public function addRecord($level, $message, array $context = array())</line>
+  <line number='13085'>    {</line>
+  <line number='13086'>        if (!$this-&gt;handlers) {</line>
+  <line number='13087'>            $this-&gt;pushHandler(new StreamHandler('php://stderr', static::DEBUG));</line>
+  <line number='13088'>        }</line>
+  <line number='13089'>        $levelName = static::getLevelName($level);</line>
+  <line number='13090'>        $handlerKey = null;</line>
+  <line number='13091'>        reset($this-&gt;handlers);</line>
+  <line number='13092'>        while ($handler = current($this-&gt;handlers)) {</line>
+  <line number='13093'>            if ($handler-&gt;isHandling(array('level' =&gt; $level))) {</line>
+  <line number='13094'>                $handlerKey = key($this-&gt;handlers);</line>
+  <line number='13585'>interface FormatterInterface</line>
+  <line number='13586'>{</line>
+  <line number='13587'>    public function format(array $record);</line>
+  <line number='13588'>    public function formatBatch(array $records);</line>
+  <line number='13589'>}</line>
+  <line number='13590'>}</line>
+  <line number='13591'></line>
+  <line number='13592'>namespace Monolog\Formatter {</line>
+  <line number='13593'>use Exception;</line>
+  <line number='13594'>class NormalizerFormatter implements FormatterInterface</line>
+  <line number='13595'>{</line>
+  <line number='13596'>    const SIMPLE_DATE = "Y-m-d H:i:s";</line>
+  <line number='13597'>    protected $dateFormat;</line>
+  <line number='13598'>    public function __construct($dateFormat = null)</line>
+  <line number='13599'>    {</line>
+  <line number='13600'>        $this-&gt;dateFormat = $dateFormat ?: static::SIMPLE_DATE;</line>
+  <line number='13601'>        if (!function_exists('json_encode')) {</line>
+  <line number='13602'>            throw new \RuntimeException('PHP\'s json extension is required to use Monolog\'s NormalizerFormatter');</line>
+  <line number='13603'>        }</line>
+  <line number='13604'>    }</line>
+  <line number='13607'>        return $this-&gt;normalize($record);</line>
+  <line number='13608'>    }</line>
+  <line number='13609'>    public function formatBatch(array $records)</line>
+  <line number='13610'>    {</line>
+  <line number='13611'>        foreach ($records as $key =&gt; $record) {</line>
+  <line number='13612'>            $records[$key] = $this-&gt;format($record);</line>
+  <line number='13613'>        }</line>
+  <line number='13614'>        return $records;</line>
+  <line number='13615'>    }</line>
+  <line number='13616'>    protected function normalize($data)</line>
+  <line number='13617'>    {</line>
+  <line number='13618'>        if (null === $data || is_scalar($data)) {</line>
+  <line number='13619'>            if (is_float($data)) {</line>
+  <line number='13620'>                if (is_infinite($data)) {</line>
+  <line number='13621'>                    return ($data &gt; 0 ? '' : '-') . 'INF';</line>
+  <line number='13622'>                }</line>
+  <line number='13623'>                if (is_nan($data)) {</line>
+  <line number='13624'>                    return 'NaN';</line>
+  <line number='13625'>                }</line>
+  <line number='13626'>            }</line>
+  <line number='13651'>                $value = $this-&gt;toJson($data, true);</line>
+  <line number='13652'>            }</line>
+  <line number='13653'>            return sprintf("[object] (%s: %s)", get_class($data), $value);</line>
+  <line number='13654'>        }</line>
+  <line number='13655'>        if (is_resource($data)) {</line>
+  <line number='13656'>            return sprintf('[resource] (%s)', get_resource_type($data));</line>
+  <line number='13657'>        }</line>
+  <line number='13658'>        return '[unknown(' . gettype($data) . ')]';</line>
+  <line number='13659'>    }</line>
+  <line number='13660'>    protected function normalizeException($e)</line>
+  <line number='13661'>    {</line>
+  <line number='13662'>        if (!$e instanceof Exception &amp;&amp; !$e instanceof \Throwable) {</line>
+  <line number='13663'>            throw new \InvalidArgumentException('Exception/Throwable expected, got ' . gettype($e) . ' / ' . get_class($e));</line>
+  <line number='13664'>        }</line>
+  <line number='13665'>        $data = array('class' =&gt; get_class($e), 'message' =&gt; $e-&gt;getMessage(), 'code' =&gt; $e-&gt;getCode(), 'file' =&gt; $e-&gt;getFile() . ':' . $e-&gt;getLine());</line>
+  <line number='13666'>        if ($e instanceof \SoapFault) {</line>
+  <line number='13667'>            if (isset($e-&gt;faultcode)) {</line>
+  <line number='13668'>                $data['faultcode'] = $e-&gt;faultcode;</line>
+  <line number='13669'>            }</line>
+  <line number='13670'>            if (isset($e-&gt;faultactor)) {</line>
+  <line number='13781'>    }</line>
+  <line number='13782'>    public function allowInlineLineBreaks($allow = true)</line>
+  <line number='13783'>    {</line>
+  <line number='13784'>        $this-&gt;allowInlineLineBreaks = $allow;</line>
+  <line number='13785'>    }</line>
+  <line number='13786'>    public function ignoreEmptyContextAndExtra($ignore = true)</line>
+  <line number='13787'>    {</line>
+  <line number='13788'>        $this-&gt;ignoreEmptyContextAndExtra = $ignore;</line>
+  <line number='13789'>    }</line>
+  <line number='13790'>    public function format(array $record)</line>
+  <line number='13791'>    {</line>
+  <line number='13792'>        $vars = parent::format($record);</line>
+  <line number='13793'>        $output = $this-&gt;format;</line>
+  <line number='13794'>        foreach ($vars['extra'] as $var =&gt; $val) {</line>
+  <line number='13795'>            if (false !== strpos($output, '%extra.' . $var . '%')) {</line>
+  <line number='13796'>                $output = str_replace('%extra.' . $var . '%', $this-&gt;stringify($val), $output);</line>
+  <line number='13797'>                unset($vars['extra'][$var]);</line>
+  <line number='13798'>            }</line>
+  <line number='13799'>        }</line>
+  <line number='13800'>        foreach ($vars['context'] as $var =&gt; $val) {</line>
+  <line number='14044'>use Closure;</line>
+  <line number='14045'>use Illuminate\Support\Arr;</line>
+  <line number='14046'>use Illuminate\Support\Str;</line>
+  <line number='14047'>use InvalidArgumentException;</line>
+  <line number='14048'>use Illuminate\Contracts\Support\Arrayable;</line>
+  <line number='14049'>use Illuminate\View\Engines\EngineResolver;</line>
+  <line number='14050'>use Illuminate\Contracts\Events\Dispatcher;</line>
+  <line number='14051'>use Illuminate\Contracts\Container\Container;</line>
+  <line number='14052'>use Illuminate\Contracts\View\Factory as FactoryContract;</line>
+  <line number='14053'>class Factory implements FactoryContract</line>
+  <line number='14054'>{</line>
+  <line number='14055'>    protected $engines;</line>
+  <line number='14056'>    protected $finder;</line>
+  <line number='14057'>    protected $events;</line>
+  <line number='14058'>    protected $container;</line>
+  <line number='14059'>    protected $shared = [];</line>
+  <line number='14060'>    protected $aliases = [];</line>
+  <line number='14061'>    protected $names = [];</line>
+  <line number='14062'>    protected $extensions = ['blade.php' =&gt; 'blade', 'php' =&gt; 'php'];</line>
+  <line number='14063'>    protected $composers = [];</line>
+  <type type='checkstyle' number='1797' suppressed='1697'/>
+  <type type='pmd' number='130' suppressed='30'/>
+</file>

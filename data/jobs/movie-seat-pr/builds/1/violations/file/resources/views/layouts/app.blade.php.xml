@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="resources/views/layouts/app.blade.php"
+  last-modified="1474359103000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/resources/views/layouts/app.blade.php"
+>
+  <violation
+    line="1"
+    source="NoCodeFound"
+    severity="Medium"
+    type="checkstyle"
+    message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+    severity-level="2"
+    popup-message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+  />
+  <line number='1'>&lt;!DOCTYPE html&gt;</line>
+  <line number='2'>&lt;html lang="en"&gt;</line>
+  <line number='3'>&lt;head&gt;</line>
+  <line number='4'>    &lt;meta charset="utf-8"&gt;</line>
+  <line number='5'>    &lt;meta http-equiv="X-UA-Compatible" content="IE=edge"&gt;</line>
+  <line number='6'>    &lt;meta name="viewport" content="width=device-width, initial-scale=1"&gt;</line>
+  <line number='7'>    &lt;meta name="csrf-token" content="{{{ Session::token() }}}"&gt;</line>
+  <line number='8'>    &lt;title&gt;Laravel&lt;/title&gt;</line>
+  <line number='9'></line>
+  <line number='10'>    &lt;!-- Fonts --&gt;</line>
+  <line number='11'>    &lt;link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.5.0/css/font-awesome.min.css" integrity="sha384-XdYbMnZ/QjLh6iI4ogqCTaIjrFk87ip+ekIjefZch0Y+PvJ8CDYtEs1ipDmPorQ+" crossorigin="anonymous"&gt;</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

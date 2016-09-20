@@ -1,0 +1,276 @@
+<violations>
+  <type name='checkstyle'>
+    <file
+      name="bootstrap/cache/compiled.php"
+      count = '1797'>
+      <severity level="0" count="1087"/>
+      <severity level="2" count="710"/>
+      <source  name="PrivateNoUnderscore" count="425"/>
+      <source  name="Indent" count="2"/>
+      <source  name="TooLong" count="700"/>
+      <source  name="CloseBracketLine" count="136"/>
+      <source  name="MaxExceeded" count="184"/>
+      <source  name="NotCamelCaps" count="4"/>
+      <source  name="SpaceBeforeBrace" count="200"/>
+      <source  name="ContentAfterOpenBracket" count="136"/>
+      <source  name="ContainsNumbers" count="10"/>
+  </file>
+    <file
+      name="resources/lang/en/validation.php"
+      count = '10'>
+      <severity level="2" count="10"/>
+      <source  name="TooLong" count="10"/>
+  </file>
+    <file
+      name="app/Services/FizzbuzzService.php"
+      count = '6'>
+      <severity level="2" count="6"/>
+      <source  name="ContainsNumbers" count="6"/>
+  </file>
+    <file
+      name="app/Http/Controllers/Auth/AuthController.php"
+      count = '4'>
+      <severity level="0" count="4"/>
+      <source  name="CloseBracketLine" count="2"/>
+      <source  name="ContentAfterOpenBracket" count="2"/>
+  </file>
+    <file
+      name="app/Http/routes.php"
+      count = '4'>
+      <severity level="0" count="2"/>
+      <severity level="2" count="2"/>
+      <source  name="TooLong" count="2"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="app/Providers/RouteServiceProvider.php"
+      count = '4'>
+      <severity level="0" count="3"/>
+      <severity level="2" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+      <source  name="TooLong" count="1"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="app/SeatReservation.php"
+      count = '4'>
+      <severity level="0" count="3"/>
+      <severity level="2" count="1"/>
+      <source  name="PrivateNoUnderscore" count="3"/>
+      <source  name="TooLong" count="1"/>
+  </file>
+    <file
+      name="app/Http/Kernel.php"
+      count = '3'>
+      <severity level="0" count="2"/>
+      <severity level="2" count="1"/>
+      <source  name="PrivateNoUnderscore" count="2"/>
+      <source  name="TooLong" count="1"/>
+  </file>
+    <file
+      name="app/Post.php"
+      count = '3'>
+      <severity level="0" count="3"/>
+      <source  name="PrivateNoUnderscore" count="3"/>
+  </file>
+    <file
+      name="app/User.php"
+      count = '3'>
+      <severity level="0" count="3"/>
+      <source  name="PrivateNoUnderscore" count="3"/>
+  </file>
+    <file
+      name="public/code_completation.php"
+      count = '3'>
+      <severity level="0" count="2"/>
+      <severity level="2" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+      <source  name="BraceOnSameLine" count="1"/>
+      <source  name="ContainsNumbers" count="1"/>
+  </file>
+    <file
+      name="app/Console/Commands/FizzbuzzCommand.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="PrivateNoUnderscore" count="2"/>
+  </file>
+    <file
+      name="app/Console/Commands/Inspire.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="PrivateNoUnderscore" count="2"/>
+  </file>
+    <file
+      name="app/Providers/AuthServiceProvider.php"
+      count = '2'>
+      <severity level="0" count="1"/>
+      <severity level="2" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+      <source  name="TooLong" count="1"/>
+  </file>
+    <file
+      name="app/Providers/EventServiceProvider.php"
+      count = '2'>
+      <severity level="0" count="1"/>
+      <severity level="2" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+      <source  name="TooLong" count="1"/>
+  </file>
+    <file
+      name="database/factories/ModelFactory.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="database/migrations/2014_10_12_000000_create_users_table.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="database/migrations/2014_10_12_100000_create_password_resets_table.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="database/migrations/2016_09_06_041041_create_posts_table.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="database/migrations/2016_09_08_023622_create_seat_reservations_table.php"
+      count = '2'>
+      <severity level="0" count="2"/>
+      <source  name="CloseBracketLine" count="1"/>
+      <source  name="ContentAfterOpenBracket" count="1"/>
+  </file>
+    <file
+      name="app/Console/Kernel.php"
+      count = '1'>
+      <severity level="0" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+  </file>
+    <file
+      name="app/Exceptions/Handler.php"
+      count = '1'>
+      <severity level="0" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+  </file>
+    <file
+      name="app/Http/Middleware/Authenticate.php"
+      count = '1'>
+      <severity level="0" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+  </file>
+    <file
+      name="app/Http/Middleware/EncryptCookies.php"
+      count = '1'>
+      <severity level="0" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+  </file>
+    <file
+      name="app/Http/Middleware/RedirectIfAuthenticated.php"
+      count = '1'>
+      <severity level="0" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+  </file>
+    <file
+      name="app/Http/Middleware/VerifyCsrfToken.php"
+      count = '1'>
+      <severity level="0" count="1"/>
+      <source  name="PrivateNoUnderscore" count="1"/>
+  </file>
+    <file
+      name="resources/lang/en/auth.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="TooLong" count="1"/>
+  </file>
+    <file
+      name="resources/lang/en/passwords.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="TooLong" count="1"/>
+  </file>
+    <file
+      name="resources/views/errors/503.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/layouts/app.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/posts/create.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/posts/edit.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/posts/index.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/posts/show.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/seat_reservations/index.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/seat_reservations/list.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+    <file
+      name="resources/views/welcome.blade.php"
+      count = '1'>
+      <severity level="2" count="1"/>
+      <source  name="NoCodeFound" count="1"/>
+  </file>
+  </type>
+  <type name='cpd'>
+  </type>
+  <type name='pmd'>
+    <file
+      name="bootstrap/cache/compiled.php"
+      count = '130'>
+      <severity level="2" count="130"/>
+      <source  name="ExcessivePublicCount" count="9"/>
+      <source  name="TooManyMethods" count="15"/>
+      <source  name="CyclomaticComplexity" count="28"/>
+      <source  name="TooManyPublicMethods" count="28"/>
+      <source  name="ExcessiveClassComplexity" count="23"/>
+      <source  name="NPathComplexity" count="22"/>
+      <source  name="ExcessiveClassLength" count="1"/>
+      <source  name="TooManyFields" count="4"/>
+  </file>
+  </type>
+</violations>

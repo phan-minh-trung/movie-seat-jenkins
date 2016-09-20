@@ -1,0 +1,559 @@
+Started by user [8mha:AAAAlx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyuEgZu/dLi1CL9kqLSvHQACK7OgMAAAAA=[0mminh trung
+Building in workspace /var/jenkins_home/workspace/movie-seat-pr
+Cloning the remote Git repository
+Cloning repository git@github.com:phan-minh-trung/movie-seat.git
+ > git init /var/jenkins_home/workspace/movie-seat-pr # timeout=10
+Fetching upstream changes from git@github.com:phan-minh-trung/movie-seat.git
+ > git --version # timeout=10
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress git@github.com:phan-minh-trung/movie-seat.git +refs/heads/*:refs/remotes/origin/*
+ > git config remote.origin.url git@github.com:phan-minh-trung/movie-seat.git # timeout=10
+ > git config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git config remote.origin.url git@github.com:phan-minh-trung/movie-seat.git # timeout=10
+Fetching upstream changes from git@github.com:phan-minh-trung/movie-seat.git
+using GIT_SSH to set credentials 
+ > git fetch --tags --progress git@github.com:phan-minh-trung/movie-seat.git +refs/pull/*:refs/remotes/origin/pr/*
+ > git rev-parse refs/remotes/origin/pr/3/merge^{commit} # timeout=10
+ > git rev-parse refs/remotes/origin/origin/pr/3/merge^{commit} # timeout=10
+Checking out Revision 04f4a9ce954bad2575aea78ba2e958d8e1c984ba (refs/remotes/origin/pr/3/merge)
+ > git config core.sparsecheckout # timeout=10
+ > git checkout -f 04f4a9ce954bad2575aea78ba2e958d8e1c984ba
+First time build. Skipping changelog.
+[movie-seat-pr] $ /bin/sh -xe /tmp/hudson4366120777200987221.sh
++ rm -rf composer.lock
++ composer install
+Do not run Composer as root/super user! See https://getcomposer.org/root for details
+Loading composer repositories with package information
+Updating dependencies (including require-dev)
+  - Installing pusher/pusher-php-server (v2.6.0)
+    Loading from cache
+
+  - Installing squizlabs/php_codesniffer (2.7.0)
+    Loading from cache
+
+  - Installing symfony/yaml (v3.1.4)
+    Loading from cache
+
+  - Installing symfony/process (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/finder (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/event-dispatcher (v2.8.11)
+    Loading from cache
+
+  - Installing symfony/polyfill-mbstring (v1.2.0)
+    Loading from cache
+
+  - Installing symfony/console (v2.7.18)
+    Loading from cache
+
+  - Installing sebastian/recursion-context (1.0.2)
+    Loading from cache
+
+  - Installing sebastian/exporter (1.2.2)
+    Loading from cache
+
+  - Installing doctrine/instantiator (1.0.5)
+    Loading from cache
+
+  - Installing sebastian/diff (1.4.1)
+    Loading from cache
+
+  - Installing sebastian/comparator (1.2.0)
+    Loading from cache
+
+  - Installing webmozart/assert (1.1.0)
+    Loading from cache
+
+  - Installing phpdocumentor/reflection-common (1.0)
+    Loading from cache
+
+  - Installing phpdocumentor/type-resolver (0.2)
+    Loading from cache
+
+  - Installing phpdocumentor/reflection-docblock (3.1.0)
+    Loading from cache
+
+  - Installing phpspec/prophecy (v1.6.1)
+    Loading from cache
+
+  - Installing phpspec/php-diff (v1.0.2)
+    Loading from cache
+
+  - Installing phpspec/phpspec (2.5.2)
+    Loading from cache
+
+  - Installing vlucas/phpdotenv (v1.1.1)
+    Loading from cache
+
+  - Installing symfony/var-dumper (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/translation (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/routing (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/http-foundation (v2.7.18)
+    Loading from cache
+
+  - Installing psr/log (1.0.1)
+    Loading from cache
+
+  - Installing symfony/debug (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/http-kernel (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/dom-crawler (v2.7.18)
+    Loading from cache
+
+  - Installing symfony/css-selector (v2.7.18)
+    Loading from cache
+
+  - Installing swiftmailer/swiftmailer (v5.4.3)
+    Loading from cache
+
+  - Installing jakub-onderka/php-console-color (0.1)
+    Loading from cache
+
+  - Installing jakub-onderka/php-console-highlighter (v0.3.2)
+    Loading from cache
+
+  - Installing dnoegel/php-xdg-base-dir (0.1)
+    Loading from cache
+
+  - Installing nesbot/carbon (1.21.0)
+    Loading from cache
+
+  - Installing mtdowling/cron-expression (v1.1.0)
+    Loading from cache
+
+  - Installing monolog/monolog (1.21.0)
+    Loading from cache
+
+  - Installing league/flysystem (1.0.27)
+    Loading from cache
+
+  - Installing symfony/polyfill-util (v1.2.0)
+    Loading from cache
+
+  - Installing symfony/polyfill-php56 (v1.2.0)
+    Loading from cache
+
+  - Installing nikic/php-parser (v2.1.1)
+    Loading from cache
+
+  - Installing jeremeamia/superclosure (2.2.0)
+    Loading from cache
+
+  - Installing doctrine/inflector (v1.1.0)
+    Loading from cache
+
+  - Installing danielstjules/stringy (1.10.0)
+    Loading from cache
+
+  - Installing psy/psysh (v0.7.2)
+    Loading from cache
+
+  - Installing paragonie/random_compat (v1.4.1)
+    Loading from cache
+
+  - Installing classpreloader/classpreloader (3.0.0)
+    Loading from cache
+
+  - Installing laravel/framework (v5.1.43)
+    Loading from cache
+
+  - Installing appzcoder/crud-generator (v1.2.1)
+    Loading from cache
+
+  - Installing laravelcollective/html (v5.1.9)
+    Loading from cache
+
+  - Installing symfony/class-loader (v3.1.4)
+    Loading from cache
+
+  - Installing barryvdh/reflection-docblock (v2.0.4)
+    Loading from cache
+
+  - Installing barryvdh/laravel-ide-helper (v2.2.1)
+    Loading from cache
+
+  - Installing doctrine/lexer (v1.0.1)
+    Loading from cache
+
+  - Installing doctrine/collections (v1.3.0)
+    Loading from cache
+
+  - Installing doctrine/cache (v1.6.0)
+    Loading from cache
+
+  - Installing doctrine/annotations (v1.2.7)
+    Loading from cache
+
+  - Installing doctrine/common (v2.6.1)
+    Loading from cache
+
+  - Installing doctrine/dbal (v2.5.5)
+    Loading from cache
+
+  - Installing sebastian/version (1.0.6)
+    Loading from cache
+
+  - Installing sebastian/git (2.1.3)
+    Loading from cache
+
+  - Installing theseer/fdomdocument (1.6.1)
+    Loading from cache
+
+  - Installing sebastian/finder-facade (1.2.1)
+    Loading from cache
+
+  - Installing phploc/phploc (3.0.1)
+    Loading from cache
+
+  - Installing sebastian/global-state (1.1.1)
+    Loading from cache
+
+  - Installing sebastian/environment (1.3.8)
+    Loading from cache
+
+  - Installing phpunit/php-text-template (1.2.1)
+    Loading from cache
+
+  - Installing phpunit/phpunit-mock-objects (2.3.8)
+    Loading from cache
+
+  - Installing phpunit/php-timer (1.0.8)
+    Loading from cache
+
+  - Installing phpunit/php-file-iterator (1.4.1)
+    Loading from cache
+
+  - Installing phpunit/php-token-stream (1.4.8)
+    Loading from cache
+
+  - Installing phpunit/php-code-coverage (2.2.4)
+    Loading from cache
+
+  - Installing phpunit/phpunit (4.8.27)
+    Loading from cache
+
+  - Installing sebastian/phpcpd (2.0.4)
+    Loading from cache
+
+  - Installing symfony/filesystem (v3.1.4)
+    Loading from cache
+
+  - Installing symfony/dependency-injection (v3.1.4)
+    Loading from cache
+
+  - Installing symfony/config (v3.1.4)
+    Loading from cache
+
+  - Installing pdepend/pdepend (2.2.4)
+    Loading from cache
+
+  - Installing phpmd/phpmd (2.4.3)
+    Loading from cache
+
+  - Installing fzaninotto/faker (v1.6.0)
+    Loading from cache
+
+  - Installing hamcrest/hamcrest-php (v1.2.2)
+    Loading from cache
+
+  - Installing mockery/mockery (0.9.5)
+    Loading from cache
+
+phpspec/phpspec suggests installing phpspec/nyan-formatters (~1.0 – Adds Nyan formatters)
+symfony/var-dumper suggests installing ext-symfony_debug ()
+symfony/routing suggests installing symfony/expression-language (For using expression matching)
+symfony/http-kernel suggests installing symfony/browser-kit ()
+monolog/monolog suggests installing aws/aws-sdk-php (Allow sending log messages to AWS services like DynamoDB)
+monolog/monolog suggests installing doctrine/couchdb (Allow sending log messages to a CouchDB server)
+monolog/monolog suggests installing ext-amqp (Allow sending log messages to an AMQP server (1.0+ required))
+monolog/monolog suggests installing ext-mongo (Allow sending log messages to a MongoDB server)
+monolog/monolog suggests installing graylog2/gelf-php (Allow sending log messages to a GrayLog2 server)
+monolog/monolog suggests installing mongodb/mongodb (Allow sending log messages to a MongoDB server via PHP Driver)
+monolog/monolog suggests installing php-amqplib/php-amqplib (Allow sending log messages to an AMQP server using php-amqplib)
+monolog/monolog suggests installing php-console/php-console (Allow sending log messages to Google Chrome)
+monolog/monolog suggests installing rollbar/rollbar (Allow sending log messages to Rollbar)
+monolog/monolog suggests installing ruflin/elastica (Allow sending log messages to an Elastic Search server)
+monolog/monolog suggests installing sentry/sentry (Allow sending log messages to a Sentry server)
+league/flysystem suggests installing league/flysystem-aws-s3-v2 (Allows you to use S3 storage with AWS SDK v2)
+league/flysystem suggests installing league/flysystem-aws-s3-v3 (Allows you to use S3 storage with AWS SDK v3)
+league/flysystem suggests installing league/flysystem-azure (Allows you to use Windows Azure Blob storage)
+league/flysystem suggests installing league/flysystem-cached-adapter (Flysystem adapter decorator for metadata caching)
+league/flysystem suggests installing league/flysystem-copy (Allows you to use Copy.com storage)
+league/flysystem suggests installing league/flysystem-dropbox (Allows you to use Dropbox storage)
+league/flysystem suggests installing league/flysystem-eventable-filesystem (Allows you to use EventableFilesystem)
+league/flysystem suggests installing league/flysystem-rackspace (Allows you to use Rackspace Cloud Files)
+league/flysystem suggests installing league/flysystem-sftp (Allows you to use SFTP server storage via phpseclib)
+league/flysystem suggests installing league/flysystem-webdav (Allows you to use WebDAV storage)
+league/flysystem suggests installing league/flysystem-ziparchive (Allows you to use ZipArchive adapter)
+psy/psysh suggests installing ext-pdo-sqlite (The doc command requires SQLite to work.)
+paragonie/random_compat suggests installing ext-libsodium (Provides a modern crypto API that can be used to generate random bytes.)
+laravel/framework suggests installing aws/aws-sdk-php (Required to use the SQS queue driver and SES mail driver (~3.0).)
+laravel/framework suggests installing guzzlehttp/guzzle (Required to use the Mailgun and Mandrill mail drivers and the ping methods on schedules (~5.3|~6.0).)
+laravel/framework suggests installing iron-io/iron_mq (Required to use the iron queue driver (~2.0).)
+laravel/framework suggests installing league/flysystem-aws-s3-v3 (Required to use the Flysystem S3 driver (~1.0).)
+laravel/framework suggests installing league/flysystem-rackspace (Required to use the Flysystem Rackspace driver (~1.0).)
+laravel/framework suggests installing pda/pheanstalk (Required to use the beanstalk queue driver (~3.0).)
+laravel/framework suggests installing predis/predis (Required to use the redis cache and queue drivers (~1.0).)
+laravel/framework suggests installing symfony/psr-http-message-bridge (Required to psr7 bridging features (0.2.*).)
+symfony/class-loader suggests installing symfony/polyfill-apcu (For using ApcClassLoader on HHVM)
+barryvdh/reflection-docblock suggests installing dflydev/markdown (~1.0)
+barryvdh/reflection-docblock suggests installing erusev/parsedown (~1.0)
+sebastian/global-state suggests installing ext-uopz (*)
+phpunit/php-code-coverage suggests installing ext-xdebug (>=2.2.1)
+phpunit/phpunit suggests installing phpunit/php-invoker (~1.1)
+symfony/dependency-injection suggests installing symfony/expression-language (For using expressions in service container configuration)
+symfony/dependency-injection suggests installing symfony/proxy-manager-bridge (Generate service proxies to lazy load them)
+Writing lock file
+Generating autoload files
+> Illuminate\Foundation\ComposerScripts::postUpdate
+> php artisan optimize
+Generating optimized class loader
+Compiling common classes
++ pwd -P
++ PROJECTPATH=/var/jenkins_home/workspace/movie-seat-pr
++ export PATH=/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/var/jenkins_home/workspace/movie-seat-pr/vendor/bin
+[movie-seat-pr] $ ant -DPR_ID=3
+Buildfile: /var/jenkins_home/workspace/movie-seat-pr/build.xml
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mclean:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mprepare:
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-pr/build/api
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-pr/build/code-browser
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-pr/build/coverage
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-pr/build/logs
+    [mkdir] Created dir: /var/jenkins_home/workspace/movie-seat-pr/build/pdepend
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mlint:
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Console/Commands/FizzbuzzCommand.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Console/Commands/Inspire.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Console/Kernel.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Events/Event.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Exceptions/Handler.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Controllers/Auth/AuthController.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Controllers/Auth/PasswordController.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Controllers/Controller.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Controllers/PostsController.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Controllers/SeatReservationsController.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Kernel.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Middleware/Authenticate.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Middleware/EncryptCookies.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Middleware/RedirectIfAuthenticated.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Middleware/VerifyCsrfToken.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/Requests/Request.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Http/routes.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Jobs/Job.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Post.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Providers/AppServiceProvider.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Providers/AuthServiceProvider.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Providers/EventServiceProvider.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Providers/RouteServiceProvider.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/SeatReservation.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/Services/FizzbuzzService.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/app/User.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/bootstrap/app.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/bootstrap/autoload.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/bootstrap/cache/compiled.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/app.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/auth.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/broadcasting.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/cache.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/compile.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/crudgenerator.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/database.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/filesystems.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/mail.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/queue.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/services.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/session.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/config/view.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/factories/ModelFactory.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/migrations/2014_10_12_000000_create_users_table.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/migrations/2014_10_12_100000_create_password_resets_table.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/migrations/2016_09_06_041041_create_posts_table.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/migrations/2016_09_08_023622_create_seat_reservations_table.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/seeds/DatabaseSeeder.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/database/seeds/UsersSeeder.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/public/code_completation.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/public/index.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/lang/en/auth.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/lang/en/pagination.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/lang/en/passwords.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/lang/en/validation.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/errors/503.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/layouts/app.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/posts/create.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/posts/edit.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/posts/index.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/posts/show.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/seat_reservations/index.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/seat_reservations/list.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/resources/views/welcome.blade.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/server.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/tests/FizzbuzzServiceTest.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/tests/HelloTest.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/tests/PraserMarkdownTest.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/tests/PrimenumberServiceTest.php
+    [apply] No syntax errors detected in /var/jenkins_home/workspace/movie-seat-pr/tests/TestCase.php
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphploc:
+     [exec] phploc 3.0.1 by Sebastian Bergmann.
+     [exec] 
+     [exec] PHP Notice:  Undefined index: ccn in /var/jenkins_home/workspace/movie-seat-pr/vendor/phploc/phploc/src/Analyser.php on line 508
+     [exec] Directories                                       1201
+     [exec] Files                                             5933
+     [exec] 
+     [exec] Size
+     [exec]   Lines of Code (LOC)                           838152
+     [exec]   Comment Lines of Code (CLOC)                  250076 (29.84%)
+     [exec]   Non-Comment Lines of Code (NCLOC)             588076 (70.16%)
+     [exec]   Logical Lines of Code (LLOC)                  156597 (18.68%)
+     [exec]     Classes                                     140677 (89.83%)
+     [exec]       Average Class Length                          21
+     [exec]         Minimum Class Length                         0
+     [exec]         Maximum Class Length                      1631
+     [exec]       Average Method Length                          3
+     [exec]         Minimum Method Length                        0
+     [exec]         Maximum Method Length                      398
+     [exec]     Functions                                     1105 (0.71%)
+     [exec]       Average Function Length                        0
+     [exec]     Not in classes or functions                  14815 (9.46%)
+     [exec] 
+     [exec] Cyclomatic Complexity
+     [exec]   Average Complexity per LLOC                     0.24
+     [exec]   Average Complexity per Class                    6.69
+     [exec]     Minimum Class Complexity                      1.00
+     [exec]     Maximum Class Complexity                    536.00
+     [exec]   Average Complexity per Method                   1.98
+     [exec]     Minimum Method Complexity                     1.00
+     [exec]     Maximum Method Complexity                   269.00
+     [exec] 
+     [exec] Dependencies
+     [exec]   Global Accesses                                 3157
+     [exec]     Global Constants                              2830 (89.64%)
+     [exec]     Global Variables                               104 (3.29%)
+     [exec]     Super-Global Variables                         223 (7.06%)
+     [exec]   Attribute Accesses                             45655
+     [exec]     Non-Static                                   43095 (94.39%)
+     [exec]     Static                                        2560 (5.61%)
+     [exec]   Method Calls                                   97783
+     [exec]     Non-Static                                   89751 (91.79%)
+     [exec]     Static                                        8032 (8.21%)
+     [exec] 
+     [exec] Structure
+     [exec]   Namespaces                                       844
+     [exec]   Interfaces                                       545
+     [exec]   Traits                                            78
+     [exec]   Classes                                         5787
+     [exec]     Abstract Classes                               268 (4.63%)
+     [exec]     Concrete Classes                              5519 (95.37%)
+     [exec]   Methods                                        38624
+     [exec]     Scope
+     [exec]       Non-Static Methods                         36157 (93.61%)
+     [exec]       Static Methods                              2467 (6.39%)
+     [exec]     Visibility
+     [exec]       Public Methods                             30724 (79.55%)
+     [exec]       Non-Public Methods                          7900 (20.45%)
+     [exec]   Functions                                       1886
+     [exec]     Named Functions                                428 (22.69%)
+     [exec]     Anonymous Functions                           1458 (77.31%)
+     [exec]   Constants                                       1537
+     [exec]     Global Constants                               163 (10.61%)
+     [exec]     Class Constants                               1374 (89.39%)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mpdepend:
+     [exec] PDepend 2.2.4
+     [exec] 
+     [exec] Parsing source files:
+     [exec] ............................................................    60
+     [exec] .....                                                           65
+     [exec] 
+     [exec] Calculating Dependency metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] ........................                                      2891
+     [exec] 
+     [exec] Calculating Coupling metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] ............................................................  3600
+     [exec] .......                                                       3758
+     [exec] 
+     [exec] Calculating Cyclomatic Complexity metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] .................................................             3390
+     [exec] 
+     [exec] Calculating Inheritance metrics:
+     [exec] .........................................................     1157
+     [exec] 
+     [exec] Calculating Node Count metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] .................                                             2749
+     [exec] 
+     [exec] Calculating Node Loc metrics:
+     [exec] ............................................................  1200
+     [exec] ............................................................  2400
+     [exec] ............................                                  2974
+     [exec] 
+     [exec] Generating pdepend log files, this may take a moment.
+     [exec] 
+     [exec] Time: 0:02:49; Memory: 310.75Mb
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpmd-ci:
+     [exec] Result: 2
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpcs-ci:
+     [exec] Result: 1
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpcpd:
+     [exec] phpcpd 2.0.4 by Sebastian Bergmann.
+     [exec] 
+     [exec] 0.00% duplicated lines out of 973 total lines of code.
+     [exec] 
+     [exec] Time: 971 ms, Memory: 4.50MB
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mphpunit:
+     [exec] PHPUnit 4.8.27 by Sebastian Bergmann and contributors.
+     [exec] Warning:	The Xdebug extension is not loaded
+     [exec] 		No code coverage will be generated.
+     [exec] 
+     [exec] ...............
+     [exec] 
+     [exec] Time: 6.44 seconds, Memory: 11.75MB
+     [exec] 
+     [exec] OK (15 tests, 23 assertions)
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQT6jNKU4P0+vJLE4u1gvPjGvRM8xryQksSg9tcQvvyTVvqNr/s+Vl9uYGBgqihikoKqT8/OK83NS9ZwhNEghAwQwghQWAADROOumXQAAAA==[0mbuild:
+
+[8mha:AAAAYB+LCAAAAAAAAP9b85aBtbiIQSGjNKU4P0+vJLE4u1gvPjGvRM8xr8S/tCQ5PzfVL78ktUuDM0uMry+HiYGhoohBCqo8OT+vOD8nVc8ZQoMUMkAAI0hhAQAUXUdTXgAAAA==[0mBUILD SUCCESSFUL
+Total time: 10 minutes 44 seconds
+[CHECKSTYLE] Collecting checkstyle analysis files...
+[CHECKSTYLE] Finding all files that match the pattern build/logs/checkstyle.xml
+[CHECKSTYLE] Parsing 1 file in /var/jenkins_home/workspace/movie-seat-pr
+[CHECKSTYLE] Successfully parsed file /var/jenkins_home/workspace/movie-seat-pr/build/logs/checkstyle.xml with 1876 unique warnings and 0 duplicates.
+[PMD] Collecting PMD analysis files...
+[PMD] Finding all files that match the pattern build/logs/pmd.xml
+[PMD] Parsing 1 file in /var/jenkins_home/workspace/movie-seat-pr
+[PMD] Successfully parsed file /var/jenkins_home/workspace/movie-seat-pr/build/logs/pmd.xml with 130 unique warnings and 0 duplicates.
+[DRY] Collecting duplicate code analysis files...
+[DRY] Finding all files that match the pattern build/logs/pmd-cpd.xml
+[DRY] Parsing 1 file in /var/jenkins_home/workspace/movie-seat-pr
+[DRY] Successfully parsed file /var/jenkins_home/workspace/movie-seat-pr/build/logs/pmd-cpd.xml with 0 unique warnings and 0 duplicates.
+[JDepend] JDepend plugin is ready
+[JDepend] Found 285 classes in 87 packages
+Build step 'Report Violations' changed build result to UNSTABLE
+Finished: UNSTABLE

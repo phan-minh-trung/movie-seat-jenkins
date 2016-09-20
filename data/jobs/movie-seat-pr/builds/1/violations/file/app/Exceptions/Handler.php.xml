@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Exceptions/Handler.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/app/Exceptions/Handler.php"
+>
+  <violation
+    line="18"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;dontReport&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;dontReport&quot; must contain a leading underscore"
+  />
+  <line number='9'>use Illuminate\Foundation\Exceptions\Handler as ExceptionHandler;</line>
+  <line number='10'></line>
+  <line number='11'>class Handler extends ExceptionHandler</line>
+  <line number='12'>{</line>
+  <line number='13'>    /**</line>
+  <line number='14'>     * A list of the exception types that should not be reported.</line>
+  <line number='15'>     *</line>
+  <line number='16'>     * @var array</line>
+  <line number='17'>     */</line>
+  <line number='18'>    protected $dontReport = [</line>
+  <line number='19'>        HttpException::class,</line>
+  <line number='20'>        ModelNotFoundException::class,</line>
+  <line number='21'>    ];</line>
+  <line number='22'></line>
+  <line number='23'>    /**</line>
+  <line number='24'>     * Report or log an exception.</line>
+  <line number='25'>     *</line>
+  <line number='26'>     * This is a great spot to send exceptions to Sentry, Bugsnag, etc.</line>
+  <line number='27'>     *</line>
+  <line number='28'>     * @param  \Exception  $e</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

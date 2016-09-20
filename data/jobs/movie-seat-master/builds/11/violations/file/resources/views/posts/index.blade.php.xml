@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="resources/views/posts/index.blade.php"
+  last-modified="1474349610000"
+  file="/var/jenkins_home/workspace/movie-seat-master/resources/views/posts/index.blade.php"
+>
+  <violation
+    line="1"
+    source="NoCodeFound"
+    severity="Medium"
+    type="checkstyle"
+    message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+    severity-level="2"
+    popup-message="No PHP code was found in this file and short open tags are not allowed by this install of PHP. This file may be using short open tags but PHP does not allow them."
+  />
+  <line number='1'>@extends('layouts.app')</line>
+  <line number='2'></line>
+  <line number='3'>@section('content')</line>
+  <line number='4'>&lt;div class="container"&gt;</line>
+  <line number='5'></line>
+  <line number='6'>    &lt;h1&gt;Posts &lt;a href="{{ url('/posts/create') }}" class="btn btn-primary btn-xs" title="Add New Post"&gt;&lt;span class="glyphicon glyphicon-plus" aria-hidden="true"/&gt;&lt;/a&gt;&lt;/h1&gt;</line>
+  <line number='7'>    &lt;div class="table"&gt;</line>
+  <line number='8'>        &lt;table class="table table-bordered table-striped table-hover"&gt;</line>
+  <line number='9'>            &lt;thead&gt;</line>
+  <line number='10'>                &lt;tr&gt;</line>
+  <line number='11'>                    &lt;th&gt;S.No&lt;/th&gt;&lt;th&gt; Title &lt;/th&gt;&lt;th&gt; Content &lt;/th&gt;&lt;th&gt; Category &lt;/th&gt;&lt;th&gt;Actions&lt;/th&gt;</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

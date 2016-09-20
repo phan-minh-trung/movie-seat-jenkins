@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="database/migrations/2016_09_08_023622_create_seat_reservations_table.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/database/migrations/2016_09_08_023622_create_seat_reservations_table.php"
+>
+  <violation
+    line="15"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="25"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <line number='6'>class CreateSeatReservationsTable extends Migration</line>
+  <line number='7'>{</line>
+  <line number='8'>    /**</line>
+  <line number='9'>     * Run the migrations.</line>
+  <line number='10'>     *</line>
+  <line number='11'>     * @return void</line>
+  <line number='12'>     */</line>
+  <line number='13'>    public function up()</line>
+  <line number='14'>    {</line>
+  <line number='15'>        Schema::create('seat_reservations', function (Blueprint $table) {</line>
+  <line number='16'>            $table-&gt;increments('id');</line>
+  <line number='17'>            $table-&gt;integer('movie_id');</line>
+  <line number='18'>            $table-&gt;string('name');</line>
+  <line number='19'>            $table-&gt;string('email');</line>
+  <line number='20'>            $table-&gt;string('phone');</line>
+  <line number='21'>            $table-&gt;integer('price');</line>
+  <line number='22'>            $table-&gt;string('x_tier');</line>
+  <line number='23'>            $table-&gt;string('y_tier');</line>
+  <line number='24'>            $table-&gt;timestamps();</line>
+  <line number='25'>        });</line>
+  <line number='26'>    }</line>
+  <line number='27'></line>
+  <line number='28'>    /**</line>
+  <line number='29'>     * Reverse the migrations.</line>
+  <line number='30'>     *</line>
+  <line number='31'>     * @return void</line>
+  <line number='32'>     */</line>
+  <line number='33'>    public function down()</line>
+  <line number='34'>    {</line>
+  <line number='35'>        Schema::drop('seat_reservations');</line>
+  <type type='checkstyle' number='2' suppressed='0'/>
+</file>

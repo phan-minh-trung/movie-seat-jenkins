@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="database/factories/ModelFactory.php"
+  last-modified="1474349609000"
+  file="/var/jenkins_home/workspace/movie-seat-master/database/factories/ModelFactory.php"
+>
+  <violation
+    line="14"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="21"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <line number='5'>| Model Factories</line>
+  <line number='6'>|--------------------------------------------------------------------------</line>
+  <line number='7'>|</line>
+  <line number='8'>| Here you may define all of your model factories. Model factories give</line>
+  <line number='9'>| you a convenient way to create models for testing and seeding your</line>
+  <line number='10'>| database. Just tell the factory how a default model should look.</line>
+  <line number='11'>|</line>
+  <line number='12'>*/</line>
+  <line number='13'></line>
+  <line number='14'>$factory-&gt;define(App\User::class, function (Faker\Generator $faker) {</line>
+  <line number='15'>    return [</line>
+  <line number='16'>        'name' =&gt; $faker-&gt;name,</line>
+  <line number='17'>        'email' =&gt; $faker-&gt;safeEmail,</line>
+  <line number='18'>        'password' =&gt; bcrypt(str_random(10)),</line>
+  <line number='19'>        'remember_token' =&gt; str_random(10),</line>
+  <line number='20'>    ];</line>
+  <line number='21'>});</line>
+  <type type='checkstyle' number='2' suppressed='0'/>
+</file>

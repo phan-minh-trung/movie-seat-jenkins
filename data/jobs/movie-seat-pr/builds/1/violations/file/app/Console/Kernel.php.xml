@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Console/Kernel.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/app/Console/Kernel.php"
+>
+  <violation
+    line="15"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;commands&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;commands&quot; must contain a leading underscore"
+  />
+  <line number='6'>use Illuminate\Foundation\Console\Kernel as ConsoleKernel;</line>
+  <line number='7'></line>
+  <line number='8'>class Kernel extends ConsoleKernel</line>
+  <line number='9'>{</line>
+  <line number='10'>    /**</line>
+  <line number='11'>     * The Artisan commands provided by your application.</line>
+  <line number='12'>     *</line>
+  <line number='13'>     * @var array</line>
+  <line number='14'>     */</line>
+  <line number='15'>    protected $commands = [</line>
+  <line number='16'>        Commands\Inspire::class,</line>
+  <line number='17'>        Commands\FizzbuzzCommand::class,</line>
+  <line number='18'>    ];</line>
+  <line number='19'></line>
+  <line number='20'>    /**</line>
+  <line number='21'>     * Define the application's command schedule.</line>
+  <line number='22'>     *</line>
+  <line number='23'>     * @param  \Illuminate\Console\Scheduling\Schedule  $schedule</line>
+  <line number='24'>     * @return void</line>
+  <line number='25'>     */</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>

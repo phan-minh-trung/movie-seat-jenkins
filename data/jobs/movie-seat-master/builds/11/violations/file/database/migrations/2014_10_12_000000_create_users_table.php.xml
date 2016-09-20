@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="database/migrations/2014_10_12_000000_create_users_table.php"
+  last-modified="1474349609000"
+  file="/var/jenkins_home/workspace/movie-seat-master/database/migrations/2014_10_12_000000_create_users_table.php"
+>
+  <violation
+    line="15"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="22"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <line number='6'>class CreateUsersTable extends Migration</line>
+  <line number='7'>{</line>
+  <line number='8'>    /**</line>
+  <line number='9'>     * Run the migrations.</line>
+  <line number='10'>     *</line>
+  <line number='11'>     * @return void</line>
+  <line number='12'>     */</line>
+  <line number='13'>    public function up()</line>
+  <line number='14'>    {</line>
+  <line number='15'>        Schema::create('users', function (Blueprint $table) {</line>
+  <line number='16'>            $table-&gt;increments('id');</line>
+  <line number='17'>            $table-&gt;string('name');</line>
+  <line number='18'>            $table-&gt;string('email')-&gt;unique();</line>
+  <line number='19'>            $table-&gt;string('password', 60);</line>
+  <line number='20'>            $table-&gt;rememberToken();</line>
+  <line number='21'>            $table-&gt;timestamps();</line>
+  <line number='22'>        });</line>
+  <line number='23'>    }</line>
+  <line number='24'></line>
+  <line number='25'>    /**</line>
+  <line number='26'>     * Reverse the migrations.</line>
+  <line number='27'>     *</line>
+  <line number='28'>     * @return void</line>
+  <line number='29'>     */</line>
+  <line number='30'>    public function down()</line>
+  <line number='31'>    {</line>
+  <line number='32'>        Schema::drop('users');</line>
+  <type type='checkstyle' number='2' suppressed='0'/>
+</file>

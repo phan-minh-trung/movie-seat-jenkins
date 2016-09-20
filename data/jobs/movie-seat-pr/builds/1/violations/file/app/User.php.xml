@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/User.php"
+  last-modified="1474359102000"
+  file="/var/jenkins_home/workspace/movie-seat-pr/app/User.php"
+>
+  <violation
+    line="24"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;table&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;table&quot; must contain a leading underscore"
+  />
+  <violation
+    line="31"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;fillable&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;fillable&quot; must contain a leading underscore"
+  />
+  <violation
+    line="38"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;hidden&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;hidden&quot; must contain a leading underscore"
+  />
+  <line number='15'>                                    CanResetPasswordContract</line>
+  <line number='16'>{</line>
+  <line number='17'>    use Authenticatable, Authorizable, CanResetPassword;</line>
+  <line number='18'></line>
+  <line number='19'>    /**</line>
+  <line number='20'>     * The database table used by the model.</line>
+  <line number='21'>     *</line>
+  <line number='22'>     * @var string</line>
+  <line number='23'>     */</line>
+  <line number='24'>    protected $table = 'users';</line>
+  <line number='25'></line>
+  <line number='26'>    /**</line>
+  <line number='27'>     * The attributes that are mass assignable.</line>
+  <line number='28'>     *</line>
+  <line number='29'>     * @var array</line>
+  <line number='30'>     */</line>
+  <line number='31'>    protected $fillable = ['name', 'email', 'password'];</line>
+  <line number='32'></line>
+  <line number='33'>    /**</line>
+  <line number='34'>     * The attributes excluded from the model's JSON form.</line>
+  <line number='35'>     *</line>
+  <line number='36'>     * @var array</line>
+  <line number='37'>     */</line>
+  <line number='38'>    protected $hidden = ['password', 'remember_token'];</line>
+  <line number='39'>}</line>
+  <type type='checkstyle' number='3' suppressed='0'/>
+</file>

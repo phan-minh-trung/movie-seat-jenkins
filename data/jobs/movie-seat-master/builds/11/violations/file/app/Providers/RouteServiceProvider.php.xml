@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="app/Providers/RouteServiceProvider.php"
+  last-modified="1474349609000"
+  file="/var/jenkins_home/workspace/movie-seat-master/app/Providers/RouteServiceProvider.php"
+>
+  <violation
+    line="6"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 84 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 84 characters"
+  />
+  <violation
+    line="17"
+    source="PrivateNoUnderscore"
+    severity="High"
+    type="checkstyle"
+    message="Protected member variable &quot;namespace&quot; must contain a leading underscore"
+    severity-level="0"
+    popup-message="Protected member variable &quot;namespace&quot; must contain a leading underscore"
+  />
+  <violation
+    line="40"
+    source="ContentAfterOpenBracket"
+    severity="High"
+    type="checkstyle"
+    message="Opening parenthesis of a multi-line function call must be the last content on the line"
+    severity-level="0"
+    popup-message="Opening parenthesis of a multi-line function call must be the last content on the line"
+  />
+  <violation
+    line="42"
+    source="CloseBracketLine"
+    severity="High"
+    type="checkstyle"
+    message="Closing parenthesis of a multi-line function call must be on a line by itself"
+    severity-level="0"
+    popup-message="Closing parenthesis of a multi-line function call must be on a line by itself"
+  />
+  <line number='1'>&lt;?php</line>
+  <line number='2'></line>
+  <line number='3'>namespace App\Providers;</line>
+  <line number='4'></line>
+  <line number='5'>use Illuminate\Routing\Router;</line>
+  <line number='6'>use Illuminate\Foundation\Support\Providers\RouteServiceProvider as ServiceProvider;</line>
+  <line number='7'></line>
+  <line number='8'>class RouteServiceProvider extends ServiceProvider</line>
+  <line number='9'>{</line>
+  <line number='10'>    /**</line>
+  <line number='11'>     * This namespace is applied to the controller routes in your routes file.</line>
+  <line number='12'>     *</line>
+  <line number='13'>     * In addition, it is set as the URL generator's root namespace.</line>
+  <line number='14'>     *</line>
+  <line number='15'>     * @var string</line>
+  <line number='16'>     */</line>
+  <line number='17'>    protected $namespace = 'App\Http\Controllers';</line>
+  <line number='18'></line>
+  <line number='19'>    /**</line>
+  <line number='20'>     * Define your route model bindings, pattern filters, etc.</line>
+  <line number='21'>     *</line>
+  <line number='22'>     * @param  \Illuminate\Routing\Router  $router</line>
+  <line number='23'>     * @return void</line>
+  <line number='24'>     */</line>
+  <line number='25'>    public function boot(Router $router)</line>
+  <line number='26'>    {</line>
+  <line number='27'>        //</line>
+  <line number='31'></line>
+  <line number='32'>    /**</line>
+  <line number='33'>     * Define the routes for the application.</line>
+  <line number='34'>     *</line>
+  <line number='35'>     * @param  \Illuminate\Routing\Router  $router</line>
+  <line number='36'>     * @return void</line>
+  <line number='37'>     */</line>
+  <line number='38'>    public function map(Router $router)</line>
+  <line number='39'>    {</line>
+  <line number='40'>        $router-&gt;group(['namespace' =&gt; $this-&gt;namespace], function ($router) {</line>
+  <line number='41'>            require app_path('Http/routes.php');</line>
+  <line number='42'>        });</line>
+  <line number='43'>    }</line>
+  <line number='44'>}</line>
+  <type type='checkstyle' number='4' suppressed='0'/>
+</file>

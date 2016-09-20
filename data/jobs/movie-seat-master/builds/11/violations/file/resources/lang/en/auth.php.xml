@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<file
+  name="resources/lang/en/auth.php"
+  last-modified="1474349610000"
+  file="/var/jenkins_home/workspace/movie-seat-master/resources/lang/en/auth.php"
+>
+  <violation
+    line="17"
+    source="TooLong"
+    severity="Medium"
+    type="checkstyle"
+    message="Line exceeds 80 characters; contains 83 characters"
+    severity-level="2"
+    popup-message="Line exceeds 80 characters; contains 83 characters"
+  />
+  <line number='8'>    |--------------------------------------------------------------------------</line>
+  <line number='9'>    |</line>
+  <line number='10'>    | The following language lines are used during authentication for various</line>
+  <line number='11'>    | messages that we need to display to the user. You are free to modify</line>
+  <line number='12'>    | these language lines according to your application's requirements.</line>
+  <line number='13'>    |</line>
+  <line number='14'>    */</line>
+  <line number='15'></line>
+  <line number='16'>    'failed' =&gt; 'These credentials do not match our records.',</line>
+  <line number='17'>    'throttle' =&gt; 'Too many login attempts. Please try again in :seconds seconds.',</line>
+  <line number='18'></line>
+  <line number='19'>];</line>
+  <type type='checkstyle' number='1' suppressed='0'/>
+</file>
