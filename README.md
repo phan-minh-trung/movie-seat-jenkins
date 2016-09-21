@@ -1,4 +1,9 @@
 
+# docker-in-docke
+Refer : https://www.jayway.com/2015/03/14/docker-in-docker-with-jenkins-and-supervisord/
+
+https://github.com/janinko/ghprb
+
 # Setting for movie-seat-pr
 Folder : /var/jenkins_home/workspace/movie-seat-pr
 Refs : +refs/pull/*:refs/remotes/origin/pr/*
@@ -20,7 +25,14 @@ $ docker pull jenkins
 # Run jenkins docker
 $ docker run -p 8080:8080 -p 50000:50000 -v /your/home:/var/jenkins_home jenkins
 
-$ docker run -u root -m 4096M -p 8080:8080 -p 50000:50000 -v /Users/PhanMinhTRUNG/vagrant/movie-seat-jenkins/data:/var/jenkins_home minhtrung/movie-seat-jenk
+$ docker run -u root -p 8080:8080 -p 50000:50000 -v /Users/PhanMinhTRUNG/vagrant/movie-seat-jenkins/data:/var/jenkins_home minhtrung/movie-seat-jenkins
+
+Version 2
+$ docker run -u root -p 8080:8080 -p 50000:50000 -v /Users/PhanMinhTRUNG/vagrant/movie-seat-jenkins/data:/var/jenkins_home minhtrung/jenkins_docker
+
+docker run -d -v /Users/PhanMinhTRUNG/vagrant/movie-seat-jenkins/data:/var/jenkins_home \
+                -v /var/run/docker.sock:/var/run/docker.sock \
+                -v $(which docker):/usr/bin/docker -p 8080:8080 minhtrung/movie-seat-jenkins
 
 # access ssh with root user
 $ docker exec -i -t c376f464ae01 /bin/bash
